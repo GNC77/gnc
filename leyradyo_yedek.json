@@ -33,46 +33,6 @@
   },
   {
     "id": 5,
-    "name": "TRT FM",
-    "streamUrl": "http://trt.Radyotvonline.net/trtfm",
-    "logoUrl": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/trt-fm-buyuk.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 6,
-    "name": "Radyo Alaturka",
-    "streamUrl": "https://yayin.jumboserver.net:9100/stream?.mp3",
-    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/Radyo-alaturka-dinle.jpg",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 205,
-    "name": "ASpor",
-    "streamUrl": "http://trkvz-Radyolar.ercdn.net/asporradyo/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Spor",
-    "isFavorite": false
-  },
-  {
-    "id": 83,
-    "name": "GİMSA Radyo",
-    "streamUrl": "http://yayin1.canliyayin.org:9482/stream",
-    "logoUrl": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 9,
-    "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
-    "streamUrl": "https://wowza1.Radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8",
-    "logoUrl": "https://liderfm.net/public/images/1.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 7,
     "name": "102.1 Arabeskin Merkezi Fm",
     "streamUrl": "http://canli.Arabeskinmerkezi.com:9180/stream",
     "logoUrl": "https://images.keepone.net/1376-2022-10-17.png",
@@ -80,538 +40,18 @@
     "isFavorite": false
   },
   {
-    "id": 11,
-    "name": "107.4 Radio Voyage",
-    "streamUrl": "https://dygedge.Radyotvonline.net/Radyovoyage/playlist.m3u8?listeningSessionID=689a71670b9b8fe5_27698769_NlXXFAwK__0000004u2bL&downloadSessionID=0&listenerid=196b4b4bc1d1ac4f52fcf98eeff4e532&awparams=companionAds%3Atrue",
-    "logoUrl": "https://www.Radyovoyage.com/media/rdwlpzdt/voyage_dunya-poz.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 15,
-    "name": "A Haber",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 16,
-    "name": "a PARA",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/apararadyo/playlist.m3u8",
-    "logoUrl": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 17,
-    "name": "Akra FM",
-    "streamUrl": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 18,
-    "name": "ALEM FM",
-    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/alemfm",
-    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 19,
-    "name": "Altın Şarkılar",
-    "streamUrl": "http://37.247.98.8/stream/25/;",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 20,
-    "name": "Andromeda Radio",
-    "streamUrl": "https://Radyo1.Radyo-dinle.tc/andromedaradio/stream",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 21,
-    "name": "Arkadaş Radyo",
-    "streamUrl": "http://yayin2.yayindakiler.com:4134/;stream.nsv",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 22,
-    "name": "Aşk FM",
-    "streamUrl": "http://yayin.asymedya.com:8020/;",
-    "logoUrl": "https://www.Radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 23,
-    "name": "Baby Joy",
-    "streamUrl": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac?dist=https%3A%2F%2Fkarnaval.com%2Fradyolar%2Fbabyjoy&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gender=F&age=34_45&ses=AB&title=B%2CSM%2CEH&burst-time=15&sbmid=7cd2cdcf-161d-4c67-9e51-411cedc6bfe8",
-    "logoUrl": "",
-    "category": "Çocuk",
-    "isFavorite": false
-  },
-  {
-    "id": 24,
-    "name": "Babyland Türkiye",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/babyland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Çocuk",
-    "isFavorite": false
-  },
-  {
-    "id": 26,
-    "name": "Bayram FM",
-    "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3",
-    "logoUrl": "https://www.Radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 27,
-    "name": "Best FM",
-    "streamUrl": "https://ssldyg.Radyotvonline.com/best/bestfm.stream/playlist.m3u8",
-    "logoUrl": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 28,
-    "name": "Best Hit",
-    "streamUrl": "https://wowza3.Radyotvonline.com/best/bestteen.stream/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 29,
-    "name": "Best Rap",
-    "streamUrl": "https://wowza3.Radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 30,
-    "name": "Best Slow",
-    "streamUrl": "https://hepsibest.Radyotvonline.net/bestslow",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 31,
-    "name": "BesteFM",
-    "streamUrl": "https://stream.zeno.fm/tnvnovtgozstv",
-    "logoUrl": "https://bestefm.com/assets/favicon.ico",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 32,
-    "name": "BesteFM Mix",
-    "streamUrl": "https://yayin.Radyomadyo.com:8002/",
-    "logoUrl": "https://bestefm.com/assets/favicon.ico",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 33,
-    "name": "Bodrum Fm",
-    "streamUrl": "https://live.bodrumfm.org/stream.mp3",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 34,
-    "name": "Borusan Klasik",
-    "streamUrl": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 35,
-    "name": "Çeşme Viking Radyo",
-    "streamUrl": "https://ip169.ozelip.com/8432/stream",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 36,
-    "name": "Classicland Türkiye",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/classicland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 37,
-    "name": "Cnn Türk Radyo",
-    "streamUrl": "https://moondigitaledge2.Radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
-    "logoUrl": "null",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 39,
-    "name": "Danceland",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 40,
-    "name": "DanceLand Anthems",
-    "streamUrl": "https://likeradiostream.com/dancelandanthems",
-    "logoUrl": "https://like.radio/favicon.ico",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 41,
-    "name": "Danceland Türkiye",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 42,
-    "name": "Dedemin Radyosu",
-    "streamUrl": "https://anadolu.liderhost.com.tr/9002/stream",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 43,
-    "name": "Dijital Radyo",
-    "streamUrl": "https://anadolu.liderhost.com.tr:10961/;",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 44,
-    "name": "Dijital Slow",
-    "streamUrl": "http://anadolu.liderhost.com.tr:8076/Radyo",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 45,
-    "name": "Dinamo.fm Caffe",
-    "streamUrl": "http://channels.dinamo.fm/caffe-mp3",
-    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 46,
-    "name": "Dinamo.fm Deep",
-    "streamUrl": "http://channels.dinamo.fm/deep-mp3",
-    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 47,
-    "name": "Dinamo.fm Fluent",
-    "streamUrl": "http://channels.dinamo.fm/fluent-mp3",
-    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 48,
-    "name": "Dinamo.fm Locodyno",
-    "streamUrl": "http://channels.dinamo.fm/locodyno-mp3",
-    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 49,
-    "name": "Discoland",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/discoland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Oldies",
-    "isFavorite": false
-  },
-  {
-    "id": 50,
-    "name": "Diyanet Kur'an Radyo",
-    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 51,
-    "name": "Diyanet Radyo",
-    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 52,
-    "name": "Dream Türk",
-    "streamUrl": "https://Radyo.duhnet.tv/dreamturk",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 53,
-    "name": "Dt Nostalji",
-    "streamUrl": "https://canli.dtnostalji.com.tr/9999/stream",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 54,
-    "name": "Dünyadan Sesler Radio",
-    "streamUrl": "https://stream.dodo.radio/dunyadansesler",
-    "logoUrl": "",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 55,
+    "id": 6,
     "name": "Efkar",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
-    "logoUrl": "",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/efkar-fm.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 56,
-    "name": "Maziden Bir Demet tsm",
-    "streamUrl": "http://37.247.98.8/stream/24/",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 57,
-    "name": "Enderun FM",
-    "streamUrl": "http://yayin2.canliyayin.org:7052/;*.mp3",
-    "logoUrl": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 58,
-    "name": "Enradio",
-    "streamUrl": "https://Radyo1.Radyo-dinle.tc/8098/stream",
-    "logoUrl": "https://enradio.tr/wp-content/uploads/2026/07/enradio-favicon.png",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 59,
-    "name": "Erkam Radyo",
-    "streamUrl": "https://yayin2.canliyayin.org:10910/stream?",
-    "logoUrl": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 60,
-    "name": "Erzincan Nostalji Radyo",
-    "streamUrl": "https://erzincannostalji.ozelip.com/8238/stream",
-    "logoUrl": "null",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 61,
-    "name": "Esas Radyo",
-    "streamUrl": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 62,
-    "name": "Fakir Fm",
-    "streamUrl": "https://live.Radyositesihazir.com/1025/stream/",
-    "logoUrl": "https://www.fakirfm.com/favicon.ico",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 63,
-    "name": "Fenomen Clubbin",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/256/chunks.m3u8",
-    "logoUrl": "",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 64,
-    "name": "Fenomen Dans",
-    "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 65,
-    "name": "Fenomen Karışık",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 66,
-    "name": "Fenomen Pop",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 67,
-    "name": "Fenomen Türk",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenturk/256/chunks.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 68,
-    "name": "FG 93.8 (Future Generation)",
-    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/fg",
-    "logoUrl": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 69,
-    "name": "Flow Radyo",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/flow/playlist.m3u8",
-    "logoUrl": "https://turkradyodinle.com/stations/logos/flow-Radyo.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 70,
-    "name": "Garaj Radyo",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/garajradyo/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 71,
-    "name": "Greekland",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/greekland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 72,
-    "name": "Gül Fm",
-    "streamUrl": "https://yayin2.canliyayin.org:10989/;*.mp3",
-    "logoUrl": "https://www.Radyogul.com.tr/images/logo.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 73,
-    "name": "Habertürk Radyo",
-    "streamUrl": "https://Haberturkradyo.Radyotvonline.net/Haberturkradyo",
-    "logoUrl": "https://www.Haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-Radyo_LOGO_Son-180x180.png",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 74,
-    "name": "Hayat Mix Slow",
-    "streamUrl": "https://Radyo.yayin.com.tr:4090/mp3",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 75,
-    "name": "Hayat Mix Arabesk",
-    "streamUrl": "https://Radyo.yayin.com.tr:4078/mp3",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 76,
-    "name": "Heart FM 103.4",
-    "streamUrl": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
-    "logoUrl": "https://www.heartfm.com.tr/img/logo-darkheart.png",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 77,
-    "name": "Hedef Radyo",
-    "streamUrl": "https://ssldyg.Radyotvonline.com/live/hedefradyo.stream/playlist.m3u8",
-    "logoUrl": "https://ik.imagekit.io/eywz9hvpg/pal/media/media/18/files/media_hedef-Radyo-default-image_15042026044308_69df95eccf956.jpg",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 78,
-    "name": "Her An Kur'an Her An Mutluluk",
-    "streamUrl": "https://radio.mihr.com/radio/8050/radio.mp3",
-    "logoUrl": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 79,
-    "name": "Home Klasik Türkiye",
-    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/klasikhome.stream_aac/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 80,
-    "name": "Houseland Türkiye",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/houseland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 81,
-    "name": "İhya Fm",
-    "streamUrl": "https://Radyo.yayin.com.tr:2727/stream",
-    "logoUrl": "https://ihyafm.com.tr/public/logo.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 82,
+    "id": 7,
     "name": "İmaj FM",
     "streamUrl": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
-    "logoUrl": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+    "logoUrl": "https://www.imajfm.com/wp-content/themes/mega/assets/images/disc.png",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -619,316 +59,36 @@
     "id": 8,
     "name": "İmbat FM",
     "streamUrl": "https://Radyo.medyahost.com.tr/8034/stream",
-    "logoUrl": "(https://www.imbatfm.com/wp-content/uploads/2021/04/imbat-fm-logo.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/6/64/İmbat_FM_logo.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 84,
-    "name": "İstanbul FM",
-    "streamUrl": "https://live.Radyofenomen.com/istanbulfm/128/playlist.m3u8",
-    "logoUrl": "https://www.istanbulfm.com.tr/assets/logo.png?v=58",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 85,
-    "name": "İTÜ Klasik",
-    "streamUrl": "http://160.75.86.29:8088/ituklasikmp3",
-    "logoUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 86,
-    "name": "Kafa Radyo",
-    "streamUrl": "https://moondigitalmaster.Radyotvonline.net/kafaradyo/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 87,
-    "name": "Kalbe Dokunan Şarkılar",
-    "streamUrl": "https://live.sinirsizhost.com.tr/8058/stream",
-    "logoUrl": "https://kalbedokunansarkilar.com.tr/uploads/logom/xlogo_1.png",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 88,
-    "name": "Kalp FM",
-    "streamUrl": "https://yayin.kalpfm.com:8080/",
-    "logoUrl": "https://kalpfm.com/favicon.ico",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 89,
-    "name": "Karadut Fm",
-    "streamUrl": "https://yayin5.Radyohizmeti.com/9982/stream",
-    "logoUrl": "https://www.karadutfm.com/resimler/sistem/20571KARADUT%20FM%20LOGO.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 90,
-    "name": "Karma Türk",
-    "streamUrl": "https://yayin.Radyomadyo.com:8006/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 91,
-    "name": "Karma Türk Slow",
-    "streamUrl": "https://yayin.Radyomadyo.com:8004/stream",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 92,
+    "id": 9,
     "name": "Kayseri GözdeFM",
     "streamUrl": "https://sslyayin.Radyoyayini.com:7067/stream",
-    "logoUrl": "https://bestefm.com/assets/favicon-32x32.png",
+    "logoUrl": "https://www.kayserigozdefm.com/public/default/images/upload/1278128916121716.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 93,
-    "name": "Keyf Station",
-    "streamUrl": "http://yayin.Radyomadyo.com:8002/stream",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 94,
-    "name": "Kiss Genç",
-    "streamUrl": "https://dijimedya.Radyotvonline.net/gncradyo",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 95,
-    "name": "Kiss Gold Türk",
-    "streamUrl": "https://dijimedya.Radyotvonline.net/goldturk",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 96,
-    "name": "Kiss Musiki",
-    "streamUrl": "https://dijimedya.Radyotvonline.net/Radyomusiki",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 97,
-    "name": "Kiss Slow",
-    "streamUrl": "https://Radyo.slmbilisim.net/8004/stream",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 98,
-    "name": "Kiss Speed Up",
-    "streamUrl": "https://dijimedya.Radyotvonline.net/speedup",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 99,
-    "name": "Kiss Türk",
-    "streamUrl": "https://kiss.Radyotvonline.net/kissturk",
-    "logoUrl": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 100,
-    "name": "Kiss Türk Slow",
-    "streamUrl": "http://dijimedya.Radyotvonline.net/turkslow",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 101,
-    "name": "KIYI Müzik",
-    "streamUrl": "https://kiyi.radioca.st/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 102,
-    "name": "KIYI Türkçe",
-    "streamUrl": "https://kiyiturk.radioca.st/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 105,
-    "name": "Klasik Home",
-    "streamUrl": "http://37.247.98.8/stream/32/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 108,
-    "name": "KRAL Pop",
-    "streamUrl": "https://dygedge2.Radyotvonline.net/kralfm/playlist.m3u8",
-    "logoUrl": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 109,
-    "name": "KRAL Pop ALTERNATİF 2",
-    "streamUrl": "https://ssldyg.Radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 110,
+    "id": 10,
     "name": "Kral Türk FM",
     "streamUrl": "https://live.Radyositesihazir.com/8032/stream",
-    "logoUrl": "",
+    "logoUrl": "https://turkradyodinle.com/stations/logos/kral-turk-fm.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 112,
-    "name": "Küpe FM",
-    "streamUrl": "https://icecast.netmedya.net/kupefm",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 113,
-    "name": "LALEGÜL FM",
-    "streamUrl": "https://icecast.netmedya.net/lalegulfm",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 114,
-    "name": "Lig Radyo",
-    "streamUrl": "https://ligradyo.Radyotvonline.net/ligradyo",
-    "logoUrl": "",
-    "category": "Spor",
-    "isFavorite": false
-  },
-  {
-    "id": 115,
-    "name": "Lokum FM",
-    "streamUrl": "http://37.247.98.9/stream/493/?/;stream.mp3",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 116,
-    "name": "loops radio",
-    "streamUrl": "https://progressive.ozelip.com/7670/stream",
-    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 117,
-    "name": "Loops Radio Elektronica Station",
-    "streamUrl": "https://ssl22.Radyotelekom.com/8232/stream",
-    "logoUrl": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 118,
-    "name": "Loops Radio House Station",
-    "streamUrl": "https://loopsdeep.ozelip.com/7806/stream",
-    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 119,
-    "name": "Loops Radio Progressive",
-    "streamUrl": "https://progressive.ozelip.com/7670/stream",
-    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 120,
-    "name": "Loops Radio Techno",
-    "streamUrl": "https://ip179.ozelip.com/7688//asistan/stream/",
-    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 121,
-    "name": "LP Roman Fm",
-    "streamUrl": "https://stream.zeno.fm/netvowp5t54uv",
-    "logoUrl": "https://images.zeno.fm/YKyCa49EHAby_iNlVUCD7Bvh8e8iAiWcr7KbqDBEp5k/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZhZjYyZmEyLTRkOTYtNGQ5Yi1iMjVkLTBlZTE3MTY5ZmMwNy9pbWFnZS8_dT0xNzc3ODE1OTQ0NDUx.webp",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 122,
-    "name": "LP World Fm",
-    "streamUrl": "https://stream.zeno.fm/hqjssdugsydvv",
-    "logoUrl": "https://images.zeno.fm/9QUnMa3MYXf9Hjx3V5UWxEIAB0DvCCkbuQYRhp5Kyd8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3ak9uVzN3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJamVTbmtnb01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3ODA5MjA0MDc4ODY.webp",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 123,
-    "name": "Max Fm 95.8 ‘Maximum Music'",
-    "streamUrl": "https://maxfm.Radyotvonline.net/stream/164/;",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 124,
-    "name": "Mayday Records",
-    "streamUrl": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
-    "logoUrl": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 125,
-    "name": "Maziden Bir Demet",
-    "streamUrl": "http://37.247.98.8/stream/25/",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 126,
+    "id": 11,
     "name": "Mega Site 1",
     "streamUrl": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
-    "logoUrl": "null",
+    "logoUrl": "https://www.megasite.com.tr/wp-content/uploads/2022/10/logo.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 127,
+    "id": 12,
     "name": "Megasite 2",
     "streamUrl": "https://stream.netradyom.com/listen/megasite/radio.mp3",
     "logoUrl": "https://www.megasite.com.tr/wp-content/uploads/2022/10/logo.png",
@@ -936,359 +96,31 @@
     "isFavorite": false
   },
   {
-    "id": 128,
-    "name": "Mekke Fm",
-    "streamUrl": "https://Radyodinle.cansuyufm.com/17175/stream;",
-    "logoUrl": "https://www.cansuyufm.com/wp-content/uploads/2024/04/logo_100.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 129,
+    "id": 13,
     "name": "Melankolik Home",
     "streamUrl": "http://37.247.98.8/stream/20/",
-    "logoUrl": "",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/melankolik-home.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 130,
-    "name": "Meteorolojinin Sesi",
-    "streamUrl": "http://Radyomgm.canliyayinda.com/;stream.mp3",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 131,
-    "name": "Mio Radio",
-    "streamUrl": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
-    "logoUrl": "https://static.wixstatic.com/media/289b80_d3c08d5820c0a13527afed308f65aa07.jpg/v1/crop/x_59,y_22,w_273,h_236/fill/w_284,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/289b80_d3c08d5820c0a13527afed308f65aa07.jpg",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 132,
-    "name": "Mix A Mix FM",
-    "streamUrl": "https://Radyo.yayin.com.tr:5998/stream/1/?icy=http",
-    "logoUrl": "http://www.mixamixfm.com/images/tropical-hero.png",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 133,
-    "name": "MK Radyo",
-    "streamUrl": "https://live.sinirsizhost.com.tr/8028/stream",
-    "logoUrl": "https://mkradyo.com/mk.png?v=20260512-0247",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 134,
-    "name": "MOOD Pop",
-    "streamUrl": "https://Radyo.yayin.com.tr:6321/;",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 135,
-    "name": "Moral FM",
-    "streamUrl": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
-    "logoUrl": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 136,
-    "name": "NTV Radyo",
-    "streamUrl": "http://ntvrdwmp.Radyotvonline.com/",
-    "logoUrl": "",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 137,
-    "name": "Number 1 Türk Rap",
-    "streamUrl": "https://dijimedya.Radyotvonline.net/turkrap",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 139,
-    "name": "Pal Doğa",
-    "streamUrl": "http://shoutcast.Radyogrup.com:1040/;*.mp3",
-    "logoUrl": "",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 140,
-    "name": "Pal Fm",
-    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/palfmhome.stream/playlist.m3u8",
-    "logoUrl": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 141,
-    "name": "PAL Nostalji",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/palnostalji/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 142,
-    "name": "PASH PASH Radyo",
-    "streamUrl": "https://hits.pashpashradio.com:7000/;",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 144,
-    "name": "playdanceradio",
-    "streamUrl": "https://Radyo1.Radyo-dinle.tc/playdanceradio/stream",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 145,
-    "name": "Pop 90",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/Pop90128AAC.aac",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 150,
-    "name": "Power Dance",
-    "streamUrl": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 152,
-    "name": "Power FM Türkiye",
-    "streamUrl": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
-    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 153,
-    "name": "Power Gold TR",
-    "streamUrl": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Oldies",
-    "isFavorite": false
-  },
-  {
-    "id": 154,
-    "name": "Power Love",
-    "streamUrl": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 155,
-    "name": "Power plus",
-    "streamUrl": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 156,
-    "name": "Power Pop",
-    "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-    "logoUrl": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 157,
-    "name": "Power R&B Hip-Hop",
-    "streamUrl": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
-    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 159,
-    "name": "Power Türk Dans Türkiye",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
-    "logoUrl": "",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 160,
-    "name": "Power Türk FM",
-    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 161,
-    "name": "Power Türk Taptaze",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 162,
-    "name": "Power XL Türkiye",
-    "streamUrl": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 163,
-    "name": "PowerTürk",
-    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 164,
-    "name": "PowerTürk Akustik",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 168,
-    "name": "PowerTürk Rap",
-    "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
-    "logoUrl": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 169,
-    "name": "PowerTürk Slow",
-    "streamUrl": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 181,
-    "name": "Radio Line",
-    "streamUrl": "https://online.radioline.fm:8443/stream",
-    "logoUrl": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 203,
-    "name": "Radyo 45'lik",
-    "streamUrl": "https://stream.Radyo45lik.com:4545/",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 10,
+    "id": 14,
     "name": "Radyo 7",
     "streamUrl": "http://46.20.3.250/;stream",
-    "logoUrl": "https://cdn.kanal7.com/Radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/tr/3/30/Radyo7logo.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 210,
-    "name": "Radyo 90",
-    "streamUrl": "https://live.Radyo.in/9054/stream",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 213,
-    "name": "Radyo AHENK",
-    "streamUrl": "https://yayin.Radyomadyo.com:8014/stream",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 216,
-    "name": "Radyo Akustikland",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/akustikland/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Slow",
-    "isFavorite": false
-  },
-  {
-    "id": 220,
+    "id": 15,
     "name": "Radyo Armoni",
     "streamUrl": "https://Radyo.yayindakiler.com:4084/stream",
-    "logoUrl": "",
+    "logoUrl": "https://armonifm.tr/armonilogo.png",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 221,
-    "name": "Radyo Atılım",
-    "streamUrl": "https://listen.powerapp.com.tr/Radyoatilim/mpeg/icecast.audio",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 222,
-    "name": "Radyo AVARE",
-    "streamUrl": "https://anadolu.liderhost.com.tr:10980/;",
-    "logoUrl": "",
-    "category": "Arabesk",
-    "isFavorite": false
-  },
-  {
-    "id": 223,
-    "name": "Radyo B",
-    "streamUrl": "https://Radyob.ozelip.com.tr/8042/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 235,
-    "name": "Radyo CLUBBİN",
-    "streamUrl": "https://Radyo.yayin.com.tr:6199/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 241,
-    "name": "Radyo Dingil",
-    "streamUrl": "https://live.sinirsizhost.com.tr/8056/;",
-    "logoUrl": "https://r.resimlink.com/CfF49Nv.jpeg",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 247,
-    "name": "Radyo DÜET",
-    "streamUrl": "https://Radyo.yayin.com.tr:6032/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 249,
+    "id": 17,
     "name": "Radyo Duygusal",
     "streamUrl": "https://Radyoduygusal.kesintisizyayin.com:9596/;*.nsv",
     "logoUrl": "https://Radyoduygusal.com/uploads/favicon/oooooooo.jpg",
@@ -1296,247 +128,15 @@
     "isFavorite": false
   },
   {
-    "id": 253,
-    "name": "Radyo Eksen 96.2",
-    "streamUrl": "http://eksenwmp.Radyotvonline.com/;stream.mp3",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 254,
-    "name": "Radyo EN",
-    "streamUrl": "https://yayin2.canliyayin.org:7222/;",
-    "logoUrl": "https://www.Radyoen.com.tr/images/Radyo-en-logo.png",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 260,
-    "name": "Radyo Fenomen",
-    "streamUrl": "https://live.Radyofenomen.com/fenomen/128/icecast.audio",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 262,
-    "name": "Radyo Fenomen Clubbin",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/128/icecast.audio",
-    "logoUrl": "https://cdn.Radyofenomen.com/artwork/logo20.png",
-    "category": "House",
-    "isFavorite": false
-  },
-  {
-    "id": 263,
-    "name": "Radyo Fenomen Dans",
-    "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 269,
-    "name": "Radyo Gökçeada",
-    "streamUrl": "https://Radyo.yayin.com.tr:6179/;",
-    "logoUrl": "https://www.Radyogokceada.net/favicon.ico",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 281,
-    "name": "Radyo Hit Turkiye",
-    "streamUrl": "https://play.Radyohit.tr/stream",
-    "logoUrl": "https://Radyohit.tr/logo-dark.png",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 282,
-    "name": "Radyo İlahi",
-    "streamUrl": "https://anadolu.liderhost.com.tr:10994/;",
-    "logoUrl": "",
-    "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 291,
-    "name": "Radyo KOÇ",
-    "streamUrl": "https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio",
-    "logoUrl": "",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 296,
-    "name": "Radyo madyo",
-    "streamUrl": "https://yayin.Radyomadyo.com:8004/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 297,
-    "name": "Radyo Maksat",
-    "streamUrl": "https://live.sinirsizhost.com.tr/8038/stream",
-    "logoUrl": "https://Radyomaksat.com.tr/uploads/logo/logo_1.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 299,
-    "name": "Radyo Mars",
-    "streamUrl": "https://yayin.Radyomadyo.com:9400/stream",
-    "logoUrl": "https://Radyomars.com/logo.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 300,
-    "name": "Radyo Mavi Denizim",
-    "streamUrl": "https://live.Radyositesihazir.com/8076/stream",
-    "logoUrl": "https://www.Radyomavidenizim.com/wp-content/uploads/2022/09/images.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 311,
-    "name": "Radyo MÜZEYYEN",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/muzeyyen/playlist.m3u8",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 319,
-    "name": "Radyo Nostaljinin Sesi",
-    "streamUrl": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 325,
-    "name": "Radyo SAHİL",
-    "streamUrl": "https://Radyo1.Radyo-dinle.tc/8056/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 326,
+    "id": 18,
     "name": "Radyo ŞAMPİYON",
     "streamUrl": "https://Radyo.yayin.com.tr:4106/stream",
-    "logoUrl": "",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-sampiyon.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
   {
-    "id": 327,
-    "name": "Radyo Sarı Tramvay",
-    "streamUrl": "http://37.247.98.8/stream/27/",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 336,
-    "name": "Radyo Taksi",
-    "streamUrl": "https://live.Radyo.in/8006/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 337,
-    "name": "Radyo TALYA",
-    "streamUrl": "https://yayin.Radyotalya.com:9424/stream",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 339,
-    "name": "Radyo Trafik İstanbul",
-    "streamUrl": "http://37.247.100.118/stream/157/",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 343,
-    "name": "Radyo Turkuvaz",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/Radyoturkuvaz/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 348,
-    "name": "Radyo Viva",
-    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/Radyoviva",
-    "logoUrl": "https://demo.Radyoviva.com.tr/wp-content/uploads/2020/06/Radyo-viva.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 349,
-    "name": "Radyo Voyage",
-    "streamUrl": "https://ssldyg.Radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 354,
-    "name": "RadyoAura",
-    "streamUrl": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
-    "logoUrl": "https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/Radyoaura/logo.jpg",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 357,
-    "name": "Rap Home",
-    "streamUrl": "http://37.247.98.8/stream/606/",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 358,
-    "name": "RELAX HOME",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/relaxhome/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Etnik",
-    "isFavorite": false
-  },
-  {
-    "id": 359,
-    "name": "REPLAY NEWS - Türkçe    Her 5 dakikada Haber",
-    "streamUrl": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-    "logoUrl": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-TR.png",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 369,
-    "name": "Alem FM",
-    "streamUrl": "http://turkmedya.Radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
-    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 371,
-    "name": "S1lhoutte - 90's FM",
-    "streamUrl": "http://37.247.98.8/stream/166/",
-    "logoUrl": "",
-    "category": "Nostalji",
-    "isFavorite": false
-  },
-  {
-    "id": 374,
+    "id": 19,
     "name": "S1lhoutte Arabesk FM",
     "streamUrl": "https://yayin.Radyoarabesk.com.tr:8000/stream",
     "logoUrl": "",
@@ -1544,303 +144,135 @@
     "isFavorite": false
   },
   {
-    "id": 377,
-    "name": "Self FM",
-    "streamUrl": "https://ssl22.Radyotelekom.com/8084/stream",
-    "logoUrl": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png",
-    "category": "Pop",
+    "id": 20,
+    "name": "Radyo Home Altın Şarkılar",
+    "streamUrl": "http://37.247.98.8/stream/25/;",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/altin-sarkilar.jpg",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
-    "id": 385,
-    "name": "Show Radyo",
-    "streamUrl": "http://showradyo.Radyotvonline.net/showradyoaac/",
-    "logoUrl": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-Radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
-    "category": "Pop",
+    "id": 21,
+    "name": "Çeşme Viking Radyo",
+    "streamUrl": "https://ip169.ozelip.com/8432/stream",
+    "logoUrl": "https://www.cesmevikingradyo.com/uploads/logo/logo-calışması-2_2.png",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
-    "id": 389,
-    "name": "Slow Turk",
-    "streamUrl": "https://Radyo.duhnet.tv/ak_dtvh_slowturk",
-    "logoUrl": "https://www.Slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
-    "category": "Slow",
+    "id": 22,
+    "name": "Dedemin Radyosu",
+    "streamUrl": "https://anadolu.liderhost.com.tr/9002/stream",
+    "logoUrl": "https://dedeminradyosu.com.tr/assets/logo.png",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
-    "id": 390,
-    "name": "SOFT Radyo",
-    "streamUrl": "https://Radyo.softradyo.com/1140/stream",
+    "id": 23,
+    "name": "Dt Nostalji",
+    "streamUrl": "https://canli.dtnostalji.com.tr/9999/stream",
+    "logoUrl": "https://images.tuneyou.com/images/logos/500_500/79/26879/DTNOSTALJ_3.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 24,
+    "name": "Erzincan Nostalji Radyo",
+    "streamUrl": "https://erzincannostalji.ozelip.com/8238/stream",
+    "logoUrl": "https://www.radyoburada.com/logo/333.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 25,
+    "name": "Esas Radyo",
+    "streamUrl": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/esas-radyo.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 26,
+    "name": "Kiss Gold Türk",
+    "streamUrl": "https://dijimedya.Radyotvonline.net/goldturk",
+    "logoUrl": "https://www.radyoburada.com/logo/1453.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 27,
+    "name": "Retro Türk'",
+    "streamUrl": "https://25643.live.streamtheworld.com/RETROTURK_SC",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/retro-turk.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 28,
+    "name": "Maziden Bir Demet",
+    "streamUrl": "http://37.247.98.8/stream/25/",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/maziden-bir-demet-dinle.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 29,
+    "name": "PAL Nostalji",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/palnostalji/playlist.m3u8",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s278927g.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 30,
+    "name": "Pop 90",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/Pop90128AAC.aac",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/pop-90.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 31,
+    "name": "Radyo 45'lik",
+    "streamUrl": "https://stream.Radyo45lik.com:4545/",
+    "logoUrl": "https://radyo45lik.com/wp-content/uploads/2025/07/Radyo-45lik-Logo-_1B.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 32,
+    "name": "Radyo 90",
+    "streamUrl": "https://live.Radyo.in/9054/stream",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/radyo-90.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 33,
+    "name": "Radyo Nostaljinin Sesi",
+    "streamUrl": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/radyo-nostaljinin-sesi.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 34,
+    "name": "Radyo Sarı Tramvay",
+    "streamUrl": "http://37.247.98.8/stream/27/",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/sari-tramvay.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 35,
+    "name": "S1lhoutte - 90's FM",
+    "streamUrl": "http://37.247.98.8/stream/166/",
     "logoUrl": "",
-    "category": "Slow",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
-    "id": 395,
-    "name": "Süper FM",
-    "streamUrl": "http://22713.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
-    "logoUrl": "",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 396,
-    "name": "SUPER FM 2 TURKEY",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 397,
-    "name": "Süper FM 99.9",
-    "streamUrl": "https://yayin.superfmradyo.com.tr/superfm/stream",
-    "logoUrl": "https://www.superfmradyo.com.tr/img/logo.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 398,
-    "name": "SÜPER SHOW Radyo",
-    "streamUrl": "https://sslyayin.netyayin.net:6065/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 400,
-    "name": "Tarkan",
-    "streamUrl": "https://stream.pcradio.ru/tarkan-hi",
-    "logoUrl": "null",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 404,
-    "name": "TheRockRadio",
-    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/therockradio.stream/playlist.m3u8",
-    "logoUrl": "https://therock.com.tr/images/favicon.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 405,
-    "name": "TİME TÜRK",
-    "streamUrl": "https://Radyo.yayindakiler.com:4195/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 406,
-    "name": "TİRYAKİ FM",
-    "streamUrl": "https://yayin.turkhosted.com:6056/mp3",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 408,
-    "name": "TRD 4",
-    "streamUrl": "https://stream.zeno.fm/x5n4sfyy9nhvv",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 409,
-    "name": "trio",
-    "streamUrl": "https://Radyotrio.Radyotvonline.net/Radyotrio",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 415,
-    "name": "TRT Haber Radyo",
-    "streamUrl": "https://trt.Radyotvonline.net/trthaber",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 416,
-    "name": "TRT Memleketim FM",
-    "streamUrl": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 417,
-    "name": "TRT Nağme",
-    "streamUrl": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "",
-    "category": "TSM",
-    "isFavorite": false
-  },
-  {
-    "id": 418,
-    "name": "TRT Radyo 1",
-    "streamUrl": "https://trt.Radyotvonline.net/trt1",
-    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 420,
-    "name": "TRT Radyo Haber",
-    "streamUrl": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
-    "logoUrl": "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg",
-    "category": "Haber",
-    "isFavorite": false
-  },
-  {
-    "id": 422,
-    "name": "Trt Spor",
-    "streamUrl": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8",
-    "logoUrl": "null",
-    "category": "Spor",
-    "isFavorite": false
-  },
-  {
-    "id": 430,
-    "name": "Türk Pop FM",
-    "streamUrl": "https://yayin5.Radyohizmeti.com/8090/stream;",
-    "logoUrl": "https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 438,
-    "name": "TURKUVAZ EFSANE",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 439,
-    "name": "Turkuvaz Musiki",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 440,
-    "name": "TURKUVAZ NOSTALJİ",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 441,
-    "name": "TURKUVAZ ROMANTİK",
-    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 443,
-    "name": "ULUSAL Arabesk",
-    "streamUrl": "https://radio.guventechnology.com/9334/stream",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 445,
-    "name": "Veng Radyo",
-    "streamUrl": "https://live.Radyo.in/8012/stream",
-    "logoUrl": "https://www.vengradyo.com/Radyogorsel.jpg",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 446,
-    "name": "VİBE STATİON",
-    "streamUrl": "https://stream.zeno.fm/528but9e7motv",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 447,
-    "name": "Virgin Radio Türkiye",
-    "streamUrl": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
-    "logoUrl": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
-    "category": "Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 448,
-    "name": "VİRGİN Radyo",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 449,
-    "name": "VİZYON NOSTALJİ",
-    "streamUrl": "https://stream.netradyom.com/radio/7090/radio.mp3/;",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 450,
-    "name": "Vokal Tr",
-    "streamUrl": "https://moondigitaledge.Radyotvonline.net/Radyolanddoksanlar/playlist.m3u8",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 451,
-    "name": "WORLD HİTS",
-    "streamUrl": "http://37.247.98.8/stream/34/",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 452,
-    "name": "X Radio",
-    "streamUrl": "http://yayin.Radyomadyo.com:8770/",
-    "logoUrl": "https://xradio.com.tr/favicon.ico",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 453,
-    "name": "X Radyo",
-    "streamUrl": "https://stream.xradio.com.tr:8770/stream",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 454,
-    "name": "Yaren FM",
-    "streamUrl": "https://yarenfmn.80.yayin.com.tr//stream",
-    "logoUrl": "https://tarsusfm.com.tr/favicon.ico",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 455,
-    "name": "YENİ Pop",
-    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
-    "logoUrl": "",
-    "category": "Diğer",
-    "isFavorite": false
-  },
-  {
-    "id": 456,
+    "id": 36,
     "name": "Yeni Radyo Nostaljinin Sesi",
     "streamUrl": "http://51.255.235.165:26113/stream",
     "logoUrl": "",
@@ -1848,7 +280,1567 @@
     "isFavorite": false
   },
   {
-    "id": 458,
+    "id": 37,
+    "name": "Radyo Alaturka",
+    "streamUrl": "https://yayin.jumboserver.net:9100/stream?.mp3",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/Radyo-alaturka-dinle.jpg",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 38,
+    "name": "Maziden Bir Demet tsm",
+    "streamUrl": "http://37.247.98.8/stream/24/",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 39,
+    "name": "Kiss Musiki",
+    "streamUrl": "https://dijimedya.Radyotvonline.net/Radyomusiki",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 234,
+    "name": "Polis Radyosu Tsm",
+    "streamUrl": "https://m.egm.gov.tr:8093/;",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false    
+  },
+  {
+    "id": 40,
+    "name": "Meteorolojinin Sesi",
+    "streamUrl": "http://Radyomgm.canliyayinda.com/;stream.mp3",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 41,
+    "name": "Radyo AHENK",
+    "streamUrl": "https://yayin.Radyomadyo.com:8014/stream",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 42,
+    "name": "Radyo MÜZEYYEN",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/muzeyyen/playlist.m3u8",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 43,
+    "name": "TRT Nağme",
+    "streamUrl": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "",
+    "category": "TSM",
+    "isFavorite": false
+  },
+  {
+    "id": 44,
+    "name": "TRT FM",
+    "streamUrl": "http://trt.Radyotvonline.net/trtfm",
+    "logoUrl": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/trt-fm-buyuk.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 45,
+    "name": "ASpor",
+    "streamUrl": "http://trkvz-Radyolar.ercdn.net/asporradyo/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 46,
+    "name": "GİMSA Radyo",
+    "streamUrl": "http://yayin1.canliyayin.org:9482/stream",
+    "logoUrl": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 47,
+    "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
+    "streamUrl": "https://wowza1.Radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8",
+    "logoUrl": "https://liderfm.net/public/images/1.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 48,
+    "name": "107.4 Radio Voyage",
+    "streamUrl": "https://dygedge.Radyotvonline.net/Radyovoyage/playlist.m3u8?listeningSessionID=689a71670b9b8fe5_27698769_NlXXFAwK__0000004u2bL&downloadSessionID=0&listenerid=196b4b4bc1d1ac4f52fcf98eeff4e532&awparams=companionAds%3Atrue",
+    "logoUrl": "https://www.Radyovoyage.com/media/rdwlpzdt/voyage_dunya-poz.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 49,
+    "name": "A Haber",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 50,
+    "name": "a PARA",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/apararadyo/playlist.m3u8",
+    "logoUrl": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 51,
+    "name": "Akra FM",
+    "streamUrl": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 52,
+    "name": "ALEM FM",
+    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/alemfm",
+    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 53,
+    "name": "Andromeda Radio",
+    "streamUrl": "https://Radyo1.Radyo-dinle.tc/andromedaradio/stream",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 54,
+    "name": "Arkadaş Radyo",
+    "streamUrl": "http://yayin2.yayindakiler.com:4134/;stream.nsv",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 55,
+    "name": "Aşk FM",
+    "streamUrl": "http://yayin.asymedya.com:8020/;",
+    "logoUrl": "https://www.Radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 56,
+    "name": "Baby Joy",
+    "streamUrl": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac?dist=https%3A%2F%2Fkarnaval.com%2Fradyolar%2Fbabyjoy&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=300x250&gender=F&age=34_45&ses=AB&title=B%2CSM%2CEH&burst-time=15&sbmid=7cd2cdcf-161d-4c67-9e51-411cedc6bfe8",
+    "logoUrl": "",
+    "category": "Çocuk",
+    "isFavorite": false
+  },
+  {
+    "id": 57,
+    "name": "Babyland Türkiye",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/babyland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Çocuk",
+    "isFavorite": false
+  },
+  {
+    "id": 58,
+    "name": "Bayram FM",
+    "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3",
+    "logoUrl": "https://www.Radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 59,
+    "name": "Best FM",
+    "streamUrl": "https://ssldyg.Radyotvonline.com/best/bestfm.stream/playlist.m3u8",
+    "logoUrl": "https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 60,
+    "name": "Best Hit",
+    "streamUrl": "https://wowza3.Radyotvonline.com/best/bestteen.stream/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 61,
+    "name": "Best Rap",
+    "streamUrl": "https://wowza3.Radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 62,
+    "name": "Best Slow",
+    "streamUrl": "https://hepsibest.Radyotvonline.net/bestslow",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 235,
+    "name": "Radyo Romantik Türk",
+    "streamUrl": "http://radyo.yayin.com.tr:6042/;",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/romantik-turk.jpg",
+    "category": "Slow",
+    "isFavorite": false    
+  },
+  {
+    "id": 63,
+    "name": "BesteFM",
+    "streamUrl": "https://stream.zeno.fm/tnvnovtgozstv",
+    "logoUrl": "https://bestefm.com/assets/favicon.ico",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 64,
+    "name": "BesteFM Mix",
+    "streamUrl": "https://yayin.Radyomadyo.com:8002/",
+    "logoUrl": "https://bestefm.com/assets/favicon.ico",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 65,
+    "name": "Bodrum Fm",
+    "streamUrl": "https://live.bodrumfm.org/stream.mp3",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 66,
+    "name": "Borusan Klasik",
+    "streamUrl": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 67,
+    "name": "Classicland Türkiye",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/classicland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 68,
+    "name": "Cnn Türk Radyo",
+    "streamUrl": "https://moondigitaledge2.Radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0",
+    "logoUrl": "null",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 69,
+    "name": "Danceland",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 70,
+    "name": "DanceLand Anthems",
+    "streamUrl": "https://likeradiostream.com/dancelandanthems",
+    "logoUrl": "https://like.radio/favicon.ico",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 71,
+    "name": "Danceland Türkiye",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 72,
+    "name": "Dijital Radyo",
+    "streamUrl": "https://anadolu.liderhost.com.tr:10961/;",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 73,
+    "name": "Dijital Slow",
+    "streamUrl": "http://anadolu.liderhost.com.tr:8076/Radyo",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 74,
+    "name": "Dinamo.fm Caffe",
+    "streamUrl": "http://channels.dinamo.fm/caffe-mp3",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 75,
+    "name": "Dinamo.fm Deep",
+    "streamUrl": "http://channels.dinamo.fm/deep-mp3",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 76,
+    "name": "Dinamo.fm Fluent",
+    "streamUrl": "http://channels.dinamo.fm/fluent-mp3",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 77,
+    "name": "Dinamo.fm Locodyno",
+    "streamUrl": "http://channels.dinamo.fm/locodyno-mp3",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 78,
+    "name": "Discoland",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/discoland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Oldies",
+    "isFavorite": false
+  },
+  {
+    "id": 79,
+    "name": "Diyanet Kur'an Radyo",
+    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 80,
+    "name": "Diyanet Radyo",
+    "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 81,
+    "name": "Dream Türk",
+    "streamUrl": "https://Radyo.duhnet.tv/dreamturk",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 82,
+    "name": "Dünyadan Sesler Radio",
+    "streamUrl": "https://stream.dodo.radio/dunyadansesler",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 83,
+    "name": "Enderun FM",
+    "streamUrl": "http://yayin2.canliyayin.org:7052/;*.mp3",
+    "logoUrl": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 84,
+    "name": "Enradio",
+    "streamUrl": "https://Radyo1.Radyo-dinle.tc/8098/stream",
+    "logoUrl": "https://enradio.tr/wp-content/uploads/2026/07/enradio-favicon.png",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 85,
+    "name": "Erkam Radyo",
+    "streamUrl": "https://yayin2.canliyayin.org:10910/stream?",
+    "logoUrl": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 86,
+    "name": "Fakir Fm",
+    "streamUrl": "https://live.Radyositesihazir.com/1025/stream/",
+    "logoUrl": "https://www.fakirfm.com/favicon.ico",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 87,
+    "name": "Fenomen Clubbin",
+    "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/256/chunks.m3u8",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 88,
+    "name": "Fenomen Dans",
+    "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 89,
+    "name": "Fenomen Karışık",
+    "streamUrl": "https://live.Radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 90,
+    "name": "Fenomen Pop",
+    "streamUrl": "https://live.Radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 91,
+    "name": "Fenomen Türk",
+    "streamUrl": "https://live.Radyofenomen.com/fenomenturk/256/chunks.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 92,
+    "name": "FG 93.8 (Future Generation)",
+    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/fg",
+    "logoUrl": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 93,
+    "name": "Flow Radyo",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/flow/playlist.m3u8",
+    "logoUrl": "https://turkradyodinle.com/stations/logos/flow-Radyo.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 94,
+    "name": "Garaj Radyo",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/garajradyo/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 95,
+    "name": "Greekland",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/greekland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 96,
+    "name": "Gül Fm",
+    "streamUrl": "https://yayin2.canliyayin.org:10989/;*.mp3",
+    "logoUrl": "https://www.Radyogul.com.tr/images/logo.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 97,
+    "name": "Habertürk Radyo",
+    "streamUrl": "https://Haberturkradyo.Radyotvonline.net/Haberturkradyo",
+    "logoUrl": "https://www.Haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-Radyo_LOGO_Son-180x180.png",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 98,
+    "name": "Hayat Mix Slow",
+    "streamUrl": "https://Radyo.yayin.com.tr:4090/mp3",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 99,
+    "name": "Hayat Mix Arabesk",
+    "streamUrl": "https://Radyo.yayin.com.tr:4078/mp3",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 100,
+    "name": "Heart FM 103.4",
+    "streamUrl": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
+    "logoUrl": "https://www.heartfm.com.tr/img/logo-darkheart.png",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 101,
+    "name": "Hedef Radyo",
+    "streamUrl": "https://ssldyg.Radyotvonline.com/live/hedefradyo.stream/playlist.m3u8",
+    "logoUrl": "https://ik.imagekit.io/eywz9hvpg/pal/media/media/18/files/media_hedef-Radyo-default-image_15042026044308_69df95eccf956.jpg",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 102,
+    "name": "Her An Kur'an Her An Mutluluk",
+    "streamUrl": "https://radio.mihr.com/radio/8050/radio.mp3",
+    "logoUrl": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 103,
+    "name": "Home Klasik Türkiye",
+    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/klasikhome.stream_aac/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 104,
+    "name": "Houseland Türkiye",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/houseland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 105,
+    "name": "İhya Fm",
+    "streamUrl": "https://Radyo.yayin.com.tr:2727/stream",
+    "logoUrl": "https://ihyafm.com.tr/public/logo.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 106,
+    "name": "İstanbul FM",
+    "streamUrl": "https://live.Radyofenomen.com/istanbulfm/128/playlist.m3u8",
+    "logoUrl": "https://www.istanbulfm.com.tr/assets/logo.png?v=58",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 107,
+    "name": "İTÜ Klasik",
+    "streamUrl": "http://160.75.86.29:8088/ituklasikmp3",
+    "logoUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 108,
+    "name": "Kafa Radyo",
+    "streamUrl": "https://moondigitalmaster.Radyotvonline.net/kafaradyo/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 109,
+    "name": "Kalbe Dokunan Şarkılar",
+    "streamUrl": "https://live.sinirsizhost.com.tr/8058/stream",
+    "logoUrl": "https://kalbedokunansarkilar.com.tr/uploads/logom/xlogo_1.png",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 110,
+    "name": "Kalp FM",
+    "streamUrl": "https://yayin.kalpfm.com:8080/",
+    "logoUrl": "https://kalpfm.com/favicon.ico",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 111,
+    "name": "Karadut Fm",
+    "streamUrl": "https://yayin5.Radyohizmeti.com/9982/stream",
+    "logoUrl": "https://www.karadutfm.com/resimler/sistem/20571KARADUT%20FM%20LOGO.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 112,
+    "name": "Karma Türk",
+    "streamUrl": "https://yayin.Radyomadyo.com:8006/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 113,
+    "name": "Karma Türk Slow",
+    "streamUrl": "https://yayin.Radyomadyo.com:8004/stream",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 114,
+    "name": "Keyf Station",
+    "streamUrl": "http://yayin.Radyomadyo.com:8002/stream",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 115,
+    "name": "Kiss Genç",
+    "streamUrl": "https://dijimedya.Radyotvonline.net/gncradyo",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 116,
+    "name": "Kiss Slow",
+    "streamUrl": "https://Radyo.slmbilisim.net/8004/stream",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 117,
+    "name": "Kiss Speed Up",
+    "streamUrl": "https://dijimedya.Radyotvonline.net/speedup",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 118,
+    "name": "Kiss Türk",
+    "streamUrl": "https://kiss.Radyotvonline.net/kissturk",
+    "logoUrl": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 119,
+    "name": "Kiss Türk Slow",
+    "streamUrl": "http://dijimedya.Radyotvonline.net/turkslow",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 120,
+    "name": "KIYI Müzik",
+    "streamUrl": "https://kiyi.radioca.st/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 121,
+    "name": "KIYI Türkçe",
+    "streamUrl": "https://kiyiturk.radioca.st/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 122,
+    "name": "Klasik Home",
+    "streamUrl": "http://37.247.98.8/stream/32/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 123,
+    "name": "KRAL Pop",
+    "streamUrl": "https://dygedge2.Radyotvonline.net/kralfm/playlist.m3u8",
+    "logoUrl": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 124,
+    "name": "KRAL Pop ALTERNATİF 2",
+    "streamUrl": "https://ssldyg.Radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 125,
+    "name": "Küpe FM",
+    "streamUrl": "https://icecast.netmedya.net/kupefm",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 126,
+    "name": "LALEGÜL FM",
+    "streamUrl": "https://icecast.netmedya.net/lalegulfm",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 127,
+    "name": "Lig Radyo",
+    "streamUrl": "https://ligradyo.Radyotvonline.net/ligradyo",
+    "logoUrl": "",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 128,
+    "name": "Lokum FM",
+    "streamUrl": "http://37.247.98.9/stream/493/?/;stream.mp3",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 129,
+    "name": "loops radio",
+    "streamUrl": "https://progressive.ozelip.com/7670/stream",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 130,
+    "name": "Loops Radio Elektronica Station",
+    "streamUrl": "https://ssl22.Radyotelekom.com/8232/stream",
+    "logoUrl": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 131,
+    "name": "Loops Radio House Station",
+    "streamUrl": "https://loopsdeep.ozelip.com/7806/stream",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 132,
+    "name": "Loops Radio Progressive",
+    "streamUrl": "https://progressive.ozelip.com/7670/stream",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 133,
+    "name": "Loops Radio Techno",
+    "streamUrl": "https://ip179.ozelip.com/7688//asistan/stream/",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 134,
+    "name": "LP Roman Fm",
+    "streamUrl": "https://stream.zeno.fm/netvowp5t54uv",
+    "logoUrl": "https://images.zeno.fm/YKyCa49EHAby_iNlVUCD7Bvh8e8iAiWcr7KbqDBEp5k/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZhZjYyZmEyLTRkOTYtNGQ5Yi1iMjVkLTBlZTE3MTY5ZmMwNy9pbWFnZS8_dT0xNzc3ODE1OTQ0NDUx.webp",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 135,
+    "name": "LP World Fm",
+    "streamUrl": "https://stream.zeno.fm/hqjssdugsydvv",
+    "logoUrl": "https://images.zeno.fm/9QUnMa3MYXf9Hjx3V5UWxEIAB0DvCCkbuQYRhp5Kyd8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3ak9uVzN3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJamVTbmtnb01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3ODA5MjA0MDc4ODY.webp",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 136,
+    "name": "Mayday Records",
+    "streamUrl": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
+    "logoUrl": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 137,
+    "name": "Mekke Fm",
+    "streamUrl": "https://Radyodinle.cansuyufm.com/17175/stream;",
+    "logoUrl": "https://www.cansuyufm.com/wp-content/uploads/2024/04/logo_100.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 138,
+    "name": "Mio Radio",
+    "streamUrl": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
+    "logoUrl": "https://static.wixstatic.com/media/289b80_d3c08d5820c0a13527afed308f65aa07.jpg/v1/crop/x_59,y_22,w_273,h_236/fill/w_284,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/289b80_d3c08d5820c0a13527afed308f65aa07.jpg",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 139,
+    "name": "Mix A Mix FM",
+    "streamUrl": "https://Radyo.yayin.com.tr:5998/stream/1/?icy=http",
+    "logoUrl": "http://www.mixamixfm.com/images/tropical-hero.png",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 140,
+    "name": "MK Radyo",
+    "streamUrl": "https://live.sinirsizhost.com.tr/8028/stream",
+    "logoUrl": "https://mkradyo.com/mk.png?v=20260512-0247",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 141,
+    "name": "MOOD Pop",
+    "streamUrl": "https://Radyo.yayin.com.tr:6321/;",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 142,
+    "name": "Moral FM",
+    "streamUrl": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
+    "logoUrl": "http://moralfm.com.tr/yonetim/uploads/image/logo-base-1.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 143,
+    "name": "NTV Radyo",
+    "streamUrl": "http://ntvrdwmp.Radyotvonline.com/",
+    "logoUrl": "",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 144,
+    "name": "Number 1 Türk Rap",
+    "streamUrl": "https://dijimedya.Radyotvonline.net/turkrap",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 145,
+    "name": "Pal Doğa",
+    "streamUrl": "http://shoutcast.Radyogrup.com:1040/;*.mp3",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 146,
+    "name": "Pal Fm",
+    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/palfmhome.stream/playlist.m3u8",
+    "logoUrl": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 147,
+    "name": "PASH PASH Radyo",
+    "streamUrl": "https://hits.pashpashradio.com:7000/;",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 148,
+    "name": "playdanceradio",
+    "streamUrl": "https://Radyo1.Radyo-dinle.tc/playdanceradio/stream",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 149,
+    "name": "Power Dance",
+    "streamUrl": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 150,
+    "name": "Power FM Türkiye",
+    "streamUrl": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 151,
+    "name": "Power Gold TR",
+    "streamUrl": "https://live.powerapp.com.tr/powergold/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Oldies",
+    "isFavorite": false
+  },
+  {
+    "id": 152,
+    "name": "Power Love",
+    "streamUrl": "https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 153,
+    "name": "Power plus",
+    "streamUrl": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 154,
+    "name": "Power Pop",
+    "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+    "logoUrl": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 155,
+    "name": "Power R&B Hip-Hop",
+    "streamUrl": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 156,
+    "name": "Power Türk Dans Türkiye",
+    "streamUrl": "https://listen.powerapp.com.tr/powerturkdans/abr/powerturkdans/128/playlist.m3u8",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 157,
+    "name": "Power Türk FM",
+    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 158,
+    "name": "Power Türk Taptaze",
+    "streamUrl": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 159,
+    "name": "Power XL Türkiye",
+    "streamUrl": "https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/96/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 160,
+    "name": "PowerTürk",
+    "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 161,
+    "name": "PowerTürk Akustik",
+    "streamUrl": "https://listen.powerapp.com.tr/powerturkakustik/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 162,
+    "name": "PowerTürk Rap",
+    "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 163,
+    "name": "PowerTürk Slow",
+    "streamUrl": "https://listen.powerapp.com.tr/powerturkslow/mpeg/icecast.audio",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 164,
+    "name": "Radio Line",
+    "streamUrl": "https://online.radioline.fm:8443/stream",
+    "logoUrl": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 165,
+    "name": "Radyo Akustikland",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/akustikland/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 166,
+    "name": "Radyo Atılım",
+    "streamUrl": "https://listen.powerapp.com.tr/Radyoatilim/mpeg/icecast.audio",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 167,
+    "name": "Radyo B",
+    "streamUrl": "https://Radyob.ozelip.com.tr/8042/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 168,
+    "name": "Radyo CLUBBİN",
+    "streamUrl": "https://Radyo.yayin.com.tr:6199/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 169,
+    "name": "Radyo Dingil",
+    "streamUrl": "https://live.sinirsizhost.com.tr/8056/;",
+    "logoUrl": "https://r.resimlink.com/CfF49Nv.jpeg",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 170,
+    "name": "Radyo DÜET",
+    "streamUrl": "https://Radyo.yayin.com.tr:6032/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 171,
+    "name": "Radyo Eksen 96.2",
+    "streamUrl": "http://eksenwmp.Radyotvonline.com/;stream.mp3",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 172,
+    "name": "Radyo EN",
+    "streamUrl": "https://yayin2.canliyayin.org:7222/;",
+    "logoUrl": "https://www.Radyoen.com.tr/images/Radyo-en-logo.png",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 173,
+    "name": "Radyo Fenomen",
+    "streamUrl": "https://live.Radyofenomen.com/fenomen/128/icecast.audio",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 174,
+    "name": "Radyo Fenomen Clubbin",
+    "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/128/icecast.audio",
+    "logoUrl": "https://cdn.Radyofenomen.com/artwork/logo20.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 175,
+    "name": "Radyo Fenomen Dans",
+    "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 176,
+    "name": "Radyo Gökçeada",
+    "streamUrl": "https://Radyo.yayin.com.tr:6179/;",
+    "logoUrl": "https://www.Radyogokceada.net/favicon.ico",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 177,
+    "name": "Radyo Hit Turkiye",
+    "streamUrl": "https://play.Radyohit.tr/stream",
+    "logoUrl": "https://Radyohit.tr/logo-dark.png",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 178,
+    "name": "Radyo İlahi",
+    "streamUrl": "https://anadolu.liderhost.com.tr:10994/;",
+    "logoUrl": "",
+    "category": "Dini",
+    "isFavorite": false
+  },
+  {
+    "id": 179,
+    "name": "Radyo KOÇ",
+    "streamUrl": "https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio",
+    "logoUrl": "",
+    "category": "Yabancı",
+    "isFavorite": false
+  },
+  {
+    "id": 180,
+    "name": "Radyo madyo",
+    "streamUrl": "https://yayin.Radyomadyo.com:8004/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 181,
+    "name": "Radyo Maksat",
+    "streamUrl": "https://live.sinirsizhost.com.tr/8038/stream",
+    "logoUrl": "https://Radyomaksat.com.tr/uploads/logo/logo_1.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 182,
+    "name": "Radyo Mars",
+    "streamUrl": "https://yayin.Radyomadyo.com:9400/stream",
+    "logoUrl": "https://Radyomars.com/logo.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 183,
+    "name": "Radyo Mavi Denizim",
+    "streamUrl": "https://live.Radyositesihazir.com/8076/stream",
+    "logoUrl": "https://www.Radyomavidenizim.com/wp-content/uploads/2022/09/images.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 184,
+    "name": "Radyo SAHİL",
+    "streamUrl": "https://Radyo1.Radyo-dinle.tc/8056/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 185,
+    "name": "Radyo Taksi",
+    "streamUrl": "https://live.Radyo.in/8006/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 186,
+    "name": "Radyo TALYA",
+    "streamUrl": "https://yayin.Radyotalya.com:9424/stream",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 187,
+    "name": "Radyo Trafik İstanbul",
+    "streamUrl": "http://37.247.100.118/stream/157/",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 188,
+    "name": "Radyo Turkuvaz",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/Radyoturkuvaz/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 189,
+    "name": "Radyo Viva",
+    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/Radyoviva",
+    "logoUrl": "https://demo.Radyoviva.com.tr/wp-content/uploads/2020/06/Radyo-viva.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 190,
+    "name": "Radyo Voyage",
+    "streamUrl": "https://ssldyg.Radyotvonline.com/pozitif/smil:voyage.smil/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 191,
+    "name": "RadyoAura",
+    "streamUrl": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
+    "logoUrl": "https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/Radyoaura/logo.jpg",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 192,
+    "name": "Rap Home",
+    "streamUrl": "http://37.247.98.8/stream/606/",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 193,
+    "name": "RELAX HOME",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/relaxhome/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 194,
+    "name": "REPLAY NEWS - Türkçe    Her 5 dakikada Haber",
+    "streamUrl": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
+    "logoUrl": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-TR.png",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 195,
+    "name": "Alem FM",
+    "streamUrl": "http://turkmedya.Radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
+    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 196,
+    "name": "Self FM",
+    "streamUrl": "https://ssl22.Radyotelekom.com/8084/stream",
+    "logoUrl": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 197,
+    "name": "Show Radyo",
+    "streamUrl": "http://showradyo.Radyotvonline.net/showradyoaac/",
+    "logoUrl": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-Radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 198,
+    "name": "Slow Turk",
+    "streamUrl": "https://Radyo.duhnet.tv/ak_dtvh_slowturk",
+    "logoUrl": "https://www.Slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 199,
+    "name": "SOFT Radyo",
+    "streamUrl": "https://Radyo.softradyo.com/1140/stream",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 200,
+    "name": "Süper FM",
+    "streamUrl": "http://22713.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
+    "logoUrl": "",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 201,
+    "name": "SUPER FM 2 TURKEY",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 202,
+    "name": "Süper FM 99.9",
+    "streamUrl": "https://yayin.superfmradyo.com.tr/superfm/stream",
+    "logoUrl": "https://www.superfmradyo.com.tr/img/logo.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 203,
+    "name": "SÜPER SHOW Radyo",
+    "streamUrl": "https://sslyayin.netyayin.net:6065/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 204,
+    "name": "Tarkan",
+    "streamUrl": "https://stream.pcradio.ru/tarkan-hi",
+    "logoUrl": "null",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 205,
+    "name": "TheRockRadio",
+    "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/therockradio.stream/playlist.m3u8",
+    "logoUrl": "https://therock.com.tr/images/favicon.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 206,
+    "name": "TİME TÜRK",
+    "streamUrl": "https://Radyo.yayindakiler.com:4195/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 207,
+    "name": "TİRYAKİ FM",
+    "streamUrl": "https://yayin.turkhosted.com:6056/mp3",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 208,
+    "name": "TRD 4",
+    "streamUrl": "https://stream.zeno.fm/x5n4sfyy9nhvv",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 209,
+    "name": "trio",
+    "streamUrl": "https://Radyotrio.Radyotvonline.net/Radyotrio",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 210,
+    "name": "TRT Haber Radyo",
+    "streamUrl": "https://trt.Radyotvonline.net/trthaber",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 211,
+    "name": "TRT Memleketim FM",
+    "streamUrl": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
+    "logoUrl": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 212,
+    "name": "TRT Radyo 1",
+    "streamUrl": "https://trt.Radyotvonline.net/trt1",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 213,
+    "name": "TRT Radyo Haber",
+    "streamUrl": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
+    "logoUrl": "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg",
+    "category": "Haber",
+    "isFavorite": false
+  },
+  {
+    "id": 214,
+    "name": "Trt Spor",
+    "streamUrl": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8",
+    "logoUrl": "null",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 215,
+    "name": "Türk Pop FM",
+    "streamUrl": "https://yayin5.Radyohizmeti.com/8090/stream;",
+    "logoUrl": "https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 216,
+    "name": "TURKUVAZ EFSANE",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazefsane/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 217,
+    "name": "Turkuvaz Musiki",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Tsm",
+    "isFavorite": false
+  },
+  {
+    "id": 218,
+    "name": "TURKUVAZ NOSTALJİ",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvaznostalji/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 219,
+    "name": "TURKUVAZ ROMANTİK",
+    "streamUrl": "https://trkvz-Radyolar.ercdn.net/turkuvazromantik/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 220,
+    "name": "ULUSAL Arabesk",
+    "streamUrl": "https://radio.guventechnology.com/9334/stream",
+    "logoUrl": "",
+    "category": "Arabesk",
+    "isFavorite": false
+  },
+  {
+    "id": 221,
+    "name": "Veng Radyo",
+    "streamUrl": "https://live.Radyo.in/8012/stream",
+    "logoUrl": "https://www.vengradyo.com/Radyogorsel.jpg",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 222,
+    "name": "VİBE STATİON",
+    "streamUrl": "https://stream.zeno.fm/528but9e7motv",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 223,
+    "name": "Virgin Radio Türkiye",
+    "streamUrl": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
+    "logoUrl": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
+    "category": "Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 224,
+    "name": "VİRGİN Radyo",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 225,
+    "name": "VİZYON NOSTALJİ",
+    "streamUrl": "https://stream.netradyom.com/radio/7090/radio.mp3/;",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 226,
+    "name": "Vokal Tr",
+    "streamUrl": "https://moondigitaledge.Radyotvonline.net/Radyolanddoksanlar/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 227,
+    "name": "WORLD HİTS",
+    "streamUrl": "http://37.247.98.8/stream/34/",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 230,
+    "name": "Yaren FM",
+    "streamUrl": "https://yarenfmn.80.yayin.com.tr//stream",
+    "logoUrl": "https://tarsusfm.com.tr/favicon.ico",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 231,
+    "name": "YENİ Pop",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 232,
     "name": "Trt Radyo 3",
     "streamUrl": "https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8",
     "logoUrl": "https://www.trt.net.tr/_nuxt/img/trt-radyo-3-radyo-kanali.101a3cf.png",
@@ -1856,7 +1848,7 @@
     "isFavorite": false
   },
   {
-    "id": 459,
+    "id": 233,
     "name": "Yön Radyo",
     "streamUrl": "https://stream.Radyolarburada.com:8020/yonradyo",
     "logoUrl": "https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-Radyo-1.png",
