@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Efsane 4'lü",
     "streamUrl": "https://moondigitalmaster.Radyotvonline.net/efsane4lu/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/efsane4lu.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/efsane4lu.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Kral FM",
     "streamUrl": "http://46.20.3.204/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kralfm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kral-fm.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Radyo 7 Ferdi Müslüm Orhan",
     "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo7ferdimuslumorhan.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo7Ferdimuslumorhan.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "102.1 Arabeskin Merkezi Fm",
     "streamUrl": "http://canli.Arabeskinmerkezi.com:9180/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/1021arabeskinmerkezifm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/arabeskin-merkezi.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Efkar",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/efkar.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/efkar-fm.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "İmaj FM",
     "streamUrl": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/imajfm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/imajfm.png",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "İmbat FM",
     "streamUrl": "https://Radyo.medyahost.com.tr/8034/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/imbatfm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/imbat_fm.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Kayseri GözdeFM",
     "streamUrl": "https://sslyayin.Radyoyayini.com:7067/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kayserigozdefm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kayseri-gozdefm.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Kral Türk FM",
     "streamUrl": "https://live.Radyositesihazir.com/8032/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kralturkfm.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kral-turk-fm.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -83,7 +83,7 @@
     "id": 12,
     "name": "Megasite",
     "streamUrl": "https://stream.netradyom.com/listen/megasite/radio.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/megasite.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mega-site.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -91,7 +91,7 @@
     "id": 13,
     "name": "Melankolik Home",
     "streamUrl": "http://37.247.98.8/stream/20/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/melankolikhome.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/melankolik-home.jpg",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -99,7 +99,7 @@
     "id": 14,
     "name": "Radyo 7",
     "streamUrl": "http://46.20.3.250/;stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo7.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-7.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -107,7 +107,7 @@
     "id": 15,
     "name": "Radyo Armoni",
     "streamUrl": "https://Radyo.yayindakiler.com:4084/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoarmoni.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/armonilogo.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -115,7 +115,7 @@
     "id": 17,
     "name": "Radyo Duygusal",
     "streamUrl": "https://Radyoduygusal.kesintisizyayin.com:9596/;*.nsv",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoduygusal.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-duygusal.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -123,7 +123,7 @@
     "id": 18,
     "name": "Radyo ŞAMPİYON",
     "streamUrl": "https://Radyo.yayin.com.tr:4106/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyosampiyon.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-sampiyon.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -131,7 +131,7 @@
     "id": 19,
     "name": "Radyo Arabesk",
     "streamUrl": "https://yayin.Radyoarabesk.com.tr:8000/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoarabesk.webp",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-arabesk.webp",
     "category": "Arabesk",
     "isFavorite": false
   },
@@ -147,7 +147,7 @@
     "id": 21,
     "name": "Çeşme Viking Radyo",
     "streamUrl": "https://ip169.ozelip.com/8432/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/cesmevikingradyo.webp",
+    "logoUrl": "https://www.cesmevikingradyo.com/uploads/logo/logo-calışması-2_2.png",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -155,7 +155,7 @@
     "id": 22,
     "name": "Dedemin Radyosu",
     "streamUrl": "https://anadolu.liderhost.com.tr/9002/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dedeminradyosu.webp",
+    "logoUrl": "https://dedeminradyosu.com.tr/assets/logo.png",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -163,7 +163,7 @@
     "id": 23,
     "name": "Dt Nostalji",
     "streamUrl": "https://canli.dtnostalji.com.tr/9999/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dtnostalji.webp",
+    "logoUrl": "https://images.tuneyou.com/images/logos/500_500/79/26879/DTNOSTALJ_3.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -171,7 +171,7 @@
     "id": 24,
     "name": "Erzincan Nostalji Radyo",
     "streamUrl": "https://erzincannostalji.ozelip.com/8238/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/erzincannostaljiradyo.webp",
+    "logoUrl": "https://www.radyoburada.com/logo/333.webp",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -179,7 +179,7 @@
     "id": 25,
     "name": "Esas Radyo",
     "streamUrl": "https://yayin.turkhosted.com:6034/stream/;stream.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/esasradyo.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/esas-radyo.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -187,7 +187,7 @@
     "id": 26,
     "name": "Kiss Gold Türk",
     "streamUrl": "https://dijimedya.Radyotvonline.net/goldturk",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kissgoldturk.webp",
+    "logoUrl": "https://www.radyoburada.com/logo/1453.webp",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -195,7 +195,7 @@
     "id": 27,
     "name": "Retro Türk'",
     "streamUrl": "https://25643.live.streamtheworld.com/RETROTURK_SC",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/retroturk.webp",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/retro-turk.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -203,7 +203,7 @@
     "id": 29,
     "name": "PAL Nostalji",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/palnostalji/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/palnostalji.webp",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s278927g.png",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -211,7 +211,7 @@
     "id": 30,
     "name": "Pop 90",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/Pop90128AAC.aac",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/pop90.webp",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/pop-90.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -219,7 +219,7 @@
     "id": 31,
     "name": "Radyo 45'lik",
     "streamUrl": "https://stream.Radyo45lik.com:4545/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo45lik.webp",
+    "logoUrl": "https://radyo45lik.com/wp-content/uploads/2025/07/Radyo-45lik-Logo-_1B.png",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -227,7 +227,7 @@
     "id": 32,
     "name": "Radyo 90",
     "streamUrl": "https://live.Radyo.in/9054/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo90.webp",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/radyo-90.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -235,7 +235,7 @@
     "id": 33,
     "name": "Radyo Nostaljinin Sesi",
     "streamUrl": "http://eu8.fastcast4u.com/proxy/eskininadami/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyonostaljininsesi.webp",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/radyo-nostaljinin-sesi.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -243,7 +243,7 @@
     "id": 34,
     "name": "Radyo Sarı Tramvay",
     "streamUrl": "http://37.247.98.8/stream/27/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyosaritramvay.webp",
+    "logoUrl": "https://www.canliradyolardinle.com/img/205x205/sari-tramvay.jpg",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -259,7 +259,7 @@
     "id": 37,
     "name": "Radyo Alaturka",
     "streamUrl": "https://yayin.jumboserver.net:9100/stream?.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoalaturka.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/Radyo-alaturka-dinle.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -267,7 +267,7 @@
     "id": 38,
     "name": "Maziden Bir Demet",
     "streamUrl": "http://37.247.98.8/stream/24/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mazidenbirdemet.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/maziden-bir-demet-dinle.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -275,7 +275,7 @@
     "id": 39,
     "name": "Kiss Musiki",
     "streamUrl": "https://dijimedya.Radyotvonline.net/Radyomusiki",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kissmusiki.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/kiss-musiki.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -283,7 +283,7 @@
     "id": 234,
     "name": "Polis Radyosu Tsm",
     "streamUrl": "https://m.egm.gov.tr:8093/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/polisradyosutsm.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/polis-radyosu-turk-sanat-muzigi.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -291,7 +291,7 @@
     "id": 40,
     "name": "Meteorolojinin Sesi",
     "streamUrl": "http://Radyomgm.canliyayinda.com/;stream.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/meteorolojininsesi.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/meteorolojinin-sesi-dinle.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -299,7 +299,7 @@
     "id": 41,
     "name": "Radyo AHENK",
     "streamUrl": "https://yayin.Radyomadyo.com:8014/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoahenk.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/radyo-ahenk.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -307,7 +307,7 @@
     "id": 42,
     "name": "Radyo MÜZEYYEN",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/muzeyyen/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyomuzeyyen.webp",
+    "logoUrl": "https://ik.fskit.net/radyohome/media/station/86/logo_square.png",
     "category": "TSM",
     "isFavorite": false
   },
@@ -315,7 +315,7 @@
     "id": 43,
     "name": "TRT Nağme",
     "streamUrl": "https://rd-trtnagme.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtnagme.webp",
+    "logoUrl": "https://myradyodinle.com/public/uploads/radio_img/trt-nagme/play_250_250.webp",
     "category": "TSM",
     "isFavorite": false
   },
@@ -323,7 +323,7 @@
     "id": 44,
     "name": "TRT FM",
     "streamUrl": "http://trt.Radyotvonline.net/trtfm",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtfm.webp",
+    "logoUrl": "https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/trt-fm-buyuk.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -331,7 +331,7 @@
     "id": 45,
     "name": "ASpor",
     "streamUrl": "http://trkvz-Radyolar.ercdn.net/asporradyo/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/aspor.webp",
+    "logoUrl": "https://myradyodinle.com/public/uploads/radio_img/aspor-radyo/play_300.webp",
     "category": "Spor",
     "isFavorite": false
   },
@@ -339,7 +339,7 @@
     "id": 46,
     "name": "GİMSA Radyo",
     "streamUrl": "http://yayin1.canliyayin.org:9482/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/gimsaradyo.webp",
+    "logoUrl": "https://www.gimsa.com.tr/images/apple-touch-icon.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -347,7 +347,7 @@
     "id": 47,
     "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
     "streamUrl": "https://wowza1.Radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/liderfm875aleminlideri.webp",
+    "logoUrl": "https://liderfm.net/public/images/1.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -355,7 +355,7 @@
     "id": 48,
     "name": "107.4 Radio Voyage",
     "streamUrl": "http://voyagewmp.radyotvonline.com/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/1074radiovoyage.webp",
+    "logoUrl": "https://www.Radyovoyage.com/media/rdwlpzdt/voyage_dunya-poz.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -363,7 +363,7 @@
     "id": 49,
     "name": "A Haber",
     "streamUrl": "https://trkvz-Radyolar.ercdn.net/ahaberradyo/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/ahaber.webp",
+    "logoUrl": "https://www.radyodinle.us/img/rd-img/a-haber-radyo.jpg",
     "category": "Haber",
     "isFavorite": false
   },
@@ -371,7 +371,7 @@
     "id": 50,
     "name": "a PARA",
     "streamUrl": "https://trkvz-Radyolar.ercdn.net/apararadyo/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/apara.webp",
+    "logoUrl": "https://i.tmgrup.com.tr/apara/site/v1/i/favicon.png",
     "category": "Haber",
     "isFavorite": false
   },
@@ -379,7 +379,7 @@
     "id": 51,
     "name": "Akra FM",
     "streamUrl": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/akrafm.webp",
+    "logoUrl": "https://www.radyodinle1.com/img/rd-rsm/canli-akra-fm-dinle.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -387,7 +387,7 @@
     "id": 52,
     "name": "ALEM FM",
     "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/alemfm",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/alemfm.webp",
+    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -403,7 +403,7 @@
     "id": 235,
     "name": "Makam Radyo",
     "streamUrl": "https://25443.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/makamradyo.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/makam-radyo.jpg",
     "category": "TSM",
     "isFavorite": false
   },
@@ -419,7 +419,7 @@
     "id": 55,
     "name": "Aşk FM",
     "streamUrl": "http://yayin.asymedya.com:8020/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/askfm.webp",
+    "logoUrl": "https://www.Radyoreklamankara.com/wp-content/uploads/2016/05/aşk-fm-300x300.png",
     "category": "Slow",
     "isFavorite": false
   },
@@ -427,7 +427,7 @@
     "id": 56,
     "name": "Baby Joy",
     "streamUrl": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/babyjoy.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/baby-joy.jpg",
     "category": "Çocuk",
     "isFavorite": false
   },
@@ -435,7 +435,7 @@
     "id": 57,
     "name": "Babyland Türkiye",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/babyland/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/babylandturkiye.webp",
+    "logoUrl": "https://www.canli-radyodinle.com/img.php?f=1955-2018-02-25.jpg",
     "category": "Çocuk",
     "isFavorite": false
   },
@@ -443,7 +443,7 @@
     "id": 58,
     "name": "Bayram FM",
     "streamUrl": "https://sslyayin.netyayin.net:10962/320.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bayramfm.webp",
+    "logoUrl": "https://www.Radyodinletv.com/wp-content/uploads/bayram-fm-300x159.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -451,7 +451,7 @@
     "id": 59,
     "name": "Best FM",
     "streamUrl": "https://ssldyg.Radyotvonline.com/best/bestfm.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestfm.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -459,7 +459,7 @@
     "id": 60,
     "name": "Best Hit",
     "streamUrl": "https://wowza3.Radyotvonline.com/best/bestteen.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/besthit.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/best-hit.jpg",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -467,7 +467,7 @@
     "id": 61,
     "name": "Best Rap",
     "streamUrl": "https://wowza3.Radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestrap.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/best-rap.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -475,7 +475,7 @@
     "id": 62,
     "name": "Best Slow",
     "streamUrl": "https://hepsibest.Radyotvonline.net/bestslow",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestslow.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/best-slow.jpg",
     "category": "Slow",
     "isFavorite": false
   },
@@ -483,7 +483,7 @@
     "id": 235,
     "name": "Radyo Romantik Türk",
     "streamUrl": "http://radyo.yayin.com.tr:6042/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoromantikturk.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/romantik-turk.jpg",
     "category": "Slow",
     "isFavorite": false
   },
@@ -491,7 +491,7 @@
     "id": 63,
     "name": "BesteFM",
     "streamUrl": "https://stream.zeno.fm/tnvnovtgozstv",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestefm.webp",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s159832d.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -499,7 +499,7 @@
     "id": 64,
     "name": "BesteFM Mix",
     "streamUrl": "https://yayin.Radyomadyo.com:8002/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestefmmix.webp",
+    "logoUrl": "https://radyo.gen.tr/gorsel/bestefm-mix-dinle_360x201_401.jpg",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -507,7 +507,7 @@
     "id": 65,
     "name": "Bodrum Fm",
     "streamUrl": "https://live.bodrumfm.org/stream.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bodrumfm.webp",
+    "logoUrl": "https://bodrumfm.org/wp-content/uploads/2022/12/01.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -515,7 +515,7 @@
     "id": 66,
     "name": "Borusan Klasik",
     "streamUrl": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/borusanklasik.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/borusan-klasik.jpg",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -523,7 +523,7 @@
     "id": 67,
     "name": "Classicland Türkiye",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/classicland/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/classiclandturkiye.webp",
+    "logoUrl": "https://ik.fskit.net/radyohome/media/station/91/logo_square.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -531,7 +531,7 @@
     "id": 68,
     "name": "Cnn Türk Radyo",
     "streamUrl": "https://moondigitaledge2.Radyotvonline.net/cnnturk/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/cnnturkradyo.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/cnn-turk-dinle.jpg",
     "category": "Haber",
     "isFavorite": false
   },
@@ -539,7 +539,7 @@
     "id": 69,
     "name": "Danceland",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/danceland.webp",
+    "logoUrl": "https://danceland.radio/__l5e/assets-v1/42f56626-0cc2-4f5a-bc68-352c38d748ed/danceland-cropped.png",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -547,7 +547,7 @@
     "id": 70,
     "name": "DanceLand Anthems",
     "streamUrl": "https://likeradiostream.com/dancelandanthems",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dancelandanthems.webp",
+    "logoUrl": "https://danceland.radio/__l5e/assets-v1/aea626d2-eaa4-4cbd-beb9-eee52f123455/danceland-anthems-cropped.png",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -563,7 +563,7 @@
     "id": 74,
     "name": "Dinamo.fm Caffe",
     "streamUrl": "http://channels.dinamo.fm/caffe-mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dinamofmcaffe.webp",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-caffe-favicon.jpg",
     "category": "Etnik",
     "isFavorite": false
   },
@@ -571,7 +571,7 @@
     "id": 75,
     "name": "Dinamo.fm Deep",
     "streamUrl": "http://channels.dinamo.fm/deep-mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dinamofmdeep.webp",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg",
     "category": "House",
     "isFavorite": false
   },
@@ -579,7 +579,7 @@
     "id": 76,
     "name": "Dinamo.fm Fluent",
     "streamUrl": "http://channels.dinamo.fm/fluent-mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dinamofmfluent.webp",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-fluent-favicon.jpg",
     "category": "House",
     "isFavorite": false
   },
@@ -587,7 +587,7 @@
     "id": 77,
     "name": "Dinamo.fm Locodyno",
     "streamUrl": "http://channels.dinamo.fm/locodyno-mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dinamofmlocodyno.webp",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-locodyno-favicon.jpg",
     "category": "House",
     "isFavorite": false
   },
@@ -595,7 +595,7 @@
     "id": 78,
     "name": "Discoland",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/discoland/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/discoland.webp",
+    "logoUrl": "https://kuasark.com/files/stations-logos/discoland.png",
     "category": "Nostalji",
     "isFavorite": false
   },
@@ -603,7 +603,7 @@
     "id": 79,
     "name": "Diyanet Kur'an Radyo",
     "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/diyanetkuranradyo.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/kuran-radyo.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -611,7 +611,7 @@
     "id": 80,
     "name": "Diyanet Radyo",
     "streamUrl": "https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1171d7d2a.smil/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/diyanetradyo.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/Diyanet-Radyo-100x100.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -619,7 +619,7 @@
     "id": 81,
     "name": "Dream Türk",
     "streamUrl": "https://Radyo.duhnet.tv/dreamturk",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dreamturk.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/dream-turk.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -635,7 +635,7 @@
     "id": 83,
     "name": "Enderun FM",
     "streamUrl": "http://yayin2.canliyayin.org:7052/;*.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/enderunfm.webp",
+    "logoUrl": "https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -643,7 +643,7 @@
     "id": 84,
     "name": "Enradio",
     "streamUrl": "https://Radyo1.Radyo-dinle.tc/8098/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/enradio.webp",
+    "logoUrl": "https://enradio.tr/wp-content/uploads/2026/07/enradio-favicon.png",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -651,7 +651,7 @@
     "id": 85,
     "name": "Erkam Radyo",
     "streamUrl": "https://yayin2.canliyayin.org:10910/stream?",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/erkamradyo.webp",
+    "logoUrl": "https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0",
     "category": "Dini",
     "isFavorite": false
   },
@@ -659,7 +659,7 @@
     "id": 86,
     "name": "Fakir Fm",
     "streamUrl": "https://live.Radyositesihazir.com/1025/stream/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fakirfm.webp",
+    "logoUrl": "https://www.fakirfm.com/favicon.ico",
     "category": "Pop",
     "isFavorite": false
   },
@@ -707,7 +707,7 @@
     "id": 92,
     "name": "FG 93.8 (Future Generation)",
     "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/fg",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fg938futuregeneration.webp",
+    "logoUrl": "https://i1.sndcdn.com/avatars-6lAdUGxB5DjlvwWt-6IBY7g-t200x200.jpg",
     "category": "House",
     "isFavorite": false
   },
@@ -715,7 +715,7 @@
     "id": 93,
     "name": "Flow Radyo",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/flow/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/flowradyo.webp",
+    "logoUrl": "https://turkradyodinle.com/stations/logos/flow-Radyo.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -739,7 +739,7 @@
     "id": 96,
     "name": "Gül Fm",
     "streamUrl": "https://yayin2.canliyayin.org:10989/;*.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/gulfm.webp",
+    "logoUrl": "https://www.Radyogul.com.tr/images/logo.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -747,7 +747,7 @@
     "id": 97,
     "name": "Habertürk Radyo",
     "streamUrl": "https://Haberturkradyo.Radyotvonline.net/Haberturkradyo",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/haberturkradyo.webp",
+    "logoUrl": "https://www.Haberturkradyo.com.tr/wp-content/uploads/2017/07/cropped-Radyo_LOGO_Son-180x180.png",
     "category": "Haber",
     "isFavorite": false
   },
@@ -771,7 +771,7 @@
     "id": 100,
     "name": "Heart FM 103.4",
     "streamUrl": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/heartfm1034.webp",
+    "logoUrl": "https://www.heartfm.com.tr/img/logo-darkheart.png",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -779,7 +779,7 @@
     "id": 101,
     "name": "Hedef Radyo",
     "streamUrl": "https://ssldyg.Radyotvonline.com/live/hedefradyo.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/hedefradyo.webp",
+    "logoUrl": "https://ik.imagekit.io/eywz9hvpg/pal/media/media/18/files/media_hedef-Radyo-default-image_15042026044308_69df95eccf956.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -787,7 +787,7 @@
     "id": 102,
     "name": "Her An Kur'an Her An Mutluluk",
     "streamUrl": "https://radio.mihr.com/radio/8050/radio.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/herankuranheranmutluluk.webp",
+    "logoUrl": "https://radio.mihr.com/api/station/6/art/9a76153b3003c3b5e252be87-1663451578.jpg",
     "category": "Dini",
     "isFavorite": false
   },
@@ -811,7 +811,7 @@
     "id": 105,
     "name": "İhya Fm",
     "streamUrl": "https://Radyo.yayin.com.tr:2727/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/ihyafm.webp",
+    "logoUrl": "https://ihyafm.com.tr/public/logo.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -819,7 +819,7 @@
     "id": 106,
     "name": "İstanbul FM",
     "streamUrl": "https://live.Radyofenomen.com/istanbulfm/128/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/istanbulfm.webp",
+    "logoUrl": "https://www.istanbulfm.com.tr/assets/logo.png?v=58",
     "category": "Pop",
     "isFavorite": false
   },
@@ -827,7 +827,7 @@
     "id": 107,
     "name": "İTÜ Klasik",
     "streamUrl": "http://160.75.86.29:8088/ituklasikmp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/ituklasik.webp",
+    "logoUrl": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -843,7 +843,7 @@
     "id": 109,
     "name": "Kalbe Dokunan Şarkılar",
     "streamUrl": "https://live.sinirsizhost.com.tr/8058/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kalbedokunansarkilar.webp",
+    "logoUrl": "https://kalbedokunansarkilar.com.tr/uploads/logom/xlogo_1.png",
     "category": "Slow",
     "isFavorite": false
   },
@@ -851,7 +851,7 @@
     "id": 110,
     "name": "Kalp FM",
     "streamUrl": "https://yayin.kalpfm.com:8080/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kalpfm.webp",
+    "logoUrl": "https://kalpfm.com/favicon.ico",
     "category": "Slow",
     "isFavorite": false
   },
@@ -859,7 +859,7 @@
     "id": 111,
     "name": "Karadut Fm",
     "streamUrl": "https://yayin5.Radyohizmeti.com/9982/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/karadutfm.webp",
+    "logoUrl": "https://www.karadutfm.com/resimler/sistem/20571KARADUT%20FM%20LOGO.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -915,7 +915,7 @@
     "id": 118,
     "name": "Kiss Türk",
     "streamUrl": "https://kiss.Radyotvonline.net/kissturk",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kissturk.webp",
+    "logoUrl": "https://kissapp.com.tr/content/files/IIMG_BE9E7FDE-27B7-466A-BE72-C344A3DCCD4C.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -955,7 +955,7 @@
     "id": 123,
     "name": "KRAL Pop",
     "streamUrl": "https://dygedge2.Radyotvonline.net/kralfm/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kralpop.webp",
+    "logoUrl": "https://cdn1.kralmuzik.com.tr/media/content/19-05/20/kralpop.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1003,7 +1003,7 @@
     "id": 129,
     "name": "loops radio",
     "streamUrl": "https://progressive.ozelip.com/7670/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/loopsradio.webp",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1011,7 +1011,7 @@
     "id": 130,
     "name": "Loops Radio Elektronica Station",
     "streamUrl": "https://ssl22.Radyotelekom.com/8232/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/loopsradioelektronicastation.webp",
+    "logoUrl": "https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1019,7 +1019,7 @@
     "id": 131,
     "name": "Loops Radio House Station",
     "streamUrl": "https://loopsdeep.ozelip.com/7806/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/loopsradiohousestation.webp",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1027,7 +1027,7 @@
     "id": 132,
     "name": "Loops Radio Progressive",
     "streamUrl": "https://progressive.ozelip.com/7670/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/loopsradioprogressive.webp",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1035,7 +1035,7 @@
     "id": 133,
     "name": "Loops Radio Techno",
     "streamUrl": "https://ip179.ozelip.com/7688//asistan/stream/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/loopsradiotechno.webp",
+    "logoUrl": "https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1043,7 +1043,7 @@
     "id": 134,
     "name": "LP Roman Fm",
     "streamUrl": "https://stream.zeno.fm/netvowp5t54uv",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/lpromanfm.webp",
+    "logoUrl": "https://images.zeno.fm/YKyCa49EHAby_iNlVUCD7Bvh8e8iAiWcr7KbqDBEp5k/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2ZhZjYyZmEyLTRkOTYtNGQ5Yi1iMjVkLTBlZTE3MTY5ZmMwNy9pbWFnZS8_dT0xNzc3ODE1OTQ0NDUx.webp",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1051,7 +1051,7 @@
     "id": 135,
     "name": "LP World Fm",
     "streamUrl": "https://stream.zeno.fm/hqjssdugsydvv",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/lpworldfm.webp",
+    "logoUrl": "https://images.zeno.fm/9QUnMa3MYXf9Hjx3V5UWxEIAB0DvCCkbuQYRhp5Kyd8/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3ak9uVzN3a01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJamVTbmtnb01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3ODA5MjA0MDc4ODY.webp",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -1059,7 +1059,7 @@
     "id": 136,
     "name": "Mayday Records",
     "streamUrl": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/maydayrecords.webp",
+    "logoUrl": "https://i.postimg.cc/ZnsgHRtW/android-chrome-512x512.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1067,7 +1067,7 @@
     "id": 137,
     "name": "Mekke Fm",
     "streamUrl": "https://Radyodinle.cansuyufm.com/17175/stream;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mekkefm.webp",
+    "logoUrl": "https://www.cansuyufm.com/wp-content/uploads/2024/04/logo_100.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -1075,7 +1075,7 @@
     "id": 138,
     "name": "Mio Radio",
     "streamUrl": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mioradio.webp",
+    "logoUrl": "https://static.wixstatic.com/media/289b80_d3c08d5820c0a13527afed308f65aa07.jpg/v1/crop/x_59,y_22,w_273,h_236/fill/w_284,h_230,al_c,lg_1,q_80,enc_avif,quality_auto/289b80_d3c08d5820c0a13527afed308f65aa07.jpg",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -1083,7 +1083,7 @@
     "id": 139,
     "name": "Mix A Mix FM",
     "streamUrl": "https://Radyo.yayin.com.tr:5998/stream/1/?icy=http",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mixamixfm.webp",
+    "logoUrl": "http://www.mixamixfm.com/images/tropical-hero.png",
     "category": "Slow",
     "isFavorite": false
   },
@@ -1091,7 +1091,7 @@
     "id": 140,
     "name": "MK Radyo",
     "streamUrl": "https://live.sinirsizhost.com.tr/8028/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mkradyo.webp",
+    "logoUrl": "https://mkradyo.com/mk.png?v=20260512-0247",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1131,7 +1131,7 @@
     "id": 146,
     "name": "Pal Fm",
     "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/palfmhome.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/palfm.webp",
+    "logoUrl": "http://www.palfm.com.tr/img/logo/pal-fm.ico",
     "category": "Etnik",
     "isFavorite": false
   },
@@ -1163,7 +1163,7 @@
     "id": 150,
     "name": "Power FM Türkiye",
     "streamUrl": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerfmturkiye.webp",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_37.png?v=716",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1195,7 +1195,7 @@
     "id": 154,
     "name": "Power Pop",
     "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerpop.webp",
+    "logoUrl": "https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1203,7 +1203,7 @@
     "id": 155,
     "name": "Power R&B Hip-Hop",
     "streamUrl": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerrbhiphop.webp",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/100x100/powerapp/channels/v3/inverse/logo_57.png?v=716",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -1251,7 +1251,7 @@
     "id": 162,
     "name": "PowerTürk Rap",
     "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerturkrap.webp",
+    "logoUrl": "https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1267,7 +1267,7 @@
     "id": 164,
     "name": "Radio Line",
     "streamUrl": "https://online.radioline.fm:8443/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radioline.webp",
+    "logoUrl": "https://radioline.fm/wp-content/uploads/2020/05/radioline_logo.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1307,7 +1307,7 @@
     "id": 169,
     "name": "Radyo Dingil",
     "streamUrl": "https://live.sinirsizhost.com.tr/8056/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyodingil.webp",
+    "logoUrl": "https://r.resimlink.com/CfF49Nv.jpeg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1331,7 +1331,7 @@
     "id": 172,
     "name": "Radyo EN",
     "streamUrl": "https://yayin2.canliyayin.org:7222/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoen.webp",
+    "logoUrl": "https://www.Radyoen.com.tr/images/Radyo-en-logo.png",
     "category": "Dini",
     "isFavorite": false
   },
@@ -1347,7 +1347,7 @@
     "id": 174,
     "name": "Radyo Fenomen Clubbin",
     "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/128/icecast.audio",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyofenomenclubbin.webp",
+    "logoUrl": "https://cdn.Radyofenomen.com/artwork/logo20.png",
     "category": "House",
     "isFavorite": false
   },
@@ -1363,7 +1363,7 @@
     "id": 176,
     "name": "Radyo Gökçeada",
     "streamUrl": "https://Radyo.yayin.com.tr:6179/;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyogokceada.webp",
+    "logoUrl": "https://www.Radyogokceada.net/favicon.ico",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1371,7 +1371,7 @@
     "id": 177,
     "name": "Radyo Hit Turkiye",
     "streamUrl": "https://play.Radyohit.tr/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyohitturkiye.webp",
+    "logoUrl": "https://Radyohit.tr/logo-dark.png",
     "category": "Yabancı",
     "isFavorite": false
   },
@@ -1403,7 +1403,7 @@
     "id": 181,
     "name": "Radyo Maksat",
     "streamUrl": "https://live.sinirsizhost.com.tr/8038/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyomaksat.webp",
+    "logoUrl": "https://Radyomaksat.com.tr/uploads/logo/logo_1.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1411,7 +1411,7 @@
     "id": 182,
     "name": "Radyo Mars",
     "streamUrl": "https://yayin.Radyomadyo.com:9400/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyomars.webp",
+    "logoUrl": "https://Radyomars.com/logo.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1419,7 +1419,7 @@
     "id": 183,
     "name": "Radyo Mavi Denizim",
     "streamUrl": "https://live.Radyositesihazir.com/8076/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyomavidenizim.webp",
+    "logoUrl": "https://www.Radyomavidenizim.com/wp-content/uploads/2022/09/images.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1467,7 +1467,7 @@
     "id": 189,
     "name": "Radyo Viva",
     "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/Radyoviva",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoviva.webp",
+    "logoUrl": "https://demo.Radyoviva.com.tr/wp-content/uploads/2020/06/Radyo-viva.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1483,7 +1483,7 @@
     "id": 191,
     "name": "RadyoAura",
     "streamUrl": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoaura.webp",
+    "logoUrl": "https://radioaurastorage2.blob.core.windows.net/music-files/station-branding/Radyoaura/logo.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1507,7 +1507,7 @@
     "id": 194,
     "name": "REPLAY NEWS - Türkçe    Her 5 dakikada Haber",
     "streamUrl": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/replaynewsturkceher5dakikadahaber.webp",
+    "logoUrl": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-TR.png",
     "category": "Haber",
     "isFavorite": false
   },
@@ -1515,7 +1515,7 @@
     "id": 195,
     "name": "Alem FM",
     "streamUrl": "http://turkmedya.Radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/alemfm.webp",
+    "logoUrl": "https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1523,7 +1523,7 @@
     "id": 196,
     "name": "Self FM",
     "streamUrl": "https://ssl22.Radyotelekom.com/8084/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/selffm.webp",
+    "logoUrl": "https://selffm.com.tr/images/logo/1185584367744-653-logo-selffm-Qhd.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1531,7 +1531,7 @@
     "id": 197,
     "name": "Show Radyo",
     "streamUrl": "http://showradyo.Radyotvonline.net/showradyoaac/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/showradyo.webp",
+    "logoUrl": "https://i.showradyo.com.tr/2/96/96/images/2025/07/28/show-Radyo-logo-siyah-kare-1080x1080-3FlYmzPm.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1539,7 +1539,7 @@
     "id": 198,
     "name": "Slow Turk",
     "streamUrl": "https://Radyo.duhnet.tv/ak_dtvh_slowturk",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/slowturk.webp",
+    "logoUrl": "https://www.Slowturk.com.tr/_next/image?url=https%3A%2F%2Fassets.blupoint.io%2Fimg%2F85%2F330x175%2F6410d8c4310c17000763c62b&w=256&q=75",
     "category": "Slow",
     "isFavorite": false
   },
@@ -1571,7 +1571,7 @@
     "id": 202,
     "name": "Süper FM 99.9",
     "streamUrl": "https://yayin.superfmradyo.com.tr/superfm/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/superfm999.webp",
+    "logoUrl": "https://www.superfmradyo.com.tr/img/logo.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1587,7 +1587,7 @@
     "id": 204,
     "name": "Tarkan",
     "streamUrl": "https://stream.pcradio.ru/tarkan-hi",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/tarkan.webp",
+    "logoUrl": "null",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1595,7 +1595,7 @@
     "id": 205,
     "name": "TheRockRadio",
     "streamUrl": "https://ssl4.Radyotvonline.com/Radyohome/therockradio.stream/playlist.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/therockradio.webp",
+    "logoUrl": "https://therock.com.tr/images/favicon.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1635,7 +1635,7 @@
     "id": 210,
     "name": "TRT Haber Radyo",
     "streamUrl": "https://trt.Radyotvonline.net/trthaber",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trthaberradyo.webp",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/TRT_Haber_kurumsal_logo_%282013-2020%29.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",
     "category": "Haber",
     "isFavorite": false
   },
@@ -1643,7 +1643,7 @@
     "id": 211,
     "name": "TRT Memleketim FM",
     "streamUrl": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtmemleketimfm.webp",
+    "logoUrl": "https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1651,7 +1651,7 @@
     "id": 212,
     "name": "TRT Radyo 1",
     "streamUrl": "https://trt.Radyotvonline.net/trt1",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtradyo1.webp",
+    "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1659,7 +1659,7 @@
     "id": 213,
     "name": "TRT Radyo Haber",
     "streamUrl": "https://radio-trtradyohaber.live.trt.com.tr/master.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtradyohaber.webp",
+    "logoUrl": "https://cdn-i.pr.trt.com.tr/trtdinle//w410/h315/q70/12530424_0-0-2048-1536.jpeg",
     "category": "Haber",
     "isFavorite": false
   },
@@ -1667,7 +1667,7 @@
     "id": 214,
     "name": "Trt Spor",
     "streamUrl": "https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtspor.webp",
+    "logoUrl": "null",
     "category": "Spor",
     "isFavorite": false
   },
@@ -1675,7 +1675,7 @@
     "id": 215,
     "name": "Türk Pop FM",
     "streamUrl": "https://yayin5.Radyohizmeti.com/8090/stream;",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/turkpopfm.webp",
+    "logoUrl": "https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1723,7 +1723,7 @@
     "id": 221,
     "name": "Veng Radyo",
     "streamUrl": "https://live.Radyo.in/8012/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/vengradyo.webp",
+    "logoUrl": "https://www.vengradyo.com/Radyogorsel.jpg",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1739,7 +1739,7 @@
     "id": 223,
     "name": "Virgin Radio Türkiye",
     "streamUrl": "http://29103.live.streamtheworld.com/VIRGIN_RADIO_SC",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/virginradioturkiye.webp",
+    "logoUrl": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1779,7 +1779,7 @@
     "id": 230,
     "name": "Yaren FM",
     "streamUrl": "https://yarenfmn.80.yayin.com.tr//stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/yarenfm.webp",
+    "logoUrl": "https://tarsusfm.com.tr/favicon.ico",
     "category": "Diğer",
     "isFavorite": false
   },
@@ -1795,7 +1795,7 @@
     "id": 232,
     "name": "Trt Radyo 3",
     "streamUrl": "https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trtradyo3.webp",
+    "logoUrl": "https://www.trt.net.tr/_nuxt/img/trt-radyo-3-radyo-kanali.101a3cf.png",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1803,7 +1803,7 @@
     "id": 236,
     "name": "Mydonose Türk",
     "streamUrl": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mydonoseturk.webp",
+    "logoUrl": "https://www.canliradyodinle.fm/wp-content/uploads/mydonose-turk-dinle.jpg",
     "category": "Pop",
     "isFavorite": false
   },
@@ -1811,7 +1811,7 @@
     "id": 233,
     "name": "Yön Radyo",
     "streamUrl": "https://stream.Radyolarburada.com:8020/yonradyo",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/yonradyo.webp",
+    "logoUrl": "https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-Radyo-1.png",
     "category": "Diğer",
     "isFavorite": false
   }
