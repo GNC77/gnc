@@ -121,7 +121,7 @@
   },
   {
     "id": 16,
-    "name": "Radyo ŞAMPİYON",
+    "name": "Radyo Şampiyon",
     "streamUrl": "https://Radyo.yayin.com.tr:4106/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-sampiyon.webp",
     "category": "Arabesk",
@@ -297,7 +297,7 @@
   },
   {
     "id": 38,
-    "name": "Radyo AHENK",
+    "name": "Radyo Ahenk",
     "streamUrl": "https://yayin.Radyomadyo.com:8014/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-ahenk.jpg",
     "category": "TSM",
@@ -305,7 +305,7 @@
   },
   {
     "id": 39,
-    "name": "Radyo MÜZEYYEN",
+    "name": "Radyo Müzeyyen",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/muzeyyen/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-muzeyyen.webp",
     "category": "TSM",
@@ -324,7 +324,7 @@
     "name": "TRT FM",
     "streamUrl": "http://trt.Radyotvonline.net/trtfm",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trt-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -337,18 +337,18 @@
   },
   {
     "id": 43,
-    "name": "GİMSA Radyo",
+    "name": "Gimsa Radyo",
     "streamUrl": "http://yayin1.canliyayin.org:9482/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/gimsa-radyo.webp",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
     "id": 44,
-    "name": "LİDER FM - 87.5 ALEMİN LİDERİ",
+    "name": "Lider Fm - 87.5",
     "streamUrl": "https://wowza1.Radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/liderfm.webp",
-    "category": "Diğer",
+    "category": "Arabesk",
     "isFavorite": false
   },
   {
@@ -356,7 +356,7 @@
     "name": "107.4 Radio Voyage",
     "streamUrl": "http://voyagewmp.radyotvonline.com/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/voyage_dunya.webp",
-    "category": "Diğer",
+    "category": "Etnik",
     "isFavorite": false
   },
   {
@@ -385,10 +385,10 @@
   },
   {
     "id": 49,
-    "name": "ALEM FM",
+    "name": "Alem FM",
     "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/alemfm",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/alemfm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -452,7 +452,7 @@
     "name": "Best FM",
     "streamUrl": "https://ssldyg.Radyotvonline.com/best/bestfm.stream/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/best-fm.png",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -468,7 +468,7 @@
     "name": "Best Rap",
     "streamUrl": "https://wowza3.Radyotvonline.com/best/bestgicir.stream/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/best-rap.webp",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -492,7 +492,7 @@
     "name": "BesteFM",
     "streamUrl": "https://stream.zeno.fm/tnvnovtgozstv",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestefm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -508,7 +508,7 @@
     "name": "Bodrum Fm",
     "streamUrl": "https://live.bodrumfm.org/stream.mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bodrumfm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -620,7 +620,7 @@
     "name": "Dream Türk",
     "streamUrl": "https://Radyo.duhnet.tv/dreamturk",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/dream-turk.jpg",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -660,7 +660,7 @@
     "name": "Fakir Fm",
     "streamUrl": "https://live.Radyositesihazir.com/1025/stream/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fakir-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -676,7 +676,7 @@
     "name": "Fenomen Dans",
     "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/fenomendans/128/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fenomendans.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -684,7 +684,7 @@
     "name": "Fenomen Karışık",
     "streamUrl": "https://live.Radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fenomen-karisik.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -692,7 +692,7 @@
     "name": "Fenomen Pop",
     "streamUrl": "https://live.Radyofenomen.com/fenomenpop/abr/fenomenpop/128/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fenomen-pop.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -700,7 +700,7 @@
     "name": "Fenomen Türk",
     "streamUrl": "https://live.Radyofenomen.com/fenomenturk/256/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fenomen-turk.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -716,7 +716,7 @@
     "name": "Flow Radyo",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/flow/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/flow-radyo.webp",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -724,7 +724,7 @@
     "name": "Garaj Radyo",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/garajradyo/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/garaj-radyo.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -764,7 +764,7 @@
     "name": "Hayat Mix Arabesk",
     "streamUrl": "https://Radyo.yayin.com.tr:4078/mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/hayatmix-arabesk.webp",
-    "category": "Diğer",
+    "category": "Arabesk",
     "isFavorite": false
   },
   {
@@ -772,7 +772,7 @@
     "name": "Heart FM 103.4",
     "streamUrl": "https://live.heartfm.com.tr/listen/heart_fm/128.aac",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/heart-fm.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -820,7 +820,7 @@
     "name": "İstanbul FM",
     "streamUrl": "https://live.Radyofenomen.com/istanbulfm/128/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/istanbul-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -836,7 +836,7 @@
     "name": "Kafa Radyo",
     "streamUrl": "https://moondigitalmaster.Radyotvonline.net/kafaradyo/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kafa-radyo.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -868,7 +868,7 @@
     "name": "Karma Türk",
     "streamUrl": "https://yayin.Radyomadyo.com:8006/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/karma-turk.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -892,7 +892,7 @@
     "name": "Radyo FENERBAHÇE",
     "streamUrl": "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/chunklist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-fenerbahce.webp",
-    "category": "Pop",
+    "category": "Spor",
     "isFavorite": false
   },
   {
@@ -900,7 +900,7 @@
     "name": "Kiss Genç",
     "streamUrl": "https://dijimedya.Radyotvonline.net/gncradyo",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kiss-genc.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -924,7 +924,7 @@
     "name": "Kiss Türk",
     "streamUrl": "https://kiss.Radyotvonline.net/kissturk",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kiss-turk.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -940,7 +940,7 @@
     "name": "KIYI Müzik",
     "streamUrl": "https://kiyi.radioca.st/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kiyi-muzik.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -948,7 +948,7 @@
     "name": "KIYI Türkçe",
     "streamUrl": "https://kiyiturk.radioca.st/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kiyiturkce.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -964,15 +964,15 @@
     "name": "KRAL Pop",
     "streamUrl": "https://dygedge2.Radyotvonline.net/kralfm/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kralpop.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
     "id": 122,
-    "name": "KRAL Pop ALTERNATİF 2",
+    "name": "Kral Pop Alternatif 2",
     "streamUrl": "https://ssldyg.Radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kralpop-alternatif2.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -980,7 +980,7 @@
     "name": "Küpe FM",
     "streamUrl": "https://icecast.netmedya.net/kupefm",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kupe-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1004,7 +1004,7 @@
     "name": "Lokum FM",
     "streamUrl": "http://37.247.98.9/stream/493/?/;stream.mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/lokumfm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1052,7 +1052,7 @@
     "name": "LP Roman Fm",
     "streamUrl": "https://stream.zeno.fm/netvowp5t54uv",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/lp-roman-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1100,7 +1100,7 @@
     "name": "MK Radyo",
     "streamUrl": "https://live.sinirsizhost.com.tr/8028/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mkradyo.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1132,7 +1132,7 @@
     "name": "Number 1 Türk Rap",
     "streamUrl": "https://dijimedya.Radyotvonline.net/turkrap",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/number1-turk-rap.webp",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1156,7 +1156,7 @@
     "name": "Pash Pash Radyo",
     "streamUrl": "https://hits.pashpashradio.com:7000/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/pashpash-radyo.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1180,7 +1180,7 @@
     "name": "Power FM Türkiye",
     "streamUrl": "https://listen.powerapp.com.tr/powerfm/256/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerfm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1204,7 +1204,7 @@
     "name": "Power Plus",
     "streamUrl": "https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/power-plus.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1212,7 +1212,7 @@
     "name": "Power Pop",
     "streamUrl": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/power-pop.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1236,7 +1236,7 @@
     "name": "PowerTürk FM",
     "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/power-turk-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1244,7 +1244,7 @@
     "name": "PowerTürk Taptaze",
     "streamUrl": "https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerturk-taptaze.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1260,7 +1260,7 @@
     "name": "PowerTürk",
     "streamUrl": "https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/power-turk-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1276,7 +1276,7 @@
     "name": "PowerTürk Rap",
     "streamUrl": "https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerturk-rap.webp",
-    "category": "Diğer",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1292,7 +1292,7 @@
     "name": "Radio Line",
     "streamUrl": "https://online.radioline.fm:8443/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radio-line.png",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1316,7 +1316,7 @@
     "name": "Radyo B",
     "streamUrl": "https://Radyob.ozelip.com.tr/8042/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-b.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1332,7 +1332,7 @@
     "name": "Radyo Dingil",
     "streamUrl": "https://live.sinirsizhost.com.tr/8056/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-dingil.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1340,7 +1340,7 @@
     "name": "Radyo Düet",
     "streamUrl": "https://Radyo.yayin.com.tr:6032/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-duet.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1348,7 +1348,7 @@
     "name": "Radyo Eksen 96.2",
     "streamUrl": "http://eksenwmp.Radyotvonline.com/;stream.mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-eksen.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1388,7 +1388,7 @@
     "name": "Radyo Gökçeada",
     "streamUrl": "https://Radyo.yayin.com.tr:6179/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-gokceada.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1420,7 +1420,7 @@
     "name": "Radyo Madyo",
     "streamUrl": "https://yayin.Radyomadyo.com:8004/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyomadyo.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1428,7 +1428,7 @@
     "name": "Radyo Maksat",
     "streamUrl": "https://live.sinirsizhost.com.tr/8038/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-maksat.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1436,7 +1436,7 @@
     "name": "Radyo Mars",
     "streamUrl": "https://yayin.Radyomadyo.com:9400/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-mars.webp",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1444,7 +1444,7 @@
     "name": "Radyo Mavi Denizim",
     "streamUrl": "https://live.Radyositesihazir.com/8076/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-mavi-denizim.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1452,7 +1452,7 @@
     "name": "Radyo Sahil",
     "streamUrl": "https://Radyo1.Radyo-dinle.tc/8056/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-sahil.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1460,7 +1460,7 @@
     "name": "Radyo Taksi",
     "streamUrl": "https://live.Radyo.in/8006/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo--taksi.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1468,7 +1468,7 @@
     "name": "Radyo Talya",
     "streamUrl": "https://yayin.Radyotalya.com:9424/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-talya.jpg",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1476,7 +1476,7 @@
     "name": "Radyo Trafik İstanbul",
     "streamUrl": "http://37.247.100.118/stream/157/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-trafik-istanbul.jpg",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1484,7 +1484,7 @@
     "name": "Turkuvaz Radyo",
     "streamUrl": "https://trkvz-Radyolar.ercdn.net/Radyoturkuvaz/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/turkuvaz.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1492,7 +1492,7 @@
     "name": "Radyo Viva",
     "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/Radyoviva",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-viva.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1505,10 +1505,10 @@
   },
   {
     "id": 189,
-    "name": "Radyo Aura",
+    "name": "Radyo Aura AI",
     "streamUrl": "https://stream.radiaura.net/station-ea8ab46e-ae01-4b71-ad9a-fef58665b89c",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyoaura.webp",
-    "category": "Pop",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1516,7 +1516,7 @@
     "name": "Rap Home",
     "streamUrl": "http://37.247.98.8/stream/606/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/rap-home.jpg",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1540,7 +1540,7 @@
     "name": "Alem FM",
     "streamUrl": "http://turkmedya.Radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/alemfm.webp",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1548,7 +1548,7 @@
     "name": "Self FM",
     "streamUrl": "https://ssl22.Radyotelekom.com/8084/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/selffm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1556,7 +1556,7 @@
     "name": "Show Radyo",
     "streamUrl": "http://showradyo.Radyotvonline.net/showradyoaac/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/show-radyo.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1580,7 +1580,7 @@
     "name": "Süper FM",
     "streamUrl": "http://22713.live.streamtheworld.com:3690/SUPER_FMAAC_SC",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/super-fm.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1588,7 +1588,7 @@
     "name": "Süper Fm 2 Türkiye",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/super-fm2.webp",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1596,7 +1596,7 @@
     "name": "Süper FM 99.9",
     "streamUrl": "https://yayin.superfmradyo.com.tr/superfm/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/superfm-99-9.webp",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1604,7 +1604,7 @@
     "name": "Süper Show Radyo",
     "streamUrl": "https://sslyayin.netyayin.net:6065/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/supersow-radyo.webp",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1612,7 +1612,7 @@
     "name": "Tarkan",
     "streamUrl": "https://stream.pcradio.ru/tarkan-hi",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/tarkan.png",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1652,7 +1652,7 @@
     "name": "Radyo Trio",
     "streamUrl": "http://radyotrio.radyotvonline.net/radyotrio",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyotrio.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1692,7 +1692,7 @@
     "name": "Türk Rock FM",
     "streamUrl": "https://yayin5.Radyohizmeti.com/8090/stream;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/turkrockfm.webp",
-    "category": "Pop",
+    "category": "Blues&Jazz",
     "isFavorite": false
   },
   {
@@ -1748,7 +1748,7 @@
     "name": "Virgin Radyo",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGIN_RADIO_ITUNES.mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/virgin-radyo.webp",
-    "category": "Pop",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1756,15 +1756,15 @@
     "name": "Vizyon Nostalji",
     "streamUrl": "https://stream.netradyom.com/radio/7090/radio.mp3/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/vizyon-nostalji.webp",
-    "category": "Diğer",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
     "id": 221,
-    "name": "WORLD HİTS",
+    "name": "World Hits",
     "streamUrl": "http://37.247.98.8/stream/34/",
     "logoUrl": "",
-    "category": "Diğer",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1772,7 +1772,7 @@
     "name": "Yeni Pop",
     "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SC006_SO1AAC.aac",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/yeni-pop.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1780,7 +1780,7 @@
     "name": "Trt Radyo 3",
     "streamUrl": "https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trt-radyo-3.webp",
-    "category": "Diğer",
+    "category": "Blues&Jazz",
     "isFavorite": false
   },
   {
@@ -1788,7 +1788,7 @@
     "name": "Mydonose Türk",
     "streamUrl": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mydonose-turk.webp",
-    "category": "Pop",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
