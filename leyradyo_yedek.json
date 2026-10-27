@@ -1,39 +1,39 @@
 [
   {
-    "id": 1,
-    "name": "Baba Radyo",
-    "streamUrl": "http://46.20.7.116/",
+    "id": "name",
+    "isim": "Baba Radyo",
+    "akış Url": "http://46.20.7.116/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/babaradyo.webp",
-    "category": "Arabesk",
-    "isFavorite": false
+    "kategori": "Arabesk",
+    "Favori": yanlış
   },
   {
-    "id": 2,
-    "name": "Efsane 4'lü",
-    "streamUrl": "https://moondigitalmaster.Radyotvonline.net/efsane4lu/playlist.m3u8",
+    "kimlik": 2,
+    "isim": "Efsane 4'lü",
+    "akış Url": "https://moondigitalmaster.Radyotvonline.net/efsane4lu/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/efsane4lu.jpg",
-    "category": "Arabesk",
-    "isFavorite": false
+    "kategori": "Arabesk",
+    "Favori": yanlış
   },
   {
-    "id": 3,
-    "name": "Kral FM",
-    "streamUrl": "http://46.20.3.204/",
+    "kimlik": 3,
+    "isim": "Kral FM",
+    "akış Url": "http://46.20.3.204/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kral-fm.webp",
-    "category": "Arabesk",
-    "isFavorite": false
+    "kategori": "Arabesk",
+    "Favori": yanlış
   },
   {
-    "id": 4,
-    "name": "Radyo 7 Ferdi Müslüm Orhan",
-    "streamUrl": "https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8",
+    "kimlik": 4,
+    "isim": "Radyo 7 Ferdi Müslüm Orhan",
+    "akış Url": "https://moondigitaledge2.radyotvonline.net/radyo7fmo/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo7Ferdimuslumorhan.webp",
-    "category": "Arabesk",
-    "isFavorite": false
+    "kategori": "Arabesk",
+    "Favori": yanlış
   },
   {
-    "id": 5,
-    "name": "102.1 Arabeskin Merkezi Fm",
+    "kimlik": 5,
+    "isim": "102.1 Arabeskin Merkezi Fm",
     "streamUrl": "http://canli.Arabeskinmerkezi.com:9180/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/arabeskin-merkezi.webp",
     "category": "Arabesk",
@@ -888,7 +888,7 @@
     "isFavorite": false
   },
   {
-    "id": 1907,
+    "id": 112,
     "name": "Radyo FENERBAHÇE",
     "streamUrl": "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/chunklist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-fenerbahce.webp",
