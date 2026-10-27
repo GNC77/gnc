@@ -888,11 +888,12 @@
     "isFavorite": false
   },
   {
-    "id": 112,
+    "id": 1907,
     "name": "Radyo FENERBAHÇE",
     "streamUrl": "https://radyofenerbahce.fenerbahce.org/radyofenerbahce/radyofenerbahce.stream_aac/chunklist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-fenerbahce.webp",
     "category": "Spor",
+    "referer": "https://live.radyofenerbahce.org/"
     "isFavorite": false
   },
   {
