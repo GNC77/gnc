@@ -1,6 +1,6 @@
 [
   {
-    "id": "name",
+    "id": 1,
     "name": "Baba Radyo",
     "streamUrl": "http://46.20.7.116/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/babaradyo.webp",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "name": "102.1 Arabeskin Merkezi Fm",
+    "name": "DamarTürk Fm",
     "streamUrl": "http://canli.Arabeskinmerkezi.com:9180/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/arabeskin-merkezi.webp",
     "category": "Arabesk",
@@ -369,7 +369,7 @@
   },
   {
     "id": 47,
-    "name": "a PARA",
+    "name": "A PARA",
     "streamUrl": "https://trkvz-Radyolar.ercdn.net/apararadyo/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/apara.webp",
     "category": "Haber",
@@ -381,14 +381,6 @@
     "streamUrl": "https://d3r5bwwuab2v60.cloudfront.net/akracanli2/_definst_/livestream_aac/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/akra-fm.webp",
     "category": "Dini",
-    "isFavorite": false
-  },
-  {
-    "id": 49,
-    "name": "Alem FM",
-    "streamUrl": "https://edge1.Radyotvonline.net/shoutcast/play/alemfm",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/alemfm.webp",
-    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -428,7 +420,7 @@
     "name": "Baby Joy",
     "streamUrl": "https://23623.live.streamtheworld.com/SC009_SO1AAC.aac",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/baby-joy.jpg",
-    "category": "Çocuk",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
@@ -436,7 +428,7 @@
     "name": "Babyland Türkiye",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/babyland/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/babyland-turkiye.jpg",
-    "category": "Çocuk",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
@@ -460,7 +452,7 @@
     "name": "Best Hit",
     "streamUrl": "https://wowza3.Radyotvonline.com/best/bestteen.stream/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/best-hit.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -500,7 +492,7 @@
     "name": "BesteFM Mix",
     "streamUrl": "https://yayin.Radyomadyo.com:8002/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/bestefm-mix.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -516,7 +508,7 @@
     "name": "Borusan Klasik",
     "streamUrl": "http://27783.live.streamtheworld.com:3690/BORUSAN_KLASIKAAC_SC",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/borusan-klasik.jpg",
-    "category": "Diğer",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
@@ -524,7 +516,7 @@
     "name": "Classicland Türkiye",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/classicland/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/classicland-turkiye.webp",
-    "category": "Diğer",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
@@ -540,7 +532,7 @@
     "name": "Danceland",
     "streamUrl": "https://moondigitaledge.Radyotvonline.net/danceland/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/danceland.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -548,7 +540,7 @@
     "name": "DanceLand Anthems",
     "streamUrl": "https://likeradiostream.com/dancelandanthems",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/danceland-anthems.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -644,7 +636,7 @@
     "name": "Enradio",
     "streamUrl": "https://Radyo1.Radyo-dinle.tc/8098/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/enradio.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -884,7 +876,7 @@
     "name": "Radio Mix",
     "streamUrl": "http://yayin.Radyomadyo.com:8002/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radio-mix.jpg",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -916,7 +908,7 @@
     "name": "Kiss Speed Up",
     "streamUrl": "https://dijimedya.Radyotvonline.net/speedup",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/kiss-speedup.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -956,7 +948,7 @@
     "name": "Klasik Home",
     "streamUrl": "http://37.247.98.8/stream/32/",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/klasik-home.jpg",
-    "category": "Diğer",
+    "category": "Nostalji",
     "isFavorite": false
   },
   {
@@ -1060,7 +1052,7 @@
     "name": "LP World Fm",
     "streamUrl": "https://stream.zeno.fm/hqjssdugsydvv",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/lp-world-fm.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1084,7 +1076,7 @@
     "name": "Mio Radio",
     "streamUrl": "https://s2.myradiostream.com/13662/;?type=http&nocache=1769756485?0.283950275860107",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mio-radio.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1108,7 +1100,7 @@
     "name": "Mood Pop",
     "streamUrl": "https://Radyo.yayin.com.tr:6321/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/mood-pop.png",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1164,7 +1156,7 @@
     "name": "Play Dance Radio",
     "streamUrl": "https://Radyo1.Radyo-dinle.tc/playdanceradio/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/playdanceradio.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1172,7 +1164,7 @@
     "name": "Power Dance",
     "streamUrl": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/powerdance.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1220,7 +1212,7 @@
     "name": "Power R&B Hip-Hop",
     "streamUrl": "https://listen.powerapp.com.tr/powerrbhiphop/256/chunks.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/power-rnb-hiphop.webp",
-    "category": "Yabancı",
+    "category": "Hiphop",
     "isFavorite": false
   },
   {
@@ -1308,7 +1300,7 @@
     "name": "Radyo Atılım",
     "streamUrl": "https://listen.powerapp.com.tr/Radyoatilim/mpeg/icecast.audio",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-atilim.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1317,14 +1309,6 @@
     "streamUrl": "https://Radyob.ozelip.com.tr/8042/stream",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-b.webp",
     "category": "Türkçe Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 166,
-    "name": "Radyo Clubbin",
-    "streamUrl": "https://Radyo.yayin.com.tr:6199/",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-clubbin.webp",
-    "category": "House",
     "isFavorite": false
   },
   {
@@ -1364,15 +1348,7 @@
     "name": "Radyo Fenomen",
     "streamUrl": "https://live.Radyofenomen.com/fenomen/128/icecast.audio",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-fenomen.webp",
-    "category": "Yabancı",
-    "isFavorite": false
-  },
-  {
-    "id": 172,
-    "name": "Radyo Fenomen Clubbin",
-    "streamUrl": "https://live.Radyofenomen.com/fenomenclubbin/128/icecast.audio",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/fenomen-clubbin.jpg",
-    "category": "House",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1380,7 +1356,7 @@
     "name": "Radyo Fenomen Dans",
     "streamUrl": "https://live.Radyofenomen.com/fenomendans/abr/playlist.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-fenomen-dans.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1389,14 +1365,6 @@
     "streamUrl": "https://Radyo.yayin.com.tr:6179/;",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-gokceada.webp",
     "category": "Türkçe Pop",
-    "isFavorite": false
-  },
-  {
-    "id": 175,
-    "name": "Radyo Hit Türkiye",
-    "streamUrl": "https://play.Radyohit.tr/stream",
-    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-hit-turkiye.webp",
-    "category": "Yabancı",
     "isFavorite": false
   },
   {
@@ -1412,7 +1380,7 @@
     "name": "Radyo Koç",
     "streamUrl": "https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-koc.webp",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1529,7 +1497,7 @@
   },
   {
     "id": 192,
-    "name": "Replay News - 5 dakikada bir haber",
+    "name": "Replay News - 5 dakikada 1 haber",
     "streamUrl": "https://replaynewstr.ice.infomaniak.ch/replaynewstr-128.mp3",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/replay-news.webp",
     "category": "Haber",
@@ -1644,7 +1612,7 @@
     "name": "TRD 4 Halk",
     "streamUrl": "https://stream.zeno.fm/x5n4sfyy9nhvv",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trd4-halk.webp",
-    "category": "Diğer",
+    "category": "Etnik",
     "isFavorite": false
   },
   {
@@ -1665,10 +1633,10 @@
   },
   {
     "id": 209,
-    "name": "TRT Memleketim FM",
+    "name": "TRT Memleketim",
     "streamUrl": "https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trt-memleketim.png",
-    "category": "Diğer",
+    "category": "Türkçe Pop",
     "isFavorite": false
   },
   {
@@ -1676,7 +1644,7 @@
     "name": "TRT Radyo 1",
     "streamUrl": "https://trt.Radyotvonline.net/trt1",
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/trt-radyo1.webp",
-    "category": "Diğer",
+    "category": "Blues&Jazz",
     "isFavorite": false
   },
   {
@@ -1740,7 +1708,7 @@
     "name": "Vibe Station",
     "streamUrl": "https://stream.zeno.fm/528but9e7motv",
     "logoUrl": "",
-    "category": "Yabancı",
+    "category": "Yabancı Pop",
     "isFavorite": false
   },
   {
@@ -1798,5 +1766,3429 @@
     "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyo-spor.webp",
     "category": "Spor",
     "isFavorite": false
-  }
+  },
+  {
+    "id": 226,
+    "name": "Radio Armisa",
+    "streamUrl": "https://onair.armisa.it/listen/armisa/radio.mp3",
+    "logoUrl": "https://armisa.it/assets/favicon/android-chrome-512x512.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 232,
+    "name": "Classic Vinyl HD",
+    "streamUrl": "https://icecast.walmradio.com:8443/classic",
+    "logoUrl": "https://icecast.walmradio.com:8443/classic.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 238,
+    "name": "80s80s Radio",
+    "streamUrl": "http://streams.80s80s.de/web/mp3-192/play.m3u",
+    "logoUrl": "https://upload.80s80s.de/production/static/1697296555757/icons/icon_512.ewwAEi8A30w.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 239,
+    "name": "KBS Classic FM",
+    "streamUrl": "http://serpent0.duckdns.org:8088/kbsfm.pls",
+    "logoUrl": "http://www.kbs.co.kr//resources/images/favorite/favorite.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 242,
+    "name": "Anon.FM",
+    "streamUrl": "https://icecast.anon.fm/radio",
+    "logoUrl": "https://icecast.anon.fm/favicon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 243,
+    "name": "Nostalgie HQ",
+    "streamUrl": "https://streaming.nrjaudio.fm/oua8a3w2dqao?origine=playernostalgie&aw_0_req.userConsentV2=&aw_0_1st.station=",
+    "logoUrl": "https://img.nrj.fr/J6jlakQsQ2siRzCzCI_2IDCQj1E=/80x80/https%3A%2F%2Fplayers.nrjaudio.fm%2Flive-metadata%2Fplayer%2Fimg%2Fplayer-files%2Fnosta%2Flogos%2F640x640%2FP_Nostalgie_Premium_Logo_2023.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 244,
+    "name": "101 SMOOTH JAZZ",
+    "streamUrl": "http://www.101smoothjazz.com/101-smoothjazz.m3u",
+    "logoUrl": "http://101smoothjazz.com/favicon.ico",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 246,
+    "name": "Bayern 3",
+    "streamUrl": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
+    "logoUrl": "https://api.ardmediathek.de/image-service/images/urn:ard:image:52fd25fc45de7c6a?w=512",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 247,
+    "name": "FUN Radio",
+    "streamUrl": "http://icecast.funradio.fr/fun-1-44-128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Logo_Fun_Radio_%282021%29.svg/langfr-1280px-Logo_Fun_Radio_%282021%29.svg.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 250,
+    "name": "Heart 80s",
+    "streamUrl": "https://media-ssl.musicradio.com/Heart80sMP3",
+    "logoUrl": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 252,
+    "name": "TOP 100 CLUB CHARTS",
+    "streamUrl": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts",
+    "logoUrl": "https://i.ibb.co/T1gH75m/rb-top100clubcharts.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 255,
+    "name": "Nrj Hits",
+    "streamUrl": "https://streaming.nrjaudio.fm/ou7xugf3s5gi?origine=playernrj&aw_0_req.userConsentV2=&aw_0_1st.station=NRJ-Hits",
+    "logoUrl": "https://img.nrj.fr/8loJFyDgG_Gm_fgnk1fhkYIewhI=/medias%2F2021%2F06%2Flogo-nrj_60db2627d4729.svg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 257,
+    "name": "Rock Antenne",
+    "streamUrl": "http://mp3channels.webradio.rockantenne.de/rockantenne",
+    "logoUrl": "http://www.rockantenne.de/logos/rock-antenne/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 258,
+    "name": "Arabesk FM",
+    "streamUrl": "http://yayin.arabeskfm.biz:8042/",
+    "logoUrl": "",
+    "category": "Arabesk",
+    "isFavorite": false
+  },
+  {
+    "id": 260,
+    "name": "Dance Wave! | MP3",
+    "streamUrl": "https://dancewave.online/dance.mp3",
+    "logoUrl": "https://dancewave.online/dw_logo.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 262,
+    "name": "Christmas FM Non-stop!",
+    "streamUrl": "https://xmas-node1.zip.wf/live.aac",
+    "logoUrl": "https://zip.wf/chfm.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 263,
+    "name": "SBS Love FM",
+    "streamUrl": "http://serpent0.duckdns.org:8088/sbs2fm.pls",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 270,
+    "name": "Skyrock Rap&RNB",
+    "streamUrl": "http://icecast.skyrock.net/s/natio_mp3_128k",
+    "logoUrl": "https://play-lh.googleusercontent.com/dPiQ01OUKZVfRZUbbb-EVK5g9miS_K-xrxHgmBbynGG-GQ53yt3GzFKr0zUTnb-xswQ=s200-rw",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 273,
+    "name": "Adroit Jazz Underground",
+    "streamUrl": "https://icecast.walmradio.com:8443/jazz",
+    "logoUrl": "https://icecast.walmradio.com:8443/jazz.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 274,
+    "name": "CAPITAL - The UK's No.1 Hit Music Station",
+    "streamUrl": "https://media-ssl.musicradio.com/CapitalUK",
+    "logoUrl": "https://cdn-profiles.tunein.com/s241396/images/logod.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 278,
+    "name": "Cadena 100",
+    "streamUrl": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+    "logoUrl": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 279,
+    "name": "Japan Hits - asia DREAM radio",
+    "streamUrl": "http://quincy.torontocast.com:2020/stream.mp3",
+    "logoUrl": "https://moremalc.com/japanhits188.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 280,
+    "name": "LOS 40 Principales España",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3",
+    "logoUrl": "https://los40es00.epimg.net/iconos/v1.x/v1.0/touch-apple.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 281,
+    "name": "Virgin Radio Türkiye",
+    "streamUrl": "http://provisioning.streamtheworld.com/pls/VIRGIN_RADIO.pls",
+    "logoUrl": "https://i.karnavalcdn.com/media/site_media/icons/android-icon-192x192.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 282,
+    "name": "Bollywood Gaane Purane",
+    "streamUrl": "https://stream.zeno.fm/6n6ewddtad0uv",
+    "logoUrl": "https://mytuner.global.ssl.fastly.net/media/tvos_radios/ppqbgfej6skx.jpeg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 284,
+    "name": "Chérie FM",
+    "streamUrl": "https://cdnradio.streamakaci.com/cheriefm1.mp3",
+    "logoUrl": "https://media.info/l/o/6/6812.1503485369.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 286,
+    "name": "RMF FM",
+    "streamUrl": "http://195.150.20.242:8000/rmf_fm",
+    "logoUrl": "https://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 294,
+    "name": "Radio Italia Solo Musica Italiana",
+    "streamUrl": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/stream01/streamPlaylist.m3u8",
+    "logoUrl": "https://www.radioitalia.it/images/logo-radioitalia.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 296,
+    "name": "Classic FM UK",
+    "streamUrl": "http://ice-the.musicradio.com/ClassicFMMP3",
+    "logoUrl": "http://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 298,
+    "name": "WALM - Old Time Radio",
+    "streamUrl": "https://icecast.walmradio.com:8443/otr",
+    "logoUrl": "https://icecast.walmradio.com:8443/otr.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 301,
+    "name": "NDR 2",
+    "streamUrl": "https://www.ndr.de/resources/metadaten/audio_ssl/m3u/ndr2.m3u",
+    "logoUrl": "https://www.ndr.de//apple-touch-icon-57x57.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 303,
+    "name": "Metro FM",
+    "streamUrl": "http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls",
+    "logoUrl": "https://metrofm.com.tr/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 306,
+    "name": "Vivid Bharti",
+    "streamUrl": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 307,
+    "name": "Antenne Bayern",
+    "streamUrl": "http://mp3channels.webradio.antenne.de/antenne",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 309,
+    "name": "102.7 KIIS FM",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc185",
+    "logoUrl": "https://i.iheart.com/v3/re/assets.brands/2ebe753539305728784b0f3b178eae45?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 311,
+    "name": "ORF Hitradio Ö3",
+    "streamUrl": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+    "logoUrl": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 312,
+    "name": "Sunshine Live",
+    "streamUrl": "http://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 313,
+    "name": "Radio BOB!",
+    "streamUrl": "http://streams.radiobob.de/bob-national/mp3-192/mediaplayer",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 315,
+    "name": "90s90s Hits",
+    "streamUrl": "http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 316,
+    "name": "IBIZA CHILLOUT LOUNGE",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-ibiza-chillout-lounge?ref=rb26",
+    "logoUrl": "https://i.ibb.co/jPkfdprq/rb-Ibiza.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 317,
+    "name": "Europe 2",
+    "streamUrl": "http://europe2.lmn.fm/europe2.mp3",
+    "logoUrl": "https://www.europe2.fr/wp-content/themes/melty/europeradio/assets/images/favicons/favicon128.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 318,
+    "name": "Mirchi Top 20",
+    "streamUrl": "https://drive.uber.radio/uber/bollywoodnow/icecast.audio",
+    "logoUrl": "http://mirchi.in/favicon-196x196.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 319,
+    "name": "FIP",
+    "streamUrl": "http://icecast.radiofrance.fr/fip-hifi.aac",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/FIP_logo_2005.svg/1024px-FIP_logo_2005.svg.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 322,
+    "name": "OLDIE ANTENNE",
+    "streamUrl": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
+    "logoUrl": "https://www.oldie-antenne.de/logos/oldie-antenne/apple-touch-icon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 323,
+    "name": "SomaFM Groove Salad (128k MP3)",
+    "streamUrl": "https://somafm.com/groovesalad.pls",
+    "logoUrl": "https://somafm.com/img3/groovesalad-400.jpg",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 324,
+    "name": "Gotanno FM 89.2",
+    "streamUrl": "https://radio.gotanno.love/;",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 327,
+    "name": "Jazz Radio Blues",
+    "streamUrl": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+    "logoUrl": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 328,
+    "name": "90s90s HipHop & Rap",
+    "streamUrl": "http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/",
+    "logoUrl": "http://aggregatorservice.loverad.io/wp-content/uploads/2018/10/90s90s_hiphoprap_600x600.png",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 329,
+    "name": "Hindi Gold Radio",
+    "streamUrl": "https://azuracast.vibesounds.in:8010/radio.mp3",
+    "logoUrl": "https://onlineradiohub.com/wp-content/uploads/2023/07/hindi-gold-radio.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 330,
+    "name": "Türkülerle Türkiye",
+    "streamUrl": "http://37.247.98.8/listen.pls?sid=22",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 332,
+    "name": "REYFM - #original",
+    "streamUrl": "https://listen.reyfm.de/original_192kbps.mp3",
+    "logoUrl": "https://www.reyfm.de/icon.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 334,
+    "name": "Radio Kiss Kiss",
+    "streamUrl": "http://players.fluidstream.net/kisskissnetwork.pls",
+    "logoUrl": "https://kisskiss.it/wp-content/uploads/2022/07/cropped-favicon-new-kisskiss-180x180.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 336,
+    "name": "WDR4",
+    "streamUrl": "http://wdr-wdr4-live.icecast.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+    "logoUrl": "https://www1.wdr.de/resources/img/favicon/apple-touch-icon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 339,
+    "name": "KISS FM",
+    "streamUrl": "https://adhandler.kissfmradio.cires21.com/get_link?url=https://bbkissfm.kissfmradio.cires21.com/bbkissfm.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 340,
+    "name": "Europa Plus",
+    "streamUrl": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "logoUrl": "http://liveam.tv/img/2494.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 341,
+    "name": "Your Classical - Relax",
+    "streamUrl": "http://relax.stream.publicradio.org/relax.mp3",
+    "logoUrl": "http://www.yourclassical.org/apple-touch-icon.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 342,
+    "name": "WALM 2 HD",
+    "streamUrl": "https://icecast.walmradio.com:8443/walm2",
+    "logoUrl": "https://icecast.walmradio.com:8443/walm.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 343,
+    "name": "Diverse FM",
+    "streamUrl": "https://carol.epichosts.co.uk:8570/;",
+    "logoUrl": "https://onlineradiohub.com/wp-content/uploads/2023/05/diverse-fm-hindi.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 344,
+    "name": "Radio 105 Network",
+    "streamUrl": "http://icecast.unitedradio.it/Radio105.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/it/0/01/105.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 347,
+    "name": "Rock Antenne - Heavy Metal",
+    "streamUrl": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
+    "logoUrl": "http://www.rockantenne.de/logos/station-rock-antenne/favicon.ico",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 348,
+    "name": "RdMix Classic Rock 70s 80s 90s",
+    "streamUrl": "https://cast1.torontocast.com:4610/stream",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_1bad7e5fb9a54196b2ac2c2fe71d6e4f~mv2.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 349,
+    "name": "Ambient Sleeping Pill",
+    "streamUrl": "http://radio.stereoscenic.com/asp-h",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 350,
+    "name": "ROCK FM",
+    "streamUrl": "http://nashe1.hostingradio.ru/rock-128.mp3",
+    "logoUrl": "https://lh3.googleusercontent.com/D3taObR7tfyhwDFY40VS8DIVri7iif5RuzI9C-mXxRwF41vGZ_dO_n6MWM57P-mZczFC=w300",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 353,
+    "name": "Radio 357",
+    "streamUrl": "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+    "logoUrl": "https://radio357.pl/wp-content/uploads/2022/04/c5399c0d-1b8e-43d5-b23b-e5cef1857856.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 355,
+    "name": "ROCKANTENNE Alternative",
+    "streamUrl": "https://stream.rockantenne.de/alternative/stream/mp3",
+    "logoUrl": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 356,
+    "name": "Relax FM Chillout",
+    "streamUrl": "https://pub0201.101.ru/stream/trust/mp3/128/24?",
+    "logoUrl": "https://www.radiobells.com/stations/relaxfmchillout.webp",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 358,
+    "name": ".977 80s",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/977_80.pls",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 360,
+    "name": "RTL2",
+    "streamUrl": "http://icecast.rtl2.fr/rtl2-1-44-128?listen=webCwsBCggNCQgLDQUGBAcGBg",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 362,
+    "name": "Hit FM (UKraine)",
+    "streamUrl": "http://195.95.206.17/HitFM",
+    "logoUrl": "https://www.hitfm.ua/static/img/fav-icon/apple-icon-120x120.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 367,
+    "name": "Radio Vanya",
+    "streamUrl": "https://icecast-radiovanya.cdnvideo.ru/radiovanya",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 370,
+    "name": "NRJ Paris",
+    "streamUrl": "https://streaming.nrjaudio.fm/ou5k6tirv93h",
+    "logoUrl": "https://www.nrj.fr/uploads/assets/nrj/favicon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 371,
+    "name": "RADIO BOLLYWOOD 90s",
+    "streamUrl": "https://stream.zeno.fm/rm4i9pdex3cuv",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/9fKKkfbJKE.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 372,
+    "name": "J-Club Club Bandstand",
+    "streamUrl": "https://cast1.torontocast.com:2060/;.mp3",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 374,
+    "name": "America's Country",
+    "streamUrl": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+    "logoUrl": "https://marinifamily.files.wordpress.com/2015/08/favicon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 378,
+    "name": "Jazz Radio",
+    "streamUrl": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+    "logoUrl": "http://www.jazzradio.fr/apple-touch-icon-120x120.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 381,
+    "name": "Intense Radio - We love Dance",
+    "streamUrl": "https://secure.live-streams.nl/main",
+    "logoUrl": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 386,
+    "name": "latamangeshkar radio",
+    "streamUrl": "https://stream.zeno.fm/87xam8pf7tzuv",
+    "logoUrl": "https://radiosindia.com/images/latamangeshkarradio.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 387,
+    "name": "Hindi Retro",
+    "streamUrl": "https://stream.zeno.fm/v2zfmxef798uv",
+    "logoUrl": "https://onlineradiohub.com/wp-content/uploads/2023/05/mirchi-retro-hindi.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 389,
+    "name": "Retro Rádió",
+    "streamUrl": "https://icast.connectmedia.hu/5001/live.mp3",
+    "logoUrl": "https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 390,
+    "name": ".977 Country",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/977_COUNTRY.pls",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 391,
+    "name": "Radio Navahang",
+    "streamUrl": "https://navairan.com/;stream.nsv",
+    "logoUrl": "https://www.navahang.com/apple-touch-icon.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 394,
+    "name": "BIG 92.7 FM",
+    "streamUrl": "https://stream.zeno.fm/dbstwo3dvhhtv",
+    "logoUrl": "https://bigfmindia.com/wp-content/themes/big-fm/assets/images/favicon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 395,
+    "name": "Русское Радио",
+    "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+    "logoUrl": "https://cdn.onlineradiobox.com/img/l/8/248.v10.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 396,
+    "name": "法国国际广播电台",
+    "streamUrl": "https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3",
+    "logoUrl": "",
+    "category": "Diğer",
+    "isFavorite": false
+  },
+  {
+    "id": 397,
+    "name": "LOS40 Classic",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3",
+    "logoUrl": "https://los40es00.epimg.net/estaticos/recursosgraficos/v1/img/app/los40_192.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 398,
+    "name": "Shonan Beach FM 78.9",
+    "streamUrl": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 399,
+    "name": "100 BEST IBIZA DEEP HOUSE",
+    "streamUrl": "https://stream.zeno.fm/lwv6zqgtv1dtv",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_cf8747dc2b804de09c56359c324dd1f5~mv2.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 401,
+    "name": "Radio Classique",
+    "streamUrl": "https://str0.creacast.com/classique1",
+    "logoUrl": "http://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.radioclassique.fr%2f",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 402,
+    "name": "Mosaique FM",
+    "streamUrl": "http://radio.mosaiquefm.net:8000/mosalive",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 404,
+    "name": "Smooth Radio",
+    "streamUrl": "http://media-the.musicradio.com/SmoothEastMids",
+    "logoUrl": "http://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 405,
+    "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS",
+    "streamUrl": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts",
+    "logoUrl": "https://i.ibb.co/jMmvLjz/TOP100-DJ-CHARTS-RADIO.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 406,
+    "name": "EuroDance 90 radio",
+    "streamUrl": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+    "logoUrl": "https://eurodance90.fr/favicon.ico",
+    "category": "Türkçe Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 407,
+    "name": "BBC Radio 6 Music",
+    "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8",
+    "logoUrl": "https://de8as167a043l.cloudfront.net/styles/images/logosplus/120x120xBBCR6.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 408,
+    "name": "Ankara Havalari",
+    "streamUrl": "http://37.247.98.8/listen.pls?sid=30",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 409,
+    "name": "Mirchi Love",
+    "streamUrl": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+    "logoUrl": "http://mirchi.in/favicon-196x196.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 410,
+    "name": "Convoy en vivo",
+    "streamUrl": "https://live.convoynetwork.com/stream",
+    "logoUrl": "http://convoynetwork.com/assets/favicon.7a65c983.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 411,
+    "name": "Radio Nova",
+    "streamUrl": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "logoUrl": "https://www.nova.fr/wp-content/uploads/sites/2/2021/02/cropped-favicon.png?fit=180%2c180&#038;quality=75",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 412,
+    "name": "181.FM - Old School HipHop/RnB",
+    "streamUrl": "http://listen.181fm.com/181-oldschool_128k.mp3",
+    "logoUrl": "http://www.181.fm/favicon.ico",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 413,
+    "name": "50s 60s RETRO HITS",
+    "streamUrl": "https://stream.zeno.fm/pxzwykxbluitv",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_ea9b293c1b80488d97f24981e7c6c1d3~mv2.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 414,
+    "name": "Anime Para Ti",
+    "streamUrl": "https://stream.zeno.fm/qpn8mkt8c4duv",
+    "logoUrl": "https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 417,
+    "name": "NHK-FM",
+    "streamUrl": "http://mnet.x10.mx/nhkfm.m3u8",
+    "logoUrl": "https://www.nhk.or.jp/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 418,
+    "name": "Rai Radio 3",
+    "streamUrl": "http://icestreaming.rai.it/3.mp3",
+    "logoUrl": "https://www.raicom.rai.it/wp-content/uploads/2021/12/RADIO3-1024x1024.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 419,
+    "name": "SOUND UP STATION NFRS",
+    "streamUrl": "https://stream2.rcast.net/70945",
+    "logoUrl": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 420,
+    "name": "JOY TÜRK",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 421,
+    "name": "WDR4",
+    "streamUrl": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+    "logoUrl": "https://www1.wdr.de/radio/wdr4/wdrvier_logo104~_v-ARDAustauschformat.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 422,
+    "name": "Radio Swiss Jazz",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 423,
+    "name": "Gold",
+    "streamUrl": "https://media-ssl.musicradio.com/GoldMP3",
+    "logoUrl": "https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 425,
+    "name": "WALM Radio",
+    "streamUrl": "https://icecast.walmradio.com:8443/walm",
+    "logoUrl": "https://icecast.walmradio.com:8443/walm.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 426,
+    "name": "NIUS",
+    "streamUrl": "http://radio.nius.de/live?ref=radiobrowser",
+    "logoUrl": "https://i.ibb.co/Snq1MMW/NIUS-LOGO.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 427,
+    "name": "80s80s",
+    "streamUrl": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 428,
+    "name": "Big B Radio - Kpop",
+    "streamUrl": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 430,
+    "name": "Hard Rock Radio FM",
+    "streamUrl": "http://67.249.184.45:8015/listen.pls",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 431,
+    "name": "Спокойное радио",
+    "streamUrl": "https://listen1.myradio24.com/6262",
+    "logoUrl": "https://i.1.creatium.io/5f/9c/2c/4e16165627237138cbc3273f76782d56f9/196x196/favicon.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 434,
+    "name": "Rock FM",
+    "streamUrl": "http://rockfm.cope.stream.flumotion.com/cope/rockfm-low.mp3.m3u",
+    "logoUrl": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 435,
+    "name": "Ретро FM",
+    "streamUrl": "http://retroserver.streamr.ru:8043/retro256.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 436,
+    "name": "Nostalgic Bollywood 90s",
+    "streamUrl": "https://www.desizoneradio.com/relay3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 437,
+    "name": "100% Radio 80",
+    "streamUrl": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
+    "logoUrl": "https://bocir-prod-bucket.s3.amazonaws.com/radios/centpourcent/images/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 438,
+    "name": "Capital FM London",
+    "streamUrl": "http://media-ice.musicradio.com/CapitalMP3",
+    "logoUrl": "http://assets6.capitalfm.com/2016/11/capital-3d-network-logo-large-canvas-1458228638-herowidev4-0.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 442,
+    "name": "Virgin Radio Italia",
+    "streamUrl": "http://icecast.unitedradio.it/Virgin.mp3",
+    "logoUrl": "http://www.virginradio.it/favicon_2.ico?v=1722509813651",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 443,
+    "name": "Bayern 2",
+    "streamUrl": "https://dispatcher.rndfnk.com/br/br2/live/mp3/mid",
+    "logoUrl": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5d72d15e88d309ec?w=512",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 445,
+    "name": "Rádio Mix 106.3 FM",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+    "logoUrl": "https://img.radios.com.br/radio/lg/radio13955_1720711597.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 449,
+    "name": "Heart 90s",
+    "streamUrl": "https://media-ssl.musicradio.com/Heart90sMP3",
+    "logoUrl": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 450,
+    "name": "Radyo Şiran",
+    "streamUrl": "https://live.radyositesihazir.com/8078/stream",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 451,
+    "name": "SRF 3",
+    "streamUrl": "http://stream.srg-ssr.ch/m/drs3/mp3_128",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Radio_SRF_3.svg/200px-Radio_SRF_3.svg.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 452,
+    "name": "Classic Vinyl HD Opus",
+    "streamUrl": "https://icecast.walmradio.com:8443/classic_opus",
+    "logoUrl": "https://icecast.walmradio.com:8443/classic.jpg",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 453,
+    "name": "The Big 80s Station",
+    "streamUrl": "http://158.69.114.190:8065/;",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 456,
+    "name": "AIRPORT LOUNGE RADIO",
+    "streamUrl": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+    "logoUrl": "https://favicon-generator.org/favicon-generator/htdocs/favicons/2023-12-16/9274e8a4803971186ff5c45359ab77a4.ico.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 458,
+    "name": "Rafi hit songs",
+    "streamUrl": "https://stream-143.zeno.fm/0zkr7x8ztm0uv?zs=WTPQx8TiQXSo11XU0iyTAQ",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 459,
+    "name": "100 Hip Hop and RNB FM",
+    "streamUrl": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/887/rnb-and-hip-hop-radio.51c457d0.png",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 461,
+    "name": "Bossa Jazz Brasil",
+    "streamUrl": "https://centova5.transmissaodigital.com:20104/live",
+    "logoUrl": "https://bossajazzbrasil.com/wp-content/uploads/2020/12/cropped-bjs-app-180x180.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 464,
+    "name": "0R PIANO JAZZ LOUNGE",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 465,
+    "name": "SomaFM Secret Agent (128k MP3)",
+    "streamUrl": "https://somafm.com/secretagent.pls",
+    "logoUrl": "https://somafm.com/img3/secretagent-400.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 466,
+    "name": "1.FM - Chillout Lounge Radio",
+    "streamUrl": "http://strm112.1.fm/chilloutlounge_mobile_mp3",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 468,
+    "name": "DFM Дискач 90-х",
+    "streamUrl": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 469,
+    "name": "Ibiza Global Radio",
+    "streamUrl": "http://ibizaglobalradio.streaming-pro.com:8024/",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 470,
+    "name": "yojosuknam Radio",
+    "streamUrl": "https://stream.yojosuknam.com/live.mp3",
+    "logoUrl": "https://music.yojosuknam.com/radio/icon-512.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 471,
+    "name": "Klassik Radio - Live",
+    "streamUrl": "https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3",
+    "logoUrl": "https://klassikradio.de/img/ms-mediumtile.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 476,
+    "name": "- DJ & CLUB CHARTS",
+    "streamUrl": "https://breakz-2012-high.rautemusik.fm/?ref=rb-djclubcharts",
+    "logoUrl": "https://i.ibb.co/P7QHpGB/DJ-CLUB-CHARTS-LOGO.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 477,
+    "name": "Radyo Seymen",
+    "streamUrl": "https://yayin.radyoseymen.com.tr:1070/stream",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 478,
+    "name": "MY RADIO DJ",
+    "streamUrl": "http://stream.zeno.fm/84h97t3ewg0uv",
+    "logoUrl": "http://zeno.fm/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 480,
+    "name": "Adroit Jazz Underground",
+    "streamUrl": "https://icecast.walmradio.com:8443/jazz_opus",
+    "logoUrl": "https://icecast.walmradio.com:8443/jazz.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 481,
+    "name": "商業電台叱咤903",
+    "streamUrl": "https://881903.fishtv.dpdns.org/proxy/903",
+    "logoUrl": "https://foxxradio.com/upload/hk/1620700109.jpg.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 483,
+    "name": "اذاعة القرآن الكريم",
+    "streamUrl": "http://stream.radiojar.com/0tpy1h0kxtzuv",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 484,
+    "name": "Radio Ibiza",
+    "streamUrl": "http://wma08.fluidstream.net:5010/;stream.aac",
+    "logoUrl": "https://radioibiza.it/wp-content/uploads/2021/07/cropped-favicon-ibiza-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 485,
+    "name": "RMF FM",
+    "streamUrl": "http://195.150.20.9/RMFFM48",
+    "logoUrl": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 487,
+    "name": "Café del Mar",
+    "streamUrl": "https://streams.radio.co/se1a320b47/listen",
+    "logoUrl": "https://cafedelmar.com/apple-touch-icon.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 491,
+    "name": "Lofi 24/7",
+    "streamUrl": "http://usa9.fastcast4u.com/proxy/jamz?mp=/1",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 492,
+    "name": "Hit Radio FFH",
+    "streamUrl": "http://mp3.ffh.de/radioffh/hqlivestream.mp3",
+    "logoUrl": "https://www.ffh.de/android-icon.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 493,
+    "name": "Heart Dance",
+    "streamUrl": "https://media-ssl.musicradio.com/HeartDanceMP3",
+    "logoUrl": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 494,
+    "name": "BOX : Japan City Pop - 日本のシティポップ",
+    "streamUrl": "https://play.streamafrica.net/japancitypop",
+    "logoUrl": "https://assets.radioapi.me/radios/01J65CR99GVHS3A7CT7D53C415.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 495,
+    "name": "Новое радио",
+    "streamUrl": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 496,
+    "name": "Arrow Classic Rock",
+    "streamUrl": "http://stream.gal.io/arrow",
+    "logoUrl": "https://www.arrow.nl/wp-content/uploads/2020/08/logo.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 498,
+    "name": "Radio 105",
+    "streamUrl": "https://icecast.unitedradio.it/Radio105.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 500,
+    "name": "Radio Caroline",
+    "streamUrl": "http://78.129.202.200:8040/;",
+    "logoUrl": "http://www.radiocaroline.co.uk/favicon.ico",
+    "category": "Türkçe Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 501,
+    "name": "올드팝카페",
+    "streamUrl": "http://cast.oldpopcafe.net:7080/",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 502,
+    "name": "SomaFM Indie Pop Rocks! (128k AAC)",
+    "streamUrl": "https://somafm.com/indiepop130.pls",
+    "logoUrl": "https://somafm.com/img3/indiepop-400.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 504,
+    "name": "Pyongyang FM Radio",
+    "streamUrl": "https://myradio24.org/69366.m3u",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 505,
+    "name": "Skyrock Klassics",
+    "streamUrl": "https://icecast.skyrock.net/s/klassiks_aac_64k?tvr_name=radiofr&tvr_section1=64aac",
+    "logoUrl": "https://skyrock.fm/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 507,
+    "name": "Frisky",
+    "streamUrl": "http://stream2.friskyradio.com/frisky_mp3_hi",
+    "logoUrl": "https://s3.amazonaws.com/media.friskyradio.com/favicon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 508,
+    "name": "Smooth Chill",
+    "streamUrl": "https://media-ssl.musicradio.com/ChillMP3",
+    "logoUrl": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 514,
+    "name": "Radio 10",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 515,
+    "name": "Z100 - New York's #1 Hit Music Station WHTZ",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc1469",
+    "logoUrl": "https://external-content.duckduckgo.com/ip3/z100.iheart.com.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 517,
+    "name": "Goldy Evergreen",
+    "streamUrl": "https://stream.zeno.fm/n2fd0edh9k8uv",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 518,
+    "name": "FUNKY RADIO - Only Funk Music (60's 70's)",
+    "streamUrl": "https://funkyradio.streamingmedia.it/play.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 519,
+    "name": "0R - COFFEE LOUNGE || Background Music, Jazz, Lounge, Chill, Smooth, Acoustic, Soft Pop, Easy Listening, Relax, Cafe, Background, Mellow, Evening, Instrumental, Romantic, Soft Jazz",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/LDb4Ctnb/COFFEE-LOUNGE.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 520,
+    "name": "BBC Radio 3 (128k)",
+    "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s24941q.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 521,
+    "name": "1LIVE",
+    "streamUrl": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+    "logoUrl": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 523,
+    "name": "Los 40 Dance",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCE_SC",
+    "logoUrl": "https://recursosweb.prisaradio.com/fotos/original/010002753887.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 529,
+    "name": "_80 EXITOS",
+    "streamUrl": "https://80sexitos.stream.laut.fm/80sexitos",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 533,
+    "name": "SMOOTH JAZZ",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac",
+    "logoUrl": "https://i.iheart.com/v3/re/assets.streams/63ee5ccb23c81aa16510435a",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 535,
+    "name": "70 80 90",
+    "streamUrl": "https://rblive.it:8170/radio.mp3",
+    "logoUrl": "https://www.radio708090.it/wp-content/uploads/2021/10/708090-160-150x150.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 536,
+    "name": "# 70s 80s 90s RdMix Network",
+    "streamUrl": "https://cast1.torontocast.com:1830/stream",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 537,
+    "name": "NDR 1 Niedersachsen",
+    "streamUrl": "https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3?1728424471708&aggregator=web",
+    "logoUrl": "https://www.phonostar.de/images/auto_created/NDR1_Niedersachsen2184x184.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 539,
+    "name": "BBC RADIO 1",
+    "streamUrl": "http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8",
+    "logoUrl": "https://cdn-profiles.tunein.com/s24939/images/logod.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 540,
+    "name": "France Inter",
+    "streamUrl": "https://icecast.radiofrance.fr/franceinter-hifi.aac",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/fr/3/39/France_Inter_logo.svg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 541,
+    "name": "CLUB CHARTS TOP 100",
+    "streamUrl": "https://radio.breakz.fm/?ref=club2-71",
+    "logoUrl": "https://i.ibb.co/m5jrHLWC/DJ-CLUB-CHARTS.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 542,
+    "name": "SWR1 BW",
+    "streamUrl": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3",
+    "logoUrl": "https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 543,
+    "name": "1000 HITS 80s",
+    "streamUrl": "http://c2.auracast.net:8048/stream",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 544,
+    "name": "# RdMix DJSET 70s 80s 90s",
+    "streamUrl": "https://cast1.torontocast.com:4560/stream",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_ee09b4fc28354c5287c3be2392e0b1e3~mv2.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 545,
+    "name": "Radio Swiss Pop",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
+    "logoUrl": "http://www.radioswisspop.ch/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 548,
+    "name": "Radio Paradise Rock Mix",
+    "streamUrl": "http://stream.radioparadise.com/rock-320",
+    "logoUrl": "https://radioparadise.com/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 549,
+    "name": "Mixadance FM",
+    "streamUrl": "https://stream.mixadance.fm/mixadance",
+    "logoUrl": "http://www.mixadance.fm/apple-touch-icon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 550,
+    "name": "Christmas Vinyl",
+    "streamUrl": "https://icecast.walmradio.com:8443/christmas_opus",
+    "logoUrl": "https://icecast.walmradio.com:8443/christmas.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 551,
+    "name": "ALTIN SARKILAR",
+    "streamUrl": "http://37.247.98.8/listen.pls?sid=25",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 552,
+    "name": "Bombay Beats Radio",
+    "streamUrl": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+    "logoUrl": "https://onlineradiohub.com/wp-content/uploads/2023/05/1fm-bombay-beats-radio.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 555,
+    "name": "TRT Türkü",
+    "streamUrl": "https://rd-trtturku.medya.trt.com.tr/master_128.m3u8",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 562,
+    "name": "Radio Kiss Kiss Italia",
+    "streamUrl": "http://wma06.fluidstream.net:3614/;listen.pls",
+    "logoUrl": "https://kisskissitalia.it/wp-content/uploads/2021/07/cropped-favicon-kisskissitalia-180x180.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 563,
+    "name": "Antenne Bayern - Chillout",
+    "streamUrl": "http://mp3channels.webradio.antenne.de/chillout",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 564,
+    "name": "Chillout Ibiza FM",
+    "streamUrl": "https://edge3.peta.live365.net/b05055_128mp3",
+    "logoUrl": "http://www.chilloutibizafm.com/favicon.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 567,
+    "name": "Sunshine Live - Techno",
+    "streamUrl": "http://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 568,
+    "name": "JOE",
+    "streamUrl": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+    "logoUrl": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 569,
+    "name": "ESKA ROCK",
+    "streamUrl": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/2LqeyZhdFq.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 571,
+    "name": "parsa",
+    "streamUrl": "http://parsa.icdndhcp.com:18000/stream",
+    "logoUrl": "https://lh5.googleusercontent.com/proxy/25PMsUBa3Z6So8cdvAyZT7_93NyV26cJNuTTDY4xk6aJU1lcKPByf2C7o2HbrGrv-QxPvbI3dio2D39zYlgi1v6nLg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 573,
+    "name": "Schwarzwaldradio",
+    "streamUrl": "https://frontend.streamonkey.net/fho-schwarzwaldradiolive/mp3-stream.m3u",
+    "logoUrl": "https://schwarzwaldradio.com/apple-touch-icon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 574,
+    "name": "sham fm",
+    "streamUrl": "http://radioshamfm.grtvstream.com:2199/tunein/shamfm.pls",
+    "logoUrl": "http://sham.fm/favicon.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 576,
+    "name": "Q music Nederland",
+    "streamUrl": "https://stream.qmusic.nl/qmusic/aachigh",
+    "logoUrl": "https://qmusic.nl/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 578,
+    "name": "DFM RUSSIAN DANCE",
+    "streamUrl": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+    "logoUrl": "https://dfm.ru/uploads/favicon.ico",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 579,
+    "name": "- 0 N - Classic Rock on Radio",
+    "streamUrl": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+    "logoUrl": "https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 583,
+    "name": "NDR 2 Hamburg",
+    "streamUrl": "https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3?1728423809880&aggregator=web",
+    "logoUrl": "https://www.phonostar.de/images/auto_created/NDR22184x184.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 584,
+    "name": "KINK",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+    "logoUrl": "https://kink.nl/static/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 585,
+    "name": "1.FM - Amsterdam Trance Radio",
+    "streamUrl": "http://strm112.1.fm/atr_mobile_mp3",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 588,
+    "name": "Deep House Radio",
+    "streamUrl": "http://live.dancemusic.ro:7000/listen.pls?sid=1",
+    "logoUrl": "http://www.dancemusic.ro/dancemusic-favicon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 589,
+    "name": "Los 40 Urban",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3",
+    "logoUrl": "https://los40es00.epimg.net/iconos/v1.x/v1.0/promos/promo_og_los40.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 591,
+    "name": "TOP 100 CHARTS",
+    "streamUrl": "https://breakz-high.rautemusik.fm/?ref=rb-djclubcharts0326",
+    "logoUrl": "https://i.ibb.co/m5695X1x/T100-BRR-CH.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 592,
+    "name": "RDS relax",
+    "streamUrl": "http://icstream.rds.radio/rdsrelax",
+    "logoUrl": "https://rdsrelax.it/images/logo.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 594,
+    "name": "Bassdrive",
+    "streamUrl": "http://bassdrive.com/bassdrive.m3u",
+    "logoUrl": "https://thumbnailer.mixcloud.com/unsafe/160x160/extaudio/8/5/8/a/f8e6-9555-4eb9-8005-1ec4dabd55ce.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 595,
+    "name": "Radio Sportiva",
+    "streamUrl": "https://sportiva.inmystream.it/stream/sportiva",
+    "logoUrl": "https://www.radiosportiva.com/wp-content/uploads/2021/09/logo-radiosportiva-white.svg",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 596,
+    "name": "Big R Radio - 80s Metal FM",
+    "streamUrl": "http://bigrradio.cdnstream1.com/5186_128",
+    "logoUrl": "http://www.bigrradio.com/image/favicon/apple-touch-icon.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 598,
+    "name": "Beats Radio",
+    "streamUrl": "http://live.streams.klassikradio.de/beats-radio/stream/mp3",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 600,
+    "name": "Energy NRJ Bulgaria",
+    "streamUrl": "http://play.global.audio/nrj128",
+    "logoUrl": "https://media.metacast.eu/pictures/10_2015/OdriLYWpbHJqKDAcGCMv-7384.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 602,
+    "name": "Absolut Relax",
+    "streamUrl": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
+    "logoUrl": "https://absolutradio.de/images/stations/229_relax.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 605,
+    "name": "100 GREATEST JAZZ LOUNGE BAR",
+    "streamUrl": "https://cast1.torontocast.com:4640/stream",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_2722a2a63db342f0901576a0168f2571~mv2.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 606,
+    "name": "Antena 1 (Portugal)",
+    "streamUrl": "http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8",
+    "logoUrl": "https://www.celsoazevedo.com/files/2022/antena-1.png",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 607,
+    "name": "MBC Munhwa Bangsong FM 4U",
+    "streamUrl": "http://211.33.246.4:32954/radio_fm/myStream.sdp/playlist.m3u8",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpfZhAjmDC9Q6KIOILQiRnGR7_KpXwJ_RwArzYCNVwPg&s=10",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 612,
+    "name": "1.FM - Deep House Radio",
+    "streamUrl": "http://strm112.1.fm/deephouse_mobile_mp3",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 613,
+    "name": ".977 The Mix",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/977_MIX.pls",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 615,
+    "name": "Pure Ibiza Radio",
+    "streamUrl": "https://pureibizaradio.clubbingradios.com:9518/PureIbizaRadio",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 617,
+    "name": "JOE",
+    "streamUrl": "https://stream.joe.nl/joe/aachigh",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 621,
+    "name": "Virgin Radio Classic Rock",
+    "streamUrl": "http://icy.unitedradio.it/VirginRockClassics.mp3",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 622,
+    "name": "KISSTORY: Non-Stop Old Skool & Anthems",
+    "streamUrl": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+    "logoUrl": "https://cdn-profiles.tunein.com/s77960/images/logod.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 623,
+    "name": "Classic FM Calm",
+    "streamUrl": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 624,
+    "name": "WALM - Old Time Radio",
+    "streamUrl": "https://icecast.walmradio.com:8443/otr_opus",
+    "logoUrl": "https://icecast.walmradio.com:8443/otr.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 626,
+    "name": "NTS Radio",
+    "streamUrl": "https://lhttp.qtfm.cn/live/5022308/64k.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 627,
+    "name": "SLAM!",
+    "streamUrl": "http://stream.slam.nl/slam",
+    "logoUrl": "https://www.slam.nl/favicon.ico",
+    "category": "Türkçe Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 631,
+    "name": "DR P3",
+    "streamUrl": "http://live-icy.gss.dr.dk/A/A05H.mp3.m3u",
+    "logoUrl": "http://www.dr.dk/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 632,
+    "name": "0R - MUSIC FOR SLEEP || Sleep, Relax, Calm, Meditation, Nature, Ambient, Soft Music, Piano, Deep Sleep, Peaceful, Chill, Background, Slow, Gentle, Instrumental",
+    "streamUrl": "https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/whsdTsct/MUSIC-FOR-SLEEP.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 633,
+    "name": "Chante France 80's",
+    "streamUrl": "http://stream1.chantefrance.com/cf-80",
+    "logoUrl": "https://bocir-prod-bucket.s3.eu-west-1.amazonaws.com/radios/chante-france/images/favicon.x-icon",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 635,
+    "name": "PLANET ROCK",
+    "streamUrl": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+    "logoUrl": "https://cdn-profiles.tunein.com/s2377/images/logod.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 636,
+    "name": "RMC Radio Monte Carlo",
+    "streamUrl": "http://icecast.unitedradio.it/RMC.mp3",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 637,
+    "name": "Radio RMF FM",
+    "streamUrl": "http://www.rmfon.pl/n/rmffm.pls",
+    "logoUrl": "http://www.rmf.fm/assets/images/favicon/apple-icon-120x120.png?3",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 638,
+    "name": "80s Drive",
+    "streamUrl": "https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44",
+    "logoUrl": "https://static2.mytuner.mobi/media/tvos_radios/s39agjsfxs3v.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 640,
+    "name": "Radio X",
+    "streamUrl": "http://media-the.musicradio.com/RadioXUK",
+    "logoUrl": "http://www.radiox.co.uk/assets_v4r/xfm/img/favicon-196x196.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 643,
+    "name": "WALM 2",
+    "streamUrl": "https://icecast.walmradio.com:8443/walm2_opus",
+    "logoUrl": "https://icecast.walmradio.com:8443/walm.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 644,
+    "name": "Jazz Sakura",
+    "streamUrl": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 646,
+    "name": "Rádio Saudade FM 99.7",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac",
+    "logoUrl": "https://img.radios.com.br/radio/lg/radio8_1626274312.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 650,
+    "name": "SomaFM Space Station",
+    "streamUrl": "https://somafm.com/spacestation130.pls",
+    "logoUrl": "https://somafm.com/img3/spacestation-400.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 651,
+    "name": "Smooth Jazz Lounge",
+    "streamUrl": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
+    "logoUrl": "https://www.vip-radios.fm/favicon.ico",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 656,
+    "name": "1.FM - Deep Techno & Deep House",
+    "streamUrl": "http://strm112.1.fm/deeptech_mobile_mp3",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 657,
+    "name": "Rádio Jovem Pan 100.9 FM",
+    "streamUrl": "https://stream.zeno.fm/c45wbq2us3buv",
+    "logoUrl": "https://img.radios.com.br/radio/lg/radio8829_1708517690.png",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 658,
+    "name": "CAPITAL DANCE: The UK's Official Dance Station",
+    "streamUrl": "https://media-ssl.musicradio.com/CapitalDance",
+    "logoUrl": "https://cdn-profiles.tunein.com/s309497/images/logod.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 659,
+    "name": "R101 FM",
+    "streamUrl": "http://icecast.unitedradio.it/r101",
+    "logoUrl": "http://www.r101.it/favicon_7.ico?v=1722509814243",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 663,
+    "name": "Chilltrax",
+    "streamUrl": "http://server1.chilltrax.com:9000/",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 666,
+    "name": "Hard Rock Heaven",
+    "streamUrl": "http://listen.cdnstream.com/hrhradio/1521_128.m3u",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 671,
+    "name": "Rádió 1",
+    "streamUrl": "https://icast.connectmedia.hu/5201/live.mp3",
+    "logoUrl": "https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 672,
+    "name": "FIP (no pub)",
+    "streamUrl": "https://stream.radiofrance.fr/fip/fip_hifi.m3u8",
+    "logoUrl": "https://www.radiofrance.fr/s3/cruiser-production/2023/03/3a1422a4-6f1f-4e17-874c-bad21e67f39b/300x300_sc_fip-avatar.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 675,
+    "name": "Radio M2O",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 676,
+    "name": "Radio Hotstar",
+    "streamUrl": "https://leo.streamerr.co/8004/stream",
+    "logoUrl": "https://radiohotstar.com/logo.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 680,
+    "name": "Radio RMF MAXXX",
+    "streamUrl": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+    "logoUrl": "https://cdn.onlineradiobox.com/img/l/4/1294.v9.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 681,
+    "name": "Jazz Radio Classic Jazz",
+    "streamUrl": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+    "logoUrl": "https://www.jazzradio.fr/apple-touch-icon-120x120.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 682,
+    "name": "A MISSISSIPPI BLUES",
+    "streamUrl": "https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391",
+    "logoUrl": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-04-26/7358e7e8c2649a65c1a9d821887e32e3.ico.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 683,
+    "name": "Amr Diab Radio",
+    "streamUrl": "https://stream-40.zeno.fm/xa4yhh4k838uv?zs=gojgaFRaRrK1wgGIwdv6xA",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 686,
+    "name": "Studio Brussel",
+    "streamUrl": "http://icecast.vrtcdn.be/stubru-mid.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Studio_Brussel_logo_%282023-%29.svg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 687,
+    "name": "Blues Radio",
+    "streamUrl": "http://cast3.radiohost.ovh:8352/",
+    "logoUrl": "https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 688,
+    "name": "0R - 80s ROCK || Classic Rock, Hard Rock, Pop Rock, Rock Hits, Guitar, Ballads, Hair Metal, Rock Anthems, Retro, Vintage, Arena Rock, Party Rock, Rock Classics, Melodic Rock",
+    "streamUrl": "https://0nlineradio.radioho.st/0r-80s-rock?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/hFC0q0h8/80s-Rock.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 689,
+    "name": "90s FM",
+    "streamUrl": "http://eu1.fastcast4u.com/proxy/prontofm",
+    "logoUrl": "https://i0.wp.com/news.ninetiesfm.com/wp-content/uploads/2019/05/cropped-20545315_1848567948503604_1570348649386657465_o-2.png?fit=180%2c180&#038;ssl=1",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 690,
+    "name": "Deejay 80",
+    "streamUrl": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8",
+    "logoUrl": "https://www.deejay.it/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 691,
+    "name": "SomaFM Underground 80s (128k MP3)",
+    "streamUrl": "https://somafm.com/u80s.pls",
+    "logoUrl": "https://somafm.com/img3/u80s-400.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 693,
+    "name": "Radio SRF 3",
+    "streamUrl": "https://stream.srg-ssr.ch/m/drs3/aacp_32",
+    "logoUrl": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 694,
+    "name": "104.6 RTL",
+    "streamUrl": "http://stream.104.6rtl.com/rtl-live/mp3-192/radio-browser.info/",
+    "logoUrl": "http://www.104.6rtl.com/assets/icons/icon-152x152.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 696,
+    "name": "Zeppelin 106.7",
+    "streamUrl": "https://radiostreaming.ert.gr/ert-zeppelin",
+    "logoUrl": "https://www.ertecho.gr/wp-content/uploads/2022/06/cropped-ertecho-favicon-180x180.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 697,
+    "name": "__TRANCE__ by rautemusik (rm.fm)",
+    "streamUrl": "https://trance-high.rautemusik.fm/?ref=radiobrowser",
+    "logoUrl": "https://www.rm.fm/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 698,
+    "name": "Joy Fm",
+    "streamUrl": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls",
+    "logoUrl": "",
+    "category": "Slow",
+    "isFavorite": false
+  },
+  {
+    "id": 700,
+    "name": "60sforever",
+    "streamUrl": "https://stream.zeno.fm/btrks671ynhvv",
+    "logoUrl": "https://radiosindia.com/images/60sforever.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 703,
+    "name": "Turku Radyo",
+    "streamUrl": "http://radyo.turkuradyo.net:4591/listen.pls",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 706,
+    "name": "Magic Radio UK",
+    "streamUrl": "https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag",
+    "logoUrl": "https://www.celsoazevedo.com/files/2025/magic.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 707,
+    "name": "# 100 GREATEST HEAVY METAL",
+    "streamUrl": "https://cast1.torontocast.com:4660/stream",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 715,
+    "name": "Nostalgie New York",
+    "streamUrl": "http://c32.radioboss.fm:8139/stream",
+    "logoUrl": "https://demigod-assets.sgp1.cdn.digitaloceanspaces.com/landingpages/fatcai/faviconcai.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 718,
+    "name": "DENGERIN MUSIK INDONESIA",
+    "streamUrl": "https://stream.denger.in/",
+    "logoUrl": "https://denger.in/logo.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 719,
+    "name": "ORF Hitradio Ö3",
+    "streamUrl": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
+    "logoUrl": "https://tubestatic.orf.at/mojo/1_3/storyserver//tube/common/images/apple-icons/oe3.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 720,
+    "name": "101 SMOOTH JAZZ MELLOW MIX",
+    "streamUrl": "http://www.101smoothjazz.com/101-mellowmix.m3u",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 721,
+    "name": ".977 Hitz",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/977_HITS.pls",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 727,
+    "name": "SHA3BY FM",
+    "streamUrl": "https://radio95.radioca.st/;",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 728,
+    "name": "KEXP",
+    "streamUrl": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds%3Atrue",
+    "logoUrl": "https://www.kexp.org/static/assets/img/logo-header.svg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 729,
+    "name": "Virgin Radio Italy",
+    "streamUrl": "https://icy.unitedradio.it/Virgin.mp3",
+    "logoUrl": "https://www.virginradio.it/wp-content/themes/virgin-radio-theme/public/images/VRG-symbol-footer.066739.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 737,
+    "name": "Technolovers.FM",
+    "streamUrl": "https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2",
+    "logoUrl": "https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 739,
+    "name": "RNE Radio 3",
+    "streamUrl": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8",
+    "logoUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.rtve.es/play/radio/radio-3/&size=16",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 740,
+    "name": "TechnoBase.FM",
+    "streamUrl": "https://listener3.mp3.tb-group.fm/tb.mp3",
+    "logoUrl": "https://cdn.onlineradiobox.com/img/l/0/32040.v12.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 743,
+    "name": "NEUERSCHEINUNGEN-Radio Charts",
+    "streamUrl": "https://breakz-high.rautemusik.fm/?ref=rb-neuerscheinungen",
+    "logoUrl": "https://i.ibb.co/7J492pjD/neuersachein.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 749,
+    "name": "COUNTRY",
+    "streamUrl": "https://0nlineradio.radioho.st/0r-country?ref=rb26",
+    "logoUrl": "https://i.ibb.co/GyTyFSC/Country.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 751,
+    "name": "Aktuelle HITS",
+    "streamUrl": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-akthits",
+    "logoUrl": "https://i.ibb.co/3mtCKLC/aktHits.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 753,
+    "name": "1.FM - Ambient Psychill",
+    "streamUrl": "http://strm112.1.fm/ambientpsy_mobile_mp3",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 754,
+    "name": "Nostalgie 80 90",
+    "streamUrl": "https://streaming.nrjaudio.fm/ou62iyxp336f?origine=fluxradios&aw_0_1st.station=Nostalgie-80-90",
+    "logoUrl": "https://players.nrjaudio.fm/live-metadata/player/img/player-files/nosta/logos/640x640/NOSTA-WR--80-90.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 755,
+    "name": "Only Hits Japan",
+    "streamUrl": "https://j.onlyhit.us/play",
+    "logoUrl": "https://cdn.onlyhitsradio.net/logo/japan.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 758,
+    "name": "Virgin Radio UK",
+    "streamUrl": "https://radio.virginradio.co.uk/stream",
+    "logoUrl": "https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 759,
+    "name": "REGGAE CHILL CAFE",
+    "streamUrl": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 762,
+    "name": "Antena 1 São Paulo",
+    "streamUrl": "http://antena1.newradio.it/stream?ext=.mp3",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 765,
+    "name": "SomaFM Reggae",
+    "streamUrl": "https://somafm.com/reggae256.pls",
+    "logoUrl": "https://somafm.com/img3/reggae400.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 767,
+    "name": "Mix Megapol 104,3",
+    "streamUrl": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+    "logoUrl": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 768,
+    "name": "SomaFM Left Coast 70s",
+    "streamUrl": "https://somafm.com/seventies320.pls",
+    "logoUrl": "https://somafm.com/img3/seventies400.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 771,
+    "name": "SMOOTH JAZZ 24/7",
+    "streamUrl": "http://www.smoothjazz247.com/smoothjazz24-7.m3u",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 774,
+    "name": "France Musique",
+    "streamUrl": "http://direct.francemusique.fr/live/francemusique-midfi.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 775,
+    "name": "Free FM Top 100 India",
+    "streamUrl": "https://stream.zeno.fm/a5h7vfret68uv",
+    "logoUrl": "https://cdn.instant.audio/images/logos/emisora-org-es/free-top-100.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 776,
+    "name": "BR-Klassik",
+    "streamUrl": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+    "logoUrl": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 777,
+    "name": "0R - SPA LOUNGE || Relax, Spa, Calm, Meditation, Nature, Ambient, Soft, Yoga, Peaceful, Instrumental, Chill, Wellness, Background, Gentle, Healing",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-spa-lounge?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/nMy1KKtY/SPA-LOUNGE.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 781,
+    "name": "LOVE RADIO 70s80s90s",
+    "streamUrl": "http://shoutcast3.streamingmedia.it:3162/",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 784,
+    "name": "ROCK FM Classic Rock",
+    "streamUrl": "https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?",
+    "logoUrl": "http://www.my-radios.com/favicon.ico",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 785,
+    "name": "Hit FM 2000s HITS",
+    "streamUrl": "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac",
+    "logoUrl": "https://www.ascultalive.ro/images/stations/1736887228.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 786,
+    "name": "Хіт FM Сучасні хіти",
+    "streamUrl": "http://online.hitfm.ua/HitFM_Top",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 787,
+    "name": "قديم FM",
+    "streamUrl": "http://usa6.fastcast4u.com:5109/live",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 789,
+    "name": "Psyndora Psytrance",
+    "streamUrl": "http://cast.magicstreams.gr:9111/stream",
+    "logoUrl": "https://www.psyndora.com/images/favicon-144x144.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 792,
+    "name": "ORF Radio Wien",
+    "streamUrl": "http://orf-live.ors-shoutcast.at/wie-q1a",
+    "logoUrl": "https://orfodon.org/system/accounts/avatars/111/374/411/749/352/990/original/16c84635847ddad3.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 793,
+    "name": "Blues & Rock Radio",
+    "streamUrl": "http://stream.laut.fm/bluesrock",
+    "logoUrl": "https://i.ibb.co/7pjwNCm/Blues-Rock.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 795,
+    "name": "__TECHNO__ by rautemusik.fm",
+    "streamUrl": "https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser",
+    "logoUrl": "https://rm.fm/favicon.ico",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 797,
+    "name": "Radio Kiss Kiss Napoli",
+    "streamUrl": "http://wma08.fluidstream.net:3612/;listen.pls",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 801,
+    "name": "DEEJAY REMIXES",
+    "streamUrl": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay-remixes-radio",
+    "logoUrl": "https://i.ibb.co/sP4q4Wh/breakz-fm-logo-fav.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 802,
+    "name": "LagosJump Radio",
+    "streamUrl": "https://radio.lagosjumpradio.com/listen/lagosjump_radio/radio.mp3",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 803,
+    "name": "Listen.moe Kpop",
+    "streamUrl": "https://listen.moe/kpop/fallback",
+    "logoUrl": "https://listen.moe/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 808,
+    "name": "MajorFM",
+    "streamUrl": "http://stream.zeno.fm/pkza99xshkhvv",
+    "logoUrl": "https://zeno.fm/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 814,
+    "name": "Ambient Modern",
+    "streamUrl": "http://s.stereoscenic.com/mod-h.pls",
+    "logoUrl": "https://ambientmodern.com/wp-content/uploads/2020/05/cropped-ambient-modern-3000-180x180.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 815,
+    "name": "La Grosse Radio Reggae",
+    "streamUrl": "http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
+    "logoUrl": "https://www.lagrosseradio.com/favicon.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 817,
+    "name": "Café Romántico Radio",
+    "streamUrl": "https://panel.retrolandigital.com/radio/8110/listen",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 819,
+    "name": "ZING BOLERO",
+    "streamUrl": "https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 820,
+    "name": "0R - DEEP HOUSE || Chillout, Ambient House, Chill, Lounge, Electronic, Dance, Smooth, Vocal, Club, Night, Party, Groove, Melodic, Summer, Beat",
+    "streamUrl": "https://0nlineradio.radioho.st/technolovers-deep-house?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/Y7PzyGxb/Deep-House-TL.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 821,
+    "name": "Радио Русские Песни",
+    "streamUrl": "http://listen.rusongs.ru/ru-mp3-128",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 822,
+    "name": "Bayern 1 Franken",
+    "streamUrl": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
+    "logoUrl": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 823,
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "streamUrl": "https://streaming.radio.co/se4a8e6a93/listen",
+    "logoUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.hitsujikai-radio.com/&size=256",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 826,
+    "name": "lofi girl",
+    "streamUrl": "https://play.streamafrica.net/lofiradio",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 833,
+    "name": "Radio Swiss Classic German",
+    "streamUrl": "http://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 836,
+    "name": "Prambors FM",
+    "streamUrl": "https://stream.rcs.revma.com/h77wwp48kxcwv",
+    "logoUrl": "https://www.pramborsfm.com/logo.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 838,
+    "name": "Chilli Zet",
+    "streamUrl": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+    "logoUrl": "https://gfx.chillizet.pl/extension/chillizet/design/standard/images/favicon/apple-touch-icon.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 842,
+    "name": "Radio 80",
+    "streamUrl": "http://str01.fluidstream.net:7020/;stream.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 845,
+    "name": "MNM",
+    "streamUrl": "http://icecast.vrtcdn.be/mnm-high.mp3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/MNM_logo_2024.svg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 849,
+    "name": "N-JOY",
+    "streamUrl": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
+    "logoUrl": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 850,
+    "name": "80s80s Italo Disco",
+    "streamUrl": "http://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150?sABC=654902n3%230%232qqpnss01895rqr0s8oq129o03s183o0%23fgernzf.80f80f.qr&aw_0_1st.playerid=streams.80s80s.de&amsparams=playerid:streams.80s80s.de;skey:1699283619",
+    "logoUrl": "https://cdn-profiles.tunein.com/s307738/images/logog.png?t=155074",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 853,
+    "name": "Radio Nostalgie France",
+    "streamUrl": "https://streaming.nrjaudio.fm/oug7girb92oc?origine=tingfm",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 854,
+    "name": "Rock FM",
+    "streamUrl": "http://rockfm.cope.stream.flumotion.com/cope/rockfm/playlist.m3u8",
+    "logoUrl": "https://www.rockfm.fm/estaticos/apple-touch-icon-192x192.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 855,
+    "name": "Made in 80",
+    "streamUrl": "https://madein80.leswebradios.fr/",
+    "logoUrl": "https://madein80.fr/wp-content/uploads/2020/12/Logo-Made-in-80-V2-blanc-400-ssslog.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 859,
+    "name": "Hip Hop Workout Radio",
+    "streamUrl": "https://stream.revma.ihrhls.com/zc7785",
+    "logoUrl": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 861,
+    "name": "100 NU-DISCO CENTRAL RADIO",
+    "streamUrl": "https://stream.zeno.fm/jqhhzffjynbuv",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_66f56cd8d2f44aed871cfd62bf70af65~mv2.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 868,
+    "name": "90’s Tamil Melodies",
+    "streamUrl": "https://stream.zeno.fm/tqnws2eafwzuv.aac",
+    "logoUrl": "https://onlineradiohub.com/wp-content/uploads/2023/12/90-tamil-melody.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 870,
+    "name": "Tes3enat FM",
+    "streamUrl": "http://178.33.135.244:20095/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 874,
+    "name": "70s 80s Disco Funk ModernSoul Boogie",
+    "streamUrl": "https://discofunk.streamingmedia.it/usa",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 875,
+    "name": "NDR 1 Welle Nord",
+    "streamUrl": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord_ki.m3u",
+    "logoUrl": "http://www.ndr.de/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 876,
+    "name": "Absolut 80ER",
+    "streamUrl": "https://edge59.live-sm.absolutradio.de/absolut-80ER/stream/mp3",
+    "logoUrl": "https://absolutradio.de/images/stations/logo-absolut-radio-80er.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 879,
+    "name": "0R - 90s",
+    "streamUrl": "https://0nlineradio.radioho.st/0r-90s?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/S4y9mSR9/90s.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 881,
+    "name": "0R - LO-FI",
+    "streamUrl": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/v6hT16qV/LOFI.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 888,
+    "name": "dinamo.fm sleep",
+    "streamUrl": "http://channels.dinamo.fm/sleep-mp3",
+    "logoUrl": "https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 889,
+    "name": "Exclusively Pink Floyd",
+    "streamUrl": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 899,
+    "name": "Rockabilly Radio",
+    "streamUrl": "http://lin3.ash.fast-serv.com:6026/stream_96",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 900,
+    "name": "Sunshine Live - Die 90er",
+    "streamUrl": "http://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 916,
+    "name": "Slow Rock 90'",
+    "streamUrl": "https://stream.zeno.fm/hiut6cwfoneuv",
+    "logoUrl": "https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FrKtC0NpB5ZmSBUWmZtAUn1sM1w_Owj9kNo-Xuc310Ak%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzg3MzhjNDA0LTMzODItNDgxMC04YWE3LTEwZjE3MjE2ZGRjZC9pbWFnZS8_dXBkYXRlZD0xNzAyNjMxMzU2MDAw.webp&w=750&q=100",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 917,
+    "name": "FIP Jazz",
+    "streamUrl": "http://icecast.radiofrance.fr/fipjazz-hifi.aac",
+    "logoUrl": "https://www.fip.fr/dist/favicons/logo-120.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 920,
+    "name": "Aspen 102.3",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN.mp3",
+    "logoUrl": "https://fmaspen.com/wp-content/themes/aspen/images/logoaspen.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 921,
+    "name": "Perfect Deep House",
+    "streamUrl": "https://stream.radiojar.com/asngk2sg798uv?1659885393",
+    "logoUrl": "https://perfect-radio.com/____impro/1/onewebmedia/Logo%20Perfect%20Deephouse.jpg?etag=W%2F%22847e5-619665ca%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=355%2B372&extract=0%2B0%2B354%2B372&quality=85",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 923,
+    "name": "Luxury Lounge - Meditation",
+    "streamUrl": "http://188.40.109.122:8000/ices3",
+    "logoUrl": "https://lounge.luxury/img/apple-touch-icon.png?1",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 926,
+    "name": "SomaFM Groove Salad (128k AAC)",
+    "streamUrl": "https://somafm.com/groovesalad130.pls",
+    "logoUrl": "https://somafm.com/img3/groovesalad-400.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 928,
+    "name": "Kiss Fm",
+    "streamUrl": "https://live.kissfm.ro/kissfm.aacp",
+    "logoUrl": "https://www.kissfm.ro/apple-touch-icon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 929,
+    "name": "WDR 4 Rhein und Ruhr",
+    "streamUrl": "https://icecast.wdr.de/wdr/wdr4/rheinruhr/mp3/128/stream.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 930,
+    "name": "Only Hits K-Pop",
+    "streamUrl": "https://kpop.onlyhit.us/play",
+    "logoUrl": "https://cdn.onlyhitsradio.net/logo/kpop.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 934,
+    "name": "Psyndora Chillout",
+    "streamUrl": "http://cast.magicstreams.gr:9125/stream",
+    "logoUrl": "https://www.psyndora.com/images/favicon-144x144.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 935,
+    "name": "Hits 1 Algérie",
+    "streamUrl": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 939,
+    "name": "RdMix Italo Disco 80s",
+    "streamUrl": "https://cast1.torontocast.com:2130/stream",
+    "logoUrl": "https://static.wixstatic.com/media/f361b3_12e18c80af1f44a283eb3115b0ddd750~mv2.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 940,
+    "name": "Kantipur FM",
+    "streamUrl": "https://radio-broadcast.ekantipur.com/stream",
+    "logoUrl": "",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 941,
+    "name": "ESKA - Gorąca 20",
+    "streamUrl": "https://waw.ic.smcdn.pl/6130-1.mp3",
+    "logoUrl": "https://www.eska.pl/favicon.ico",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 944,
+    "name": "Technolovers ELECTRO HOUSE",
+    "streamUrl": "https://stream.technolovers.fm/electro-house?ref=radiobrowser",
+    "logoUrl": "https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 948,
+    "name": "Dance Wave Retro! | MP3",
+    "streamUrl": "https://dancewave.online/retrodance.mp3",
+    "logoUrl": "https://dancewave.online/dwr_logo.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 951,
+    "name": "Technolovers EDM",
+    "streamUrl": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+    "logoUrl": "https://i.ibb.co/TmRLJsp/EDM-TL.jpg",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 952,
+    "name": "FM 80 FUNKY MUSIC",
+    "streamUrl": "https://listen.radioking.com/radio/467555/stream/523739",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 955,
+    "name": "Classic FM",
+    "streamUrl": "http://media-ice.musicradio.com/ClassicFMMP3",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Classic_FM_logo.svg/472px-Classic_FM_logo.svg.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 957,
+    "name": "89 A Radio Rock",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 958,
+    "name": "Vintage Radio",
+    "streamUrl": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 963,
+    "name": "FluxFM",
+    "streamUrl": "http://streams.fluxfm.de/live/mp3-320/audio/",
+    "logoUrl": "https://www.fluxfm.de/assets/favicons/apple-icon-120x120.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 964,
+    "name": "HR1",
+    "streamUrl": "http://metafiles.gl-systemhaus.de/hr/hr1_2.m3u",
+    "logoUrl": "https://www.hr1.de/favicon.png?v=3.84.2",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 965,
+    "name": "Soft Classic Rock Radio",
+    "streamUrl": "http://64.71.133.122:8000/;",
+    "logoUrl": "https://cdn-radiotime-logos.tunein.com/s106474q.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 966,
+    "name": "Radio Freccia",
+    "streamUrl": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8",
+    "logoUrl": "https://cloud.radiofreccia.it/assets/www.radiofreccia.it/1.0.43/img/logo/android-icon-192x192.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 967,
+    "name": "Nostalgie Vlaanderen",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+    "logoUrl": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 969,
+    "name": "Retro FM Moldova",
+    "streamUrl": "https://efir.retrofm.md:8000/retro",
+    "logoUrl": "https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 970,
+    "name": "0R - NATURE RELAX || Nature Sounds, Sleep, Relax, Calm, Forest, Ocean, Rain, Ambient, Meditation, Peaceful, Spa, Yoga, Gentle, Soothing, Background, Sleep",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-nature-sounds?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/NgtLbFs6/Nature-Relax-Sound.png",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 971,
+    "name": "MFM STATION",
+    "streamUrl": "https://radio.mfm.ua/online128",
+    "logoUrl": "https://mfm.ua/apple-touch-icon.png",
+    "category": "Türkçe Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 972,
+    "name": "stereo anime",
+    "streamUrl": "https://radio.stereoanime.com/listen/stereoanime/128",
+    "logoUrl": "https://www.stereoanime.com/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 973,
+    "name": "KBS Classic FM",
+    "streamUrl": "https://radio.bsod.kr/stream/?stn=kbs&ch=1fm",
+    "logoUrl": "https://images2.imgbox.com/da/9b/4bV5pJxL_o.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 974,
+    "name": "Radio 10 60's 70's Hits",
+    "streamUrl": "http://playerservices.streamtheworld.com/pls/TLPSTR18.pls",
+    "logoUrl": "https://www.radio10.nl/favicon.ico",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 976,
+    "name": "Classic FM",
+    "streamUrl": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 977,
+    "name": "VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower",
+    "streamUrl": "https://virgin.live.stream.broadcasting.news/stream",
+    "logoUrl": "https://cdn-profiles.tunein.com/s266113/images/logod.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 978,
+    "name": "Best Pro Electronic",
+    "streamUrl": "https://az1.sednastream.com/radio/8150/Live?1582297952",
+    "logoUrl": "https://bestproradio.com/wp-content/uploads/2021/05/cropped-bpr-bmp-180x180.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 979,
+    "name": "Free FM Tokyo",
+    "streamUrl": "https://rocafmadrid.radioca.st/stream",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 988,
+    "name": "MY CLUB REMIX",
+    "streamUrl": "http://stream.zeno.fm/u7eee0hyzp8uv",
+    "logoUrl": "http://zeno.fm/favicon.ico",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 992,
+    "name": "MIX: 80's, 90's",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac",
+    "logoUrl": "https://i.postimg.cc/J4K5Xkqz/mix.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 993,
+    "name": "Bandit Rock",
+    "streamUrl": "http://fm02-ice.stream.khz.se/fm02_mp3",
+    "logoUrl": "https://cdn.khz.se/images/161x80/63808dd23f61e6193a9007a927189e13.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 994,
+    "name": "Best Of Rock.FM Alternative Rock",
+    "streamUrl": "https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/",
+    "logoUrl": "https://www.best-of-rock.fm/favicons/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 995,
+    "name": "Cadena 100",
+    "streamUrl": "https://cadena100-cope.flumotion.com/chunks.m3u8",
+    "logoUrl": "https://www.cadena100.es/estaticos/apple-touch-icon-192x192.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1006,
+    "name": "Chili Radio Thailand",
+    "streamUrl": "https://stream.chiliradio.app/chiliclassics",
+    "logoUrl": "https://chiliradio.asia/wp-content/uploads/2021/01/apple-icon-120x120-1.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1007,
+    "name": "baba radyo",
+    "streamUrl": "http://officialbabaradyo.radyotvonline.net/babaofficial",
+    "logoUrl": "https://www.babaradyo.com/wp-content/uploads/2025/01/cropped-baba-radyo-23-180x180.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1011,
+    "name": "TranceBase",
+    "streamUrl": "http://listen.trancebase.fm/tunein-aac-hd-pls",
+    "logoUrl": "https://www.trancebase.fm/media/icons/trb/apple-touch-icon.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1012,
+    "name": "Bollywood_Dance",
+    "streamUrl": "http://drive.uber.radio/uber/bollywooddance/icecast.audio",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1013,
+    "name": "SmoothJazz.com.pl 320k MP3",
+    "streamUrl": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "logoUrl": "http://bcast.vigormultimedia.com:7000/sjcompl_192_192_nie_kasowac.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1014,
+    "name": "Generations Funk",
+    "streamUrl": "http://gene-wr05.ice.infomaniak.ch/gene-wr05.mp3",
+    "logoUrl": "http://generations.fr/media/radio/thumb/90x90_funk.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1020,
+    "name": "Berliner Rundfunk 91.4",
+    "streamUrl": "http://stream.berliner-rundfunk.de/brf/mp3-128/internetradio/",
+    "logoUrl": "https://upload.berliner-rundfunk.de/production/static/1693298496587/icons/icon_64.a80y02808w0.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1024,
+    "name": "80s 90s Super Pop Hits",
+    "streamUrl": "https://s4.myradiostream.com:7344/listen.mp3?",
+    "logoUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/au.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1025,
+    "name": "BBC RADIO 1 DANCE: The biggest current, future and classic dance vibes",
+    "streamUrl": "http://151.80.56.90:8090/bbc_radio_one_dance.aac",
+    "logoUrl": "https://cdn-profiles.tunein.com/s347238/images/logod.png",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1026,
+    "name": "181.FM Kickin Country",
+    "streamUrl": "http://www.181.fm/stream/pls/181-kickincountry.pls",
+    "logoUrl": "",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1037,
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "streamUrl": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac",
+    "logoUrl": "https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1040,
+    "name": "Radio 90s Eurodance",
+    "streamUrl": "https://listen1.myradio24.com/5967",
+    "logoUrl": "https://pp.userapi.com/c837231/v837231617/5990/ChfZPOJgSmA.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1041,
+    "name": "Oldies Internet Radio - Online - www.oldiesinternetradio.com - Grupo Digital Retroland - Monterrey, Nuevo León",
+    "streamUrl": "https://panel.retrolandigital.com/listen/oldies_internet_radio/listen",
+    "logoUrl": "https://static.mytuner.mobi/media/tvos_radios/dwdxek9by6tq.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1042,
+    "name": "Lounge.FM - 100% Austria",
+    "streamUrl": "https://s35.derstream.net/100austria.mp3",
+    "logoUrl": "https://www.lounge.fm/wp-content/uploads/2014/06/loungefm_logo_colour2-300x300.jpg",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1043,
+    "name": "Konga103.7FM",
+    "streamUrl": "https://lunar.citrus3.com:8124/stream",
+    "logoUrl": "https://kongafm.com/logo.svg",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1045,
+    "name": "RADIO NOVA",
+    "streamUrl": "https://novazz.ice.infomaniak.ch/novazz-128.mp3",
+    "logoUrl": "https://www.nova.fr/wp-content/uploads/sites/2/2020/10/NOVA_CARD_HD.png?resize=560%2C664&quality=75",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1050,
+    "name": "Technolovers DEEP HOUSE",
+    "streamUrl": "https://stream.technolovers.fm/deep-house?ref=radiobrowser",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1063,
+    "name": "Goldy Mukesh",
+    "streamUrl": "https://stream.zeno.fm/t39watus1p8uv",
+    "logoUrl": "https://zeno.fm/static/icons/apple-icon-120x120.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1064,
+    "name": "0R - HOTEL LOUNGE",
+    "streamUrl": "https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26",
+    "logoUrl": "https://i.ibb.co/GLkKPMc/Hotel-Lounge.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1065,
+    "name": "Karadeniz FM",
+    "streamUrl": "https://moondigitaledge.radyotvonline.net/karadenizfm/playlist.m3u8",
+    "logoUrl": "https://static.wixstatic.com/media/9477e9_88c8630d8926464eac285c1df9d8ce54~mv2.png/v1/fill/w_350,h_350,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/karadeniz-fm-logopng.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1075,
+    "name": "Intamixx 80s 90s Radio UK",
+    "streamUrl": "https://radio.intamixx.uk:8443/radio2",
+    "logoUrl": "https://80s.intamixx.uk/images/imc8090.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1079,
+    "name": "0N - 70s Radio",
+    "streamUrl": "https://0n-70s.radionetz.de/0n-70s.mp3",
+    "logoUrl": "https://www.0nradio.com/logos/0n-70s_600x600.jpg",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1080,
+    "name": "Hit Radio (Morocco)",
+    "streamUrl": "https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3",
+    "logoUrl": "",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 1081,
+    "name": "* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts",
+    "streamUrl": "https://0nlineradio.radioho.st/0r-70s?ref=rb26",
+    "logoUrl": "https://i.ibb.co/B2YbXkQG/70s.png",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1094,
+    "name": "Heart 70s",
+    "streamUrl": "https://media-ssl.musicradio.com/Heart70sMP3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1095,
+    "name": "Radyo Voyage",
+    "streamUrl": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+    "logoUrl": "",
+    "category": "Relax TV",
+    "isFavorite": false
+  },
+  {
+    "id": 1102,
+    "name": "BEST DEEP FM",
+    "streamUrl": "https://myradio24.org/5129",
+    "logoUrl": "https://bestdeepfm.ru/favicon.ico",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1103,
+    "name": "KFM 94.5",
+    "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
+    "logoUrl": "",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1105,
+    "name": "Pescobar Radio",
+    "streamUrl": "https://listen.radioking.com/radio/701141/stream/766385",
+    "logoUrl": "https://image.radioking.io/radios/701141/logo/6451afd2-e9e2-4738-a826-eea1b1ba0585.jpeg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1107,
+    "name": "181.FM The Beat (HipHop/R&B)",
+    "streamUrl": "http://www.181.fm/stream/pls/181-beat.pls",
+    "logoUrl": "http://www.181.fm/favicon.ico",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 1109,
+    "name": "Instrumental Jazz",
+    "streamUrl": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
+    "logoUrl": "https://radiojazzfm.ru/favicons/apple-touch-icon.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1114,
+    "name": "100 GREATEST OF THE 80'S",
+    "streamUrl": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1115,
+    "name": "Antenne Bayern - Oldies but Goldies",
+    "streamUrl": "http://mp3channels.webradio.antenne.de/oldies-but-goldies",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1120,
+    "name": "SENSUAL LOUNGE RADIO",
+    "streamUrl": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
+    "logoUrl": "https://d1ujqdpfgkvqfi.cloudfront.net/favicon-generator/htdocs/favicons/2025-02-16/253ad4a8eaed27bf80efa9d428914089.ico.png",
+    "category": "Blues&Jazz",
+    "isFavorite": false
+  },
+  {
+    "id": 1124,
+    "name": "KISS - The Best Vibes & Energy",
+    "streamUrl": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+    "logoUrl": "https://cdn-profiles.tunein.com/s6004/images/logod.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1128,
+    "name": "Chillhouse Live",
+    "streamUrl": "https://stream.chillhouse-live.com/live",
+    "logoUrl": "https://chillhouse-live.com/chillhouse-radio-logo.png",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1142,
+    "name": "Sky Radio 101 FM",
+    "streamUrl": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+    "logoUrl": "http://www.skyradio.nl/favicon.ico",
+    "category": "Yabancı Pop",
+    "isFavorite": false
+  },
+  {
+    "id": 1146,
+    "name": "SomaFM Drone Zone",
+    "streamUrl": "https://somafm.com/dronezone.pls",
+    "logoUrl": "https://somafm.com/img3/dronezone-400.jpg",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1158,
+    "name": "Cryosleep",
+    "streamUrl": "http://streams.echoesofbluemars.org:8000/cryosleep",
+    "logoUrl": "http://www.echoesofbluemars.org/images/favicon.ico",
+    "category": "Etnik",
+    "isFavorite": false
+  },
+  {
+    "id": 1160,
+    "name": "Dance FM 89.5 Bucharest",
+    "streamUrl": "http://edge126.rdsnet.ro:84/profm/dancefm.mp3",
+    "logoUrl": "http://www.profm.ro/static/theme-repo/apple-touch-icon.png?cache=rel-20220913-06-3",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1162,
+    "name": "Breaking Bass Air",
+    "streamUrl": "https://aircast.breaking-bass.ru:8443/air",
+    "logoUrl": "https://breaking-bass.ru/wp-content/uploads/2024/05/bb-air-logo-1.png",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1163,
+    "name": "Radio 105 - Dance 90",
+    "streamUrl": "http://icy.unitedradio.it/105Dance90.mp3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1169,
+    "name": "Radio Motown",
+    "streamUrl": "https://broadcast.miami/proxy/motown?mp=/stream/;",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+  {
+    "id": 1175,
+    "name": "West Coast – G-Funk & Hip-Hop",
+    "streamUrl": "https://r.bgp.rodeo/listen/west_coast/radio.mp3",
+    "logoUrl": "",
+    "category": "Hiphop",
+    "isFavorite": false
+  },
+  {
+    "id": 1176,
+    "name": "Ibiza X Radio",
+    "streamUrl": "https://stream.radiojar.com/p1f2vpv37reuv",
+    "logoUrl": "",
+    "category": "House",
+    "isFavorite": false
+  },
+  {
+    "id": 1188,
+    "name": "Classic FM Movies",
+    "streamUrl": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+    "logoUrl": "",
+    "category": "Nostalji",
+    "isFavorite": false
+  },
+    {
+    "id": 1189,
+    "name": "Radyo Gol",
+    "streamUrl": "https://wowza1.radyotvonline.com/unitedmedia/radyogol.stream/chunklist_.m3u8",
+    "logoUrl": "https://raw.githubusercontent.com/GNC77/gnc/main/logos/radyogol.webp",
+    "category": "Spor",
+    "isFavorite": false
+  },
 ]
