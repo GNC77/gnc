@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 70000,
+    "name": "Meksika Açmazı",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/bfc2b445-eb3b-4241-b228-ad950098be04/fa5fa5d2-e117-4161-8c59-ad95009915be/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/db/eb/26dbebf8-161a-9c9b-990c-5feca4ac1c83/mza_7022312819950547166.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70001,
+    "name": "Ortamlarda Satılacak Bilgi",
+    "streamUrl": "https://anchor.fm/s/44a38a74/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b6/c7/e5/b6c7e506-c754-5cb6-0536-2e2603718577/mza_17538872066657713367.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70002,
+    "name": "Merdiven Altı Terapi",
+    "streamUrl": "https://anchor.fm/s/136c3d5c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/24/23/a5/2423a53a-c196-d405-5ac8-9c32a6eb9d50/mza_4562229555133247098.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70003,
+    "name": "Kendine İyi Davran",
+    "streamUrl": "https://anchor.fm/s/11701bb1c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/29/26/66/292666d1-3f54-a676-b5f4-152e6d319e81/mza_13127648922476501633.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70004,
+    "name": "Kafa Radyo Podcast",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:544570506/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/50/45/b2/5045b2e5-f938-a5b2-1951-cebdffa655a4/mza_10786071525888422747.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70005,
+    "name": "Barış Özcan ile 111 Hz",
+    "streamUrl": "https://feeds.megaphone.fm/PM8722895261",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bc/0d/05/bc0d053d-b511-3082-220e-071c78f744d4/mza_3512878043465914659.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70006,
+    "name": "Tarihte Acaib ve Garaib",
+    "streamUrl": "https://feeds.megaphone.fm/PM2572913684",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/80/b8/66/80b866fb-e6e7-690b-71d6-8bc43d643bf5/mza_7204896956334201840.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70007,
+    "name": "Hiçbir Şey Tesadüf Değil",
+    "streamUrl": "https://feeds.megaphone.fm/PM7940137763",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cf/2a/2e/cf2a2e4d-eefb-24d4-fabf-c6f04023b349/mza_2930040458270432089.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70008,
+    "name": "Anlatanadam'la Aikido",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/6a61f94d-17a3-4068-8614-b3d000c5afe5/457a3b1d-ff0a-48de-b309-b3d000c5b421/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/52/ed/bc/52edbcfd-5c23-7749-3030-525335c53df7/mza_11363320602293077261.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70009,
+    "name": "O Tarz Mı?",
+    "streamUrl": "https://rss.buzzsprout.com/794573.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/43/b0/5143b09a-62b0-aab4-3ceb-0ba47757f420/mza_13567104680000401331.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70010,
+    "name": "Terapist Koltuğu",
+    "streamUrl": "https://anchor.fm/s/1047fb3f4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/54/a5/0e/54a50e89-9912-5173-675f-e055f4052995/mza_8051352584285249298.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70011,
+    "name": "Aklımda Kalanlar",
+    "streamUrl": "https://anchor.fm/s/dda298dc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/91/81/45/918145db-cca9-8ad7-cba7-99a8c3c58576/mza_5837942560682986384.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70012,
+    "name": "Anlatamadım",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/00b2fedd-e33f-4b4f-bb4c-ae1c00c8b6dd/8425ddd8-cc1c-4924-b379-ae1c00c919f0/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0b/78/b9/0b78b98d-c5b6-6fe4-7535-c7b7048d9bf7/mza_13577669145375590818.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70013,
+    "name": "Biraz Konuşabilir miyiz?",
+    "streamUrl": "https://anchor.fm/s/37c8ef88/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/6f/91/db/6f91db7a-a634-d951-d82e-95f9dd8f8d86/mza_3541192994288793312.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70014,
+    "name": "Bir Aile Meselesi",
+    "streamUrl": "https://media.rss.com/biailemeselesi/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b9/2a/94/b92a94ab-8301-e049-f244-92df3fdcb6fc/mza_3701611724325160160.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70015,
+    "name": "Ne Biliyor Us?",
+    "streamUrl": "https://rss.buzzsprout.com/2399610.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3a/96/b6/3a96b648-7490-8576-7e10-f23e4db5e1dd/mza_5419460942492805123.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70016,
+    "name": "Alem FM",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:209435722/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/e9/7e/e8/e97ee8c9-9877-b5ef-6fa5-a128c92b1863/mza_14277338064460001507.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70017,
+    "name": "Bu Mu Yani?",
+    "streamUrl": "https://anchor.fm/s/4e883d8c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d6/26/27/d62627c0-a8da-ba73-cf14-68cf1f9fe0ba/mza_6427317037834607208.jpeg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70018,
+    "name": "Fularsız Entellik",
+    "streamUrl": "https://feeds.megaphone.fm/PM5261345791",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1a/86/ca/1a86ca88-495e-ce11-7d6b-8081ba170b1f/mza_17430187238049527174.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70019,
+    "name": "Nereden Başlasam?",
+    "streamUrl": "https://feeds.simplecast.com/xC_TUvmu",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/f2/20/b5/f220b5b5-f829-3372-4f89-94db900ab4db/mza_5889616201754987632.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70020,
+    "name": "Burda Olan Burda Kalır",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:732708709/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ca/7b/35/ca7b3513-c91e-daee-7968-d0cec64ee1a0/mza_12271523296789465627.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70021,
+    "name": "Geri Dönüyoruz",
+    "streamUrl": "https://feeds.transistor.fm/geri-donuyoruz",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7b/03/71/7b03710f-20f3-f0c8-235c-16acf4f3b747/mza_755428101779085865.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70022,
+    "name": "Radyo Tiyatrosu",
+    "streamUrl": "https://feeds.podcastics.com/podcastics/podcasts/rss/892_83aa7db2607199131fa6b5f648492d63.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/6b/3b/c1/6b3bc1b4-a9c7-6398-ed0a-29a742276878/mza_7146371975070966901.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70023,
+    "name": "Varyete",
+    "streamUrl": "https://anchor.fm/s/6aa4a3ac/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/e5/89/f9/e589f97b-05ec-6b6d-d1ca-2ffb168e3108/mza_13618477735384192317.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70024,
+    "name": "Haddini Aşan Yaşam Rehberi",
+    "streamUrl": "https://feeds.megaphone.fm/PM1235067202",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f5/20/71/f520712f-d99a-33dc-d716-f2e951227152/mza_8948021538748028172.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70025,
+    "name": "KALT'ın Podcast'i",
+    "streamUrl": "https://anchor.fm/s/7cd3910/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d0/2b/ee/d02bee81-69a8-62fb-b6df-3b8dfff95b69/mza_10299712225270688830.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70026,
+    "name": "Psikopatika",
+    "streamUrl": "https://feeds.megaphone.fm/PM4224862142",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/f2/d4/f9f2d429-a0b1-fab7-4718-c17b5c4e75f5/mza_7714364271086615688.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70027,
+    "name": "Konuşulacak Çok Şey Var!",
+    "streamUrl": "https://anchor.fm/s/1e8ed424/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6a/20/1c/6a201c49-3b4a-448c-6e9c-8d4b084efeb5/mza_10521441112897120896.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70028,
+    "name": "Bildiğin Kadarıyla",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/9b190b9d-ed9d-428c-831f-b11100b55a63/55c0caf6-a34f-48d1-8151-b11100b80a4f/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4a/42/81/4a4281df-25a9-a4c3-9b01-612fddf04e1f/mza_18082066457883739281.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70029,
+    "name": "Nasıl Olunur",
+    "streamUrl": "https://feeds.simplecast.com/TRRbx_5C",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a2/e7/65/a2e765f3-be0b-23d1-da29-c8aac957d9da/mza_3773305927165867661.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70030,
+    "name": "Yoldayız Geliyor Musun?",
+    "streamUrl": "https://anchor.fm/s/6eb7e6ac/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/94/9d/de/949dde41-91c1-f5e1-7a82-c3726018bcbb/mza_16358756931033141558.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70031,
+    "name": "Bilinç Akışı Podcast",
+    "streamUrl": "https://anchor.fm/s/e6f08a34/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/87/0e/05870ee6-fc71-d361-98ba-a205074a19a2/mza_2758772888726542699.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70032,
+    "name": "Dr. Gulec Radio",
+    "streamUrl": "https://feeds.megaphone.fm/PM8839168327",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c9/57/4b/c9574bf0-1cf3-8189-392f-5834bd727fa2/mza_10609884072860099536.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70033,
+    "name": "Psikiyatri ve Duvarın Ardı",
+    "streamUrl": "https://anchor.fm/s/1171687b8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2a/2a/20/2a2a2033-ffbe-ee30-4201-03afbf5311b4/mza_2043073155959074255.jpeg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70034,
+    "name": "Ruşen Çakır",
+    "streamUrl": "https://feeds.megaphone.fm/rusen-cakir",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/01/61/b301617e-3db4-33f9-64e7-550947da7463/mza_4258892993091459348.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70035,
+    "name": "Ezgi'nin İzleri - Çocuk Hikâyeleri",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/6356c72f-8dde-4bdb-b1c7-b45e00c6b756/d329cdb2-3dbd-48f2-913e-b45e00c6b776/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/97/ac/59/97ac59d5-37ee-2368-db29-a9a1796d290e/mza_12829507108783629461.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70036,
+    "name": "Ben Okurum",
+    "streamUrl": "https://feeds.simplecast.com/AVZD8wGM",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/cf/e4/02/cfe40290-8e42-43fc-888a-53163831b683/mza_7659584184652559066.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70037,
+    "name": "Yakın İlişkiler",
+    "streamUrl": "https://feed.podbean.com/yakiniliskiler/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/65/72/0e6572fb-ff6a-adce-0e4e-9e22f8ffe9ac/mza_3334833533694600573.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70038,
+    "name": "Aposto Altı Otuz",
+    "streamUrl": "https://feeds.megaphone.fm/PFC3270786384",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a2/40/8e/a2408e60-7f26-d00f-16a7-de9e840f6627/mza_2754793825799770827.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70039,
+    "name": "Radyo Tiyatrosu Dinle",
+    "streamUrl": "https://www.spreaker.com/show/6482101/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ed/ae/fd/edaefd5e-7a81-4868-bedb-7cb7ee410d75/mza_7290357087363868550.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70040,
+    "name": "Fazla Merak",
+    "streamUrl": "https://anchor.fm/s/ff1bd3e8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e1/b8/80/e1b880ff-180a-961d-f565-160a760c24de/mza_9339087878670829997.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70041,
+    "name": "Podcastia Maceraları 1.0",
+    "streamUrl": "https://rss.buzzsprout.com/271147.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/fe/e9/51fee95e-5476-5487-617c-729ca1c56508/mza_7724493565738348057.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70042,
+    "name": "Bunu ben de yaparım",
+    "streamUrl": "https://feeds.simplecast.com/3oknuZQy",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4b/e2/e0/4be2e0a0-20ea-8eda-965c-b69de0fc7189/mza_11956464568884392171.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70043,
+    "name": "bunları sadece günlüğüm biliyordu",
+    "streamUrl": "https://anchor.fm/s/1047cabc8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4b/4c/bb/4b4cbbea-ce49-edac-8b95-7712f554a6a3/mza_1768838362060788013.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70044,
+    "name": "mecbur muyum?",
+    "streamUrl": "https://feeds.megaphone.fm/mecburmuyum",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e1/1c/06/e11c0694-3318-f771-0d9f-83a8db6f7e7a/mza_17873409560849750466.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70045,
+    "name": "TED Talks Daily",
+    "streamUrl": "https://feeds.acast.com/public/shows/67587e77c705e441797aff96",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2e/cf/99/2ecf996f-71f7-604f-b0a0-43116b9d6619/mza_10257768296573848480.png/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70046,
+    "name": "IELTS Speaking for Success",
+    "streamUrl": "https://feeds.megaphone.fm/TPG4197403620",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/03/bb/fa/03bbfae5-abe9-5461-e8b9-cbe10e5d109b/mza_7437219778351001034.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70047,
+    "name": "FT News Briefing",
+    "streamUrl": "https://feeds.acast.com/public/shows/73fe3ede-5c5c-4850-96a8-30db8dbae8bf",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/60/fd/0c/60fd0c79-808e-cc79-e121-27527becbdc6/mza_1413179331890984538.jpeg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70048,
+    "name": "Hikayeden Adamlar",
+    "streamUrl": "https://anchor.fm/s/925b3c1c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/3f/c8/e4/3fc8e454-1deb-466e-065d-000a0a247e61/mza_6425322741919964176.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70049,
+    "name": "PES",
+    "streamUrl": "https://anchor.fm/s/afd4e52c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/c6/14/ca/c614ca8b-4f9f-f580-249c-2d93162652a1/mza_10053971731190573858.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70050,
+    "name": "Psikolog Gökhan Çınar’la Psikolojik Dayanıklılık Serisi",
+    "streamUrl": "https://anchor.fm/s/106f8b9dc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/a0/81/1ba081a2-c6d7-fd2e-1b6d-0606d2dab89e/mza_10360439847267016348.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70051,
+    "name": "Haftalık Gündem Değerlendirmesi",
+    "streamUrl": "https://teknoseyir.com/feed/podcast",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3b/1a/d0/3b1ad01d-b901-279b-71b6-cfc5860a420f/mza_11894855209714457621.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70052,
+    "name": "Farklı Düşün",
+    "streamUrl": "https://feeds.simplecast.com/npDtqJd7",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/9a/db/eb/9adbebd2-8b88-e54d-9155-4708a95a38c3/mza_5701839664883402044.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70053,
+    "name": "Yeni Medya 451",
+    "streamUrl": "https://feeds.transistor.fm/yeni-medya-451",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ca/a6/7d/caa67db1-d09f-998b-6fc7-93a315a06ffd/mza_15215024821827505838.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70054,
+    "name": "Keyfimin Kahyaları",
+    "streamUrl": "https://rss.buzzsprout.com/2286129.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/3c/c6/1a/3cc61a67-33b2-8e19-aefe-5a2d1c6217ed/mza_5468635577203284688.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70055,
+    "name": "Uyku Hikayeleri",
+    "streamUrl": "https://anchor.fm/s/12f8efc8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/19/e5/5b/19e55b5c-ca4b-a6eb-064e-1a5932594bb5/mza_15673530243162514116.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70056,
+    "name": "Süper FM - Doğan Canlı Yayında",
+    "streamUrl": "https://www.omnycontent.com/d/playlist/5af088d6-01f8-4b3d-b372-acb600f45df6/f79503e9-e708-4d41-a0d9-acdb01649d5f/ddc34f96-da4f-4fa7-ab0f-acdb01649d69/podcast.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/cf/1c/0ecf1c82-595c-a3ae-0811-e2cef071d4a7/mza_3611345333700934180.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70057,
+    "name": "Kronik Tarih",
+    "streamUrl": "https://anchor.fm/s/6492b634/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/34/a8/af/34a8af76-62df-599a-28ae-26dbb3aa2aa5/mza_4902026928886944923.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70058,
+    "name": "SEYYAR KAFALAR",
+    "streamUrl": "https://anchor.fm/s/ffe7eb90/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b2/fc/49/b2fc491c-ee04-580b-e42b-cf581b40e643/mza_16206223923500090102.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70059,
+    "name": "Annemin Plakları",
+    "streamUrl": "https://anchor.fm/s/d41bfaec/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/0b/fc/840bfc40-c171-9eb2-8e99-59f6513d2cf5/mza_14684907766255567757.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70060,
+    "name": "Cem Yılmaz | Stand-Up Komedi Kesitleri (Videolu)",
+    "streamUrl": "https://anchor.fm/s/10f07a73c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d2/26/dd/d226dd9b-4376-188d-b81f-115470082028/mza_3058699048589330783.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70061,
+    "name": "Portal ile Yansıma",
+    "streamUrl": "https://anchor.fm/s/ec63611c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/b1/a4/a4b1a45f-ae2b-244c-6bc6-97ae74002e5b/mza_4261573241107518277.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70062,
+    "name": "Mesele Ekonomi",
+    "streamUrl": "https://media.rss.com/mesele-ekonomi/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/1f/ce/7e/1fce7e93-99fa-00cb-014c-969b6172f55c/mza_3437032584856614725.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70063,
+    "name": "Aplalar",
+    "streamUrl": "https://feeds.megaphone.fm/PM4716162594",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/1b/e9/381be97c-03aa-27b0-6b61-94e6ebf5fcdb/mza_2854325201406488830.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70064,
+    "name": "Deep Sleep Sounds",
+    "streamUrl": "https://rss.pdrl.fm/38e80f/feeds.simplecast.com/iEtFYQyO",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b8/af/85/b8af856e-eaa2-25d9-8b95-63f20e58a4a2/mza_9761806453745940078.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70065,
+    "name": "Economist Podcasts",
+    "streamUrl": "https://access.acast.com/rss/ec380acc-fe13-46a0-991f-a1e508d126f8",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/37/6e/6f/376e6f90-6694-48d4-32cf-cda596a2e95d/mza_17201510968398707530.png/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70066,
+    "name": "HAHA Podcast",
+    "streamUrl": "https://feeds.simplecast.com/C8KWN7oI",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/9d/12/789d1261-d224-abe5-b641-4ab05ecc0a0d/mza_7511211403408741048.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70067,
+    "name": "Ottoman History Podcast",
+    "streamUrl": "http://feeds.feedburner.com/soundcloud/OHP",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/dc/88/38/dc8838c5-b125-143a-712e-441c1b1251f4/mza_15528775386254458768.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70068,
+    "name": "Podcast Best book's",
+    "streamUrl": "https://www.spreaker.com/show/7497697/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d1/95/80/d19580c9-dd3a-bfc9-b9ca-bf2ef36a1fd7/mza_16903010390624700239.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70069,
+    "name": "Minik Kaşifler | Çocuklar için Podcast",
+    "streamUrl": "https://anchor.fm/s/10d7e04ec/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/21/42/28/2142289e-52c9-f640-4755-b6d3b75b46d9/mza_7556274773002289851.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70070,
+    "name": "Genel Sesler Podcast",
+    "streamUrl": "https://anchor.fm/s/3f31aeb8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0b/be/3f/0bbe3fd0-e2c5-470b-f023-c7fc81bda70e/mza_15409654686860201212.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70071,
+    "name": "Socrates Podcasts",
+    "streamUrl": "https://feed.podbean.com/socratespodcast/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/5f/4a/82/5f4a827f-b3bd-c8b5-a82e-b2fb4c0bb244/mza_4388076694873195548.jpg/600x600bb.jpg",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 70072,
+    "name": "Demode Podcast",
+    "streamUrl": "https://anchor.fm/s/deb6dea4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/49/96/09/49960910-f8b2-2fbe-d74a-8018030c514e/mza_6118145179819408026.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70073,
+    "name": "kuji podcast",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:452878986/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/8c/83/39/8c833999-77bb-d5df-dcc4-49ce170debc3/mza_2325250896373231125.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70074,
+    "name": "Finans Podcasti",
+    "streamUrl": "https://anchor.fm/s/e5880028/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/98/32/88/983288d4-3284-0e9f-d91a-87206237ab42/mza_6357073418717662948.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70075,
+    "name": "Waveform: The MKBHD Podcast",
+    "streamUrl": "https://feeds.megaphone.fm/STU4418364045",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/92/dd/8e/92dd8eed-43ec-dc47-50ae-c1ec7c0a3353/mza_3861776104886813687.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70076,
+    "name": "HTalks Podcast",
+    "streamUrl": "https://anchor.fm/s/a37550c8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/56/be/62/56be628c-65b4-4f19-f983-b03745cbe637/mza_16163335595365876039.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70077,
+    "name": "Tarih 101",
+    "streamUrl": "https://anchor.fm/s/d9ffe9c8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ac/de/d7/acded740-925f-fbb7-f9ea-0f61894e2d5d/mza_17218475543782780550.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70078,
+    "name": "Popüler Tarih",
+    "streamUrl": "https://www.spreaker.com/show/7152055/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/97/ff/4c/97ff4c1d-f9c5-f2ab-fcdc-c10dfd68eba4/mza_4557518849785960366.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70079,
+    "name": "Tarihin Tozlu Sayfaları",
+    "streamUrl": "https://anchor.fm/s/ffc75754/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cb/c7/c8/cbc7c830-2e3e-489f-c5a4-0eb22e625093/mza_15018188916837705744.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70080,
+    "name": "Türklerin Tarih Sahnesine Çıkışı",
+    "streamUrl": "https://anchor.fm/s/101cf8814/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/b3/11/abb3117f-9410-93d2-6506-f0786331bfab/mza_10271509195338107491.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70081,
+    "name": "ODTÜ Tarih Topluluğu Tarih Söyleşileri",
+    "streamUrl": "https://anchor.fm/s/519a3304/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/f6/10/a3/f610a3f8-1219-9389-77bf-ae43f20847cd/mza_304294406209891237.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70082,
+    "name": "Dersimiz Tarih",
+    "streamUrl": "https://anchor.fm/s/e50f2518/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/93/3f/9f/933f9f42-3d79-e31e-ccd8-61c39fa5be9f/mza_4932119592727405995.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70083,
+    "name": "KPSS Tarih Notları",
+    "streamUrl": "https://anchor.fm/s/109397f60/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/de/e5/86/dee58623-a09a-3e9f-a03a-95809ceeb86d/mza_1302023151046848756.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70084,
+    "name": "Uyku İçin Tarih",
+    "streamUrl": "https://anchor.fm/s/107cd3400/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/42/fb/f742fb44-bf95-394e-af7a-cc623c4da38b/mza_14018020333441782290.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70085,
+    "name": "Gizemli Tarih",
+    "streamUrl": "https://feed.podbean.com/gizpodcast/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f7/05/f6/f705f624-10e3-5940-15be-841ff82342e1/mza_699590168704081254.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70086,
+    "name": "Tarih Dedektifi",
+    "streamUrl": "https://anchor.fm/s/f8c9e098/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/eb/d0/a8ebd08d-b61e-2bc3-03cb-c019af1c7446/mza_5460199288808736006.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70087,
+    "name": "Tarih Cast",
+    "streamUrl": "https://anchor.fm/s/37fe243c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/cb/68/1f/cb681fd3-9dc8-2485-1ee1-56edb5023df2/mza_17865166776641654315.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70088,
+    "name": "Tarih Köşesi",
+    "streamUrl": "https://anchor.fm/s/4f598040/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5a/ea/a6/5aeaa6b3-d0ad-a504-be04-affe5bb703ca/mza_13651741183414510030.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70089,
+    "name": "Tarih-i KPSS",
+    "streamUrl": "https://anchor.fm/s/10d838070/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/62/54/df625448-5251-9bda-43f4-4cccdca47f02/mza_6916650702328628245.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70090,
+    "name": "Alev Alatlı — Tarih Tekerrür ve Ekonomik Krizler",
+    "streamUrl": "https://ahmetcadirci.com/podcast/tarih-tekerrur-ve-ekonomik-krizler.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/9c/03/139c03ea-2ec0-d330-d4e6-5b5e6e76ce68/mza_18068155510823394062.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70091,
+    "name": "Tarihe sesli notlar",
+    "streamUrl": "https://anchor.fm/s/5ba892dc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/7e/6a/12/7e6a12d5-0f0a-6455-6124-d2cec4b06e13/mza_9859058336604814952.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70092,
+    "name": "Tarihin Gizli Suikastçileri: Hasan Sabbah ve Haşhaşiler",
+    "streamUrl": "https://anchor.fm/s/4ca7a840/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/02/da/26/02da269a-8955-98b6-1cc2-fa9a6e8b0ca9/mza_3306852783826072374.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70093,
+    "name": "Tarih",
+    "streamUrl": "https://anchor.fm/s/dd40c83c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/94/e8/10/94e81065-3e19-11cf-31e3-45494428777a/mza_12628425549236072211.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70094,
+    "name": "Tarihin gör dediği",
+    "streamUrl": "https://feeds.transistor.fm/tarihin-gor-dedigi",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/76/59/3b/76593b4f-b9a0-19d4-29d0-2dac09d41a91/mza_2027891497693282954.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70095,
+    "name": "Tarih Vakfı Sesli Yayınlar",
+    "streamUrl": "https://anchor.fm/s/118e901b0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/95/b6/6b/95b66b64-7f1a-5626-4f8d-e4eb076d3c48/mza_8042778334149864133.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70096,
+    "name": "Kuantum Cart Curt | Tarih - Felsefe - Güncel",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:772521817/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c0/1f/0c/c01f0cf2-46a2-a87b-54fd-b8259d6fae2f/mza_9689376595386007924.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70097,
+    "name": "ÇOMÜ Tarih Araştırmaları Kulübü - Canlı Tarih Yayınları",
+    "streamUrl": "https://anchor.fm/s/da5e754c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/df/6b/91/df6b9113-d152-7781-a431-7466b9f2eea5/mza_14597916838067623351.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70098,
+    "name": "Her Şeyin Psikolojisi",
+    "streamUrl": "https://anchor.fm/s/476f0bfc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/52/a8/b6/52a8b61e-0862-1726-210c-ee2fb9cae3b2/mza_16631138893269415992.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70099,
+    "name": "Psikoloji Bölümü / Yeditepe Üniversitesi",
+    "streamUrl": "https://feeds.megaphone.fm/PFC7468660975",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/87/1d/2f/871d2f1c-df76-d4d3-c4e1-83c0b9885411/mza_856709527866041178.jpeg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70100,
+    "name": "Heretik Podcast",
+    "streamUrl": "https://anchor.fm/s/eb324de4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/ee/89/0aee894c-9f82-690f-9d7b-a5e3b015d08c/mza_12425861202716200562.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70101,
+    "name": "15 Minuten. Der tagesschau-Podcast am Morgen",
+    "streamUrl": "https://www.tagesschau.de/multimedia/podcast/15-minuten/index~podcast.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/dc/ce/7fdcce74-47d8-5ff8-38df-44c4b0e2f51c/mza_8322428780415729606.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70102,
+    "name": "Trash Taste Podcast",
+    "streamUrl": "https://feeds.megaphone.fm/trashtaste",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/08/cc/6d/08cc6d89-8ddf-ca1b-1086-a61a4c3e1045/mza_7767039907201295013.jpg/600x600bb.jpg",
+    "category": "Podcast",
+    "isFavorite": false
+  },
+  {
+    "id": 70103,
+    "name": "The Cycling Podcast",
+    "streamUrl": "https://audioboom.com/channels/1405050.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/45/20/3b/45203b7c-8fca-57a2-8c47-7d3548336888/mza_12803321065758387737.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70104,
+    "name": "The Official Podcast",
+    "streamUrl": "https://feeds.megaphone.fm/HMG1981169825",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c3/a5/c3/c3a5c38f-3e83-21d7-76b1-86eb0c087ea4/mza_2756932629676299813.jpeg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70105,
+    "name": "The Tennis Podcast",
+    "streamUrl": "https://feeds.acast.com/public/shows/4d90c19e-d564-4949-a998-27e24cca2aee",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3f/e8/af/3fe8af45-def4-868d-668e-24eecdf1d6eb/mza_5500294389950042564.jpeg/600x600bb.jpg",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 70106,
+    "name": "Beach House Podcast",
+    "streamUrl": "https://wearebeachhouse.com/xml/beachhouse.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7d/32/93/7d3293e5-cf92-d1fc-d604-1ea7086f9484/mza_3484722133875166334.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70107,
+    "name": "DERİNSEL TARİH",
+    "streamUrl": "https://anchor.fm/s/dfe59cfc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/15/f6/7f/15f67fdd-22b2-b110-e874-94512dd9922d/mza_6661245813080320058.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70108,
+    "name": "Tarihin Öteki Yüzü",
+    "streamUrl": "https://ozguruz.correctiv.net/@tarihin_oteki_yuzu/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c8/bb/a8/c8bba8ad-ee53-a241-eb57-9a13399da5f0/mza_6759908702339004857.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70109,
+    "name": "Tarih Podcast's show",
+    "streamUrl": "https://www.spreaker.com/show/3537685/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/e8/87/9c/e8879c20-c84f-eb6d-a7d6-88dfceb3ef7e/mza_6174158008999873965.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70110,
+    "name": "Tarih ve Toplum",
+    "streamUrl": "https://anchor.fm/s/e5885b2c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/31/3f/91/313f9192-92ae-4d05-12f2-cf24979c53cc/mza_12461576046877641204.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70111,
+    "name": "TarihPod",
+    "streamUrl": "https://feeds.redcircle.com/4b091ae4-3078-4bdb-a044-859ec070fa1a",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/da/20/26/da202616-b95a-3e0c-6f84-75af1406d94f/mza_3136679564170903214.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70112,
+    "name": "Tarih Podcast I Mini-Podcast",
+    "streamUrl": "https://anchor.fm/s/481abbf0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/3f/bc/3a/3fbc3ad3-7e3c-1683-7588-42f119d824ce/mza_9117487013890548739.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70113,
+    "name": "Tarih Vakfı",
+    "streamUrl": "https://anchor.fm/s/1770a154/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/74/b5/fa/74b5fa5b-58f5-6c9b-224f-3119836b0620/mza_14656343537797109807.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70114,
+    "name": "Otuz Saniyede Tarih",
+    "streamUrl": "https://anchor.fm/s/48407b38/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/4f/87/74/4f8774d4-0fa4-ab29-b17c-5d1d5d47e24d/mza_17968112134043100562.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70115,
+    "name": "YKS( Edebiyat-Tarih-Felsefe)",
+    "streamUrl": "https://anchor.fm/s/7001a5e8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/eb/97/ec/eb97ec89-e402-5ebe-a754-bed6e64ae33c/mza_2318900123189530144.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70116,
+    "name": "KPSS 2020 TARİH GENEL TEKRAR - İLK TÜRK DEVLETLERİ",
+    "streamUrl": "https://www.spreaker.com/show/4448336/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/88/b7/5a/88b75a29-a6fd-fbf0-a67a-5ad330ff968d/mza_15238511104917607157.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70117,
+    "name": "Tarih Fm Podcast",
+    "streamUrl": "https://anchor.fm/s/760582fc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/15/96/dc/1596dc70-bae5-8fe0-2c66-40193e8a7527/mza_11436267472939530304.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70118,
+    "name": "Rusya Jeopolitiği | Tarih, Uluslararası İlişkiler ve Stratejik Analiz",
+    "streamUrl": "https://anchor.fm/s/10d883e1c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/db/c9/b2/dbc9b2d9-1989-ae25-3049-5df6129d7dd7/mza_8911483711686895548.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70119,
+    "name": "DERSİMİZ TARİH",
+    "streamUrl": "https://www.spreaker.com/show/3386102/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/29/37/b6/2937b69f-b132-dee1-3246-b99624cf4a06/mza_18195055109599159009.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70120,
+    "name": "Tarihin Mücevherleri",
+    "streamUrl": "https://feeds.captivate.fm/tarihin-mucevherleri/",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f4/db/71/f4db719d-8c5d-eb61-d3fc-738f94029565/mza_15885823106100568922.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70121,
+    "name": "Taha Kılınç — Derin Tarih",
+    "streamUrl": "https://ahmetcadirci.com/podcast/derin-tarih.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/9e/b4/c9/9eb4c907-9eb5-904f-c16e-b22543b49d2b/mza_3248482870381441105.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70122,
+    "name": "Evrim Ağacı ile Bilime Dair Her Şey!",
+    "streamUrl": "https://evrimagaci.org/rss/podcast/1",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/5d/74/ca/5d74cabb-c814-7044-839e-6267d9be7534/mza_15700797348100605949.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70123,
+    "name": "Biyografik Bilim: Bilim İnsanlarının Ağzından Hayatları (Evrim Ağacı)",
+    "streamUrl": "https://evrimagaci.org/rss/podcast/2",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/50/b2/e7/50b2e730-da3c-e70c-1e6e-572c68a76eeb/mza_15888891066277718731.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70124,
+    "name": "TÜBİTAK Bilim ve Teknik Podcast",
+    "streamUrl": "https://feed.podbean.com/bteknik/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/90/b1/5b/90b15bcb-2a15-6604-349f-7c4f1299a52d/mza_17774701996215210584.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70125,
+    "name": "Hypatia Bilim",
+    "streamUrl": "https://anchor.fm/s/e2836a20/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b8/9f/5d/b89f5d56-7f89-434a-c769-120096666b74/mza_15340101799861351524.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70126,
+    "name": "Teknoloji ve Bilim Notları",
+    "streamUrl": "https://teknoseyir.com/feed/bilim_notlari",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/39/74/14/39741407-f405-bf72-42eb-4b3236c5d0ce/mza_13286167873533586326.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70127,
+    "name": "Bilim 101",
+    "streamUrl": "https://anchor.fm/s/1b65e698/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/df/7d/a6/df7da633-a26a-19d6-33d9-2705765389e0/mza_18322901580302849464.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70128,
+    "name": "BİLİM KAZANI",
+    "streamUrl": "https://feeds.feedburner.com/BilimKazani",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/6c/a4/a7/6ca4a7cb-cf80-7a25-1c00-4e034de76d6a/mza_6948185889744664753.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70129,
+    "name": "Bilim Akademisi",
+    "streamUrl": "https://bilimakademisi.org/feed/podcast/",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/84/ab/1e/84ab1ef7-8c29-8128-065b-a8b391a9a78a/mza_3553371933358985128.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70130,
+    "name": "Bir Elit Bilim İnsanı: Prof. Dr. Celal Şengör",
+    "streamUrl": "https://anchor.fm/s/6718fd14/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/fb/1b/83/fb1b8312-fa3f-9329-3a21-d2338988b11f/mza_12285655061301698070.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70131,
+    "name": "TÜBİTAK Bilim Genç Sesli Yayın",
+    "streamUrl": "https://feed.podbean.com/bilimgenc/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/de/f4/7e/def47eb0-ca4f-6acf-e25e-dbebcc0aafeb/mza_8992095418403421255.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70132,
+    "name": "Gelecek Bilimde",
+    "streamUrl": "https://www.spreaker.com/show/2583093/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/71/85/00/718500c3-7c8a-3bea-b08f-e1e6634f5c54/mza_12935206496812509627.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70133,
+    "name": "Bir Bilim İnsanının Goy Goy Günlüğü",
+    "streamUrl": "https://media.rss.com/goy-goy-gunlugu/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/ce/6c/2dce6cf8-3fd4-8f37-9d9f-c8469db63211/mza_10237020371057250430.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70134,
+    "name": "NeoRadarTR: Teknoloji ve Bilim Analizleri",
+    "streamUrl": "https://anchor.fm/s/114643128/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/15/d4/50/15d4505b-a1b7-ca36-6132-f37051c8a88c/mza_12192164263139774890.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70135,
+    "name": "TÜBİTAK Bilim Çocuk",
+    "streamUrl": "https://feed.podbean.com/cocuk/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fb/4c/79/fb4c7902-9fec-2638-e4c5-4f39ea67d2a8/mza_3662745054556309273.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70136,
+    "name": "BilimFili Podcast",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:182338105/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/86/84/9d/86849d4c-74ec-7617-0a07-dc69fa603c56/mza_2118429013139277387.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70137,
+    "name": "Bilim ve Teknoloji üzerine",
+    "streamUrl": "https://anchor.fm/s/434aecf8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/fe/98/f0/fe98f082-da86-3cd5-a9c2-2b6c92e1e60a/mza_6324098365810164462.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70138,
+    "name": "Açık Bilim Podcast",
+    "streamUrl": "https://feeds.megaphone.fm/acik-bilim-podcast",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c7/82/4e/c7824e7e-89d9-e39d-0b05-1219505a3105/mza_5761846215894986237.jpeg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70139,
+    "name": "Bilim ve Sanat Vakfı Podcast Kanalı",
+    "streamUrl": "https://www.bisav.org.tr/tr/Home/PodCastRSS/5/Bilim%20ve%20Sanat%20Vakf%C4%B1%20Podcast%20Kanal%C4%B1",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d3/0c/f6/d30cf6ed-70f3-063d-5696-6a1548295687/mza_1956764769057683994.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70140,
+    "name": "Evrim Ağacı TV: Canlı Bilim Yayınları",
+    "streamUrl": "https://evrimagaci.org/rss/podcast/4",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2a/07/29/2a072960-7516-3285-f2ae-649a0222150e/mza_2098324986303116402.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70141,
+    "name": "LikeADA Bilim Çocuk",
+    "streamUrl": "https://anchor.fm/s/102ce2bf8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8a/cd/29/8acd29c4-d7a7-80a8-921d-b53e2d9a6a12/mza_6325521160991445746.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70142,
+    "name": "sosyalbilimler.org Ankara Konuşmaları",
+    "streamUrl": "https://anchor.fm/s/136e99a8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/68/fd/3c/68fd3cbd-5a96-d1ea-c439-133d29575606/mza_11534177454729840177.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70143,
+    "name": "Bilimetri ile Bilim Radyosu",
+    "streamUrl": "https://anchor.fm/s/f1047210/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/d9/b1/57/d9b1572f-f3cd-293f-e559-ed6b31873b76/mza_1166200173166874215.jpg/600x600bb.jpg",
+    "category": "Eğlence",
+    "isFavorite": false
+  },
+  {
+    "id": 70144,
+    "name": "Uykunda Öğren: 3 Saatlik Kesintisiz Uyku Belgeselleri & Bilim",
+    "streamUrl": "https://anchor.fm/s/11346eab0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e5/d3/d6/e5d3d680-397a-599a-8638-c1704d3e691a/mza_9708241525241584401.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70145,
+    "name": "Açık Bilim Topluluğu Podcast",
+    "streamUrl": "https://anchor.fm/s/2cde18a0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e6/9f/f0/e69ff066-7538-8914-f258-726af8730bd3/mza_9035807109581898095.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70146,
+    "name": "Ela ile Eddie: Evrim Ağacı'ndan Çocuklar İçin Bilim Öyküleri",
+    "streamUrl": "https://evrimagaci.org/rss/podcast/5",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ad/c3/ca/adc3ca1c-5233-97ec-63d9-72448e965795/mza_8201090692583533742.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70147,
+    "name": "İngilizce Siyaset Bilimi ve Uluslararası İlişkiler Bölümü / Yeditepe Üniversitesi",
+    "streamUrl": "https://feeds.megaphone.fm/PFC1793614174",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/23/fb/09/23fb0968-2a54-45cf-528b-9caaf7f5dff5/mza_12819538155266223982.jpeg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70148,
+    "name": "Herkes için Siyaset Bilimi",
+    "streamUrl": "https://www.spreaker.com/show/5970649/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/ed/c6/46edc60d-1967-f6bd-596a-ddff7d8c226c/mza_1669794232711079277.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70149,
+    "name": "Bilim Kurgu Mu Bilim Gelecek Mi?",
+    "streamUrl": "https://anchor.fm/s/8d37a324/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/a9/f2/e6a9f21a-7c06-3215-c627-2100c0134b05/mza_2296855991079870464.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70150,
+    "name": "Açık Bilim Cepyayını",
+    "streamUrl": "https://www.acikbilim.com/feed/podcast",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts/v4/7e/2d/d7/7e2dd732-f927-cd5a-a54a-8782fd43089f/mza_3385758457468514774.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70151,
+    "name": "Bilim ve Teknoloji Güncesi",
+    "streamUrl": "https://anchor.fm/s/a192e4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a9/c1/5f/a9c15f9c-a775-535f-6edd-a55804fcd1d7/mza_12196511351711674923.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70152,
+    "name": "TARD Akademi Podcast: Anesteziyoloji ve Yoğun Bakım Biliminin Sesi",
+    "streamUrl": "https://anchor.fm/s/eddf3570/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/22/82/32/22823202-1980-1bc1-15b8-fc8c4e55a1bf/mza_5404341020852078797.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70153,
+    "name": "Akademisyen Güncesi Kültür x Bilim",
+    "streamUrl": "https://anchor.fm/s/10fb39678/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/57/0b/2e/570b2e75-1be1-7180-b7f5-7c1e496e52f0/mza_10313759896593987045.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70154,
+    "name": "5 Dakikada Teknoloji Gündemi",
+    "streamUrl": "https://feeds.megaphone.fm/GOOIN9052529152",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/11/9c/9e/119c9eaa-159e-2d76-7a95-52806af6e061/mza_3960727210335580839.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70155,
+    "name": "Haftalık Güncelleme: Evrim Ağacı ile Haftalık Teknoloji Gündemi Üzerine Sohbetler",
+    "streamUrl": "https://evrimagaci.org/rss/podcast/8",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/5f/f5/655ff5d5-f438-f1b2-7c61-de47a7c57b8c/mza_16216734396111446603.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70156,
+    "name": "Teknoloji ve İnovasyon",
+    "streamUrl": "https://www.spreaker.com/show/4894181/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/69/de/77/69de7773-a828-da31-4d96-f2ca81deef85/mza_346320753637674311.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70157,
+    "name": "Derinden Teknoloji",
+    "streamUrl": "https://anchor.fm/s/26af53f4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/54/bf/0a/54bf0a70-b18b-a52e-93a1-1db5c50f252f/mza_7436008804008345194.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70158,
+    "name": "Ruhun Teknolojisi",
+    "streamUrl": "https://anchor.fm/s/1c0976dc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3a/07/c2/3a07c221-e450-d624-4f2f-b89cce218c16/mza_9866774663697141504.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70159,
+    "name": "Teknoloji Raporu",
+    "streamUrl": "https://podcast.yusufipek.me/@teknolojiraporu/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/6a/a3/636aa3b4-3533-b137-f766-cd8c63da55e9/mza_4377926718592065430.png/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70160,
+    "name": "Faruk Toprak ile Yapay Zeka ve Teknoloji",
+    "streamUrl": "https://anchor.fm/s/206e9b94/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/b4/a7/ceb4a744-c69f-84aa-9296-2cf1b3b6d679/mza_1709224717714884582.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70161,
+    "name": "Toplum ve Teknoloji",
+    "streamUrl": "https://feeds.transistor.fm/toplum-ve-teknoloji",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/53/4d/ef/534def86-007e-0f2f-7a3f-f99d5e5684ba/mza_12715448651091304212.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70162,
+    "name": "Arda Meriç'le Teknoloji Gündemi",
+    "streamUrl": "https://anchor.fm/s/1499c014/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/90/b4/8d/90b48d7f-165a-352f-904f-6ae548ec9610/mza_8887961682014651341.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70163,
+    "name": "Teknolojinin Şapkaları",
+    "streamUrl": "https://feeds.transistor.fm/teknolojinin-sapkalari",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f3/2a/e9/f32ae98e-72dc-aa8a-4333-f8ec664b36d7/mza_14019764045794148903.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70164,
+    "name": "Tarım Teknolojileri",
+    "streamUrl": "https://media.rss.com/tar-m-teknolojileri-min/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/e0/36/6fe03677-b371-bc39-e57c-1dcfaec514c7/mza_2044094777591642904.png/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70165,
+    "name": "T3 Podcast",
+    "streamUrl": "https://rss.buzzsprout.com/1798948.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1f/01/cd/1f01cd7e-900a-d799-5957-bc9225262644/mza_2697174542420493935.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70166,
+    "name": "SysArticles Günlük Teknoloji Bülteni",
+    "streamUrl": "https://sysarticles.com/feed/podcast-tr/",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9c/6a/1e/9c6a1e45-600d-a5e6-429a-b8f2c1c3dffb/mza_5028969341734850925.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70167,
+    "name": "Güncel Teknoloji",
+    "streamUrl": "https://guncelteknoloji.podomatic.com/rss2.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0d/6f/10/0d6f105d-cb33-022c-659d-400a79d13522/mza_8369957257242262251.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70168,
+    "name": "Teknolojinin Zaferi",
+    "streamUrl": "https://www.spreaker.com/show/5334133/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fe/24/fa/fe24fa10-0e8a-422a-06ad-cd6eddb3274a/mza_13016885088997295593.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70169,
+    "name": "Teknoloji Haberleri",
+    "streamUrl": "https://anchor.fm/s/469bef10/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/95/6a/6a/956a6a4b-214f-a5de-9fe2-4a83e767096c/mza_13523817971602797996.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70170,
+    "name": "Berbat Teknolojiler",
+    "streamUrl": "https://anchor.fm/s/10a81a6cc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/38/a7/d0/38a7d03f-9f66-92af-0723-69a6e2f346f7/mza_10672284289377105150.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70171,
+    "name": "Bilişim Sistemleri ve Teknolojileri Bölümü / Yeditepe Üniversitesi",
+    "streamUrl": "https://feeds.megaphone.fm/PFC3075641267",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/df/e6/fa/dfe6fa55-499c-7680-d3f9-f9079c57f223/mza_10929886978388210693.jpeg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70172,
+    "name": "Startup Teknoloji",
+    "streamUrl": "https://anchor.fm/s/4daa542c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3d/57/e8/3d57e84f-569f-2c61-4c35-31e149145fb9/mza_2223369442112847346.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70173,
+    "name": "Teknolojiden Anlamayan Kadın",
+    "streamUrl": "https://anchor.fm/s/5abe0208/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/74/b3/e6/74b3e6b4-5613-bb73-bd62-e636265bffc3/mza_14787090639447295654.jpg/600x600bb.jpg",
+    "category": "Komedi",
+    "isFavorite": false
+  },
+  {
+    "id": 70174,
+    "name": "Yüksek Teknoloji",
+    "streamUrl": "https://anchor.fm/s/197c70a4/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a1/12/30/a112305c-bad5-d95e-0938-edac977dc283/mza_5547304245754369067.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70175,
+    "name": "M.T.G.A. - Teknoloji.org",
+    "streamUrl": "https://anchor.fm/s/b449b344/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/c2/6b/b6/c26bb68f-cb66-75a5-1d4c-d396b4228dad/mza_5455342131866903544.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70176,
+    "name": "Laf Aramızda Teknoloji",
+    "streamUrl": "https://anchor.fm/s/ba7562e0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2d/88/ca/2d88ca77-8b4d-58f6-9ad4-d22c4bdda17b/mza_2323850448017903787.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70177,
+    "name": "Spor Teknolojileri",
+    "streamUrl": "https://anchor.fm/s/7206ce7c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/16/f8/b3/16f8b3a4-9849-3bf5-d7b5-7cbe0fd6b5da/mza_17128431884983479287.jpg/600x600bb.jpg",
+    "category": "Spor",
+    "isFavorite": false
+  },
+  {
+    "id": 70178,
+    "name": "Pazar Teknolojisi",
+    "streamUrl": "https://anchor.fm/s/10bb6c914/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/cd/e1/85/cde18530-c3f5-a560-2d3e-6e2af9d65292/1b8de69b-bfb4-4d1f-ac10-93bdf88316dd.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70179,
+    "name": "Deniz Kılıç İle Bilim Ve Teknoloji",
+    "streamUrl": "https://anchor.fm/s/bfdfb230/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/e5/48/26/e5482696-0d02-7153-2408-af1bd75a2e72/mza_10367600213721578109.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70180,
+    "name": "Teknoloji ile Ben",
+    "streamUrl": "https://anchor.fm/s/3b49ee00/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c8/09/3c/c8093c08-52ba-5ac3-df06-a926e3f11813/mza_9454620306644315795.jpg/600x600bb.jpg",
+    "category": "İş & Finans",
+    "isFavorite": false
+  },
+  {
+    "id": 70181,
+    "name": "Teknoloji ve Hayat",
+    "streamUrl": "https://anchor.fm/s/70c6500/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/3e/0f/7c/3e0f7cd4-9e0c-26f9-5dcd-dfcc7311acaf/mza_9610707448294841869.jpg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70182,
+    "name": "Teknoloji Transfer Ofisi / Yeditepe Üniversitesi",
+    "streamUrl": "https://feeds.megaphone.fm/PFC9499046470",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4f/8b/4f/4f8b4f19-bcea-a29b-0f65-63aa528a32c4/mza_18280266310754592027.jpeg/600x600bb.jpg",
+    "category": "Eğitim",
+    "isFavorite": false
+  },
+  {
+    "id": 70183,
+    "name": "Teknoloji Akşamı (canlı)",
+    "streamUrl": "https://media.rss.com/sarpkarabulut/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/36/35/cf/3635cfff-50e7-958c-ba76-5ecdfeba6bd7/mza_8214163429840253997.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70184,
+    "name": "Haftalık Teknoloji Haberleri | Teknorex",
+    "streamUrl": "https://anchor.fm/s/3df43f70/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/2c/5c/a3/2c5ca38a-606b-ff78-d672-9e344432ee10/mza_3935545512071272937.jpg/600x600bb.jpg",
+    "category": "Gündem",
+    "isFavorite": false
+  },
+  {
+    "id": 70185,
+    "name": "Sesli Kitap Dünyası",
+    "streamUrl": "https://anchor.fm/s/dd6c2ec8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/d8/8e/f9d88e72-8ddd-85e9-2eea-d8b324a9d36e/mza_1686025996606167794.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70186,
+    "name": "Sesli Kitap Dinle",
+    "streamUrl": "https://anchor.fm/s/f9c4bd4c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/26/b1/e0/26b1e0b9-249c-f10d-5c6d-0aaff7c23b7f/mza_1262389626435330485.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70187,
+    "name": "Kitap Okuma Saati \"Sesli Kitap\"",
+    "streamUrl": "https://anchor.fm/s/6f23110c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b7/cd/c5/b7cdc56e-78ec-7f98-2943-411a6889a31a/mza_12449424973518378628.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70188,
+    "name": "Sesli Kitaplar",
+    "streamUrl": "https://feeds.soundcloud.com/users/soundcloud:users:942483907/sounds.rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/78/ef/06/78ef06e8-4cb7-a9f6-412b-bf2b6a4fe23a/mza_827668843169372474.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70189,
+    "name": "Kitaplığın Sesi Podcast",
+    "streamUrl": "https://feed.podbean.com/kitapliginsesi/feed.xml",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a4/22/78/a42278e1-1c34-ee64-a768-6b332949895a/mza_7990500122310066097.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70190,
+    "name": "Şeker Portakalı Kitap Seslendirmesi",
+    "streamUrl": "https://anchor.fm/s/436dfacc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b0/3b/e8/b03be854-6595-aad8-9e56-0136f8782a7a/mza_7351495037731082427.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70191,
+    "name": "Kitap Özetist",
+    "streamUrl": "https://anchor.fm/s/10d63f1ec/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b0/c3/a7/b0c3a79d-4fea-21a9-fd64-d8e0747fdcd9/mza_12672047022389360284.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70192,
+    "name": "101 Konsept Sesli Kitap",
+    "streamUrl": "https://anchor.fm/s/2b32f5c0/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d5/6b/ae/d56baec7-a2e7-cdd2-82be-dcd905fb03ea/mza_9048616189318575388.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70193,
+    "name": "Kitap Okumaları Podcast",
+    "streamUrl": "https://www.spreaker.com/show/6891094/episodes/feed",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/33/22/93/3322932b-9127-7de5-d3a6-37b5801f098f/mza_5549171818388242240.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70194,
+    "name": "Bin Kitap Bin Yorum",
+    "streamUrl": "https://anchor.fm/s/4b4c624c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4f/44/e6/4f44e6f6-f5d2-554f-6b06-e4683bbfe9dd/mza_2902910266756968695.jpeg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70195,
+    "name": "Küçük Prens Kitap Seslendirmesi",
+    "streamUrl": "https://anchor.fm/s/1ef3488c/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/fb/f5/98/fbf598b2-9f29-acce-c415-594036b4d866/mza_10567812399345539400.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70196,
+    "name": "Kitaplar, Filmler, Düşünceler, Psikoloji, Felsefe",
+    "streamUrl": "https://anchor.fm/s/140265fc/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/3d/75/3d/3d753d88-e8dc-466a-8998-aeaec8f89970/mza_13366365889092204067.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70197,
+    "name": "Ben bi kitap okudum",
+    "streamUrl": "https://anchor.fm/s/f9fd5aa8/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a9/fd/11/a9fd11a6-8475-3d40-4383-d311c5035d6e/mza_7291008196342077168.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70198,
+    "name": "Çizgili Pijamalı Çocuk Kitap Seslendirmesi",
+    "streamUrl": "https://anchor.fm/s/6676da70/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/58/70/84/587084e6-fa2d-06a9-c9ff-2308a5af4ca8/mza_2868176875020671295.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  },
+  {
+    "id": 70199,
+    "name": "Kitapların Sesi- Sesli kitap",
+    "streamUrl": "https://anchor.fm/s/66016100/podcast/rss",
+    "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b9/c7/65/b9c76519-bba4-5905-3d72-bab9abb6343b/mza_18200007494168983475.jpg/600x600bb.jpg",
+    "category": "Kültür & Sanat",
+    "isFavorite": false
+  }
+]
